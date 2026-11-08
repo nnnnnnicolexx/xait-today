@@ -1,0 +1,874 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a6097510b894cd75b47165a9",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c30b2952319d5f284fa99516",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-d3a389f2d6f39f001f51385d",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "google/skills",
+      "url": "https://github.com/google/skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a995c524e162e5954b7a5664",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9b8b9d748d03f63f9cb5eb52",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8d288e076e2711212f4f04f0",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "meta/astryx",
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-61fd0a858cbf6c13ca0248e0",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-385e3bd68e032f9d71647750",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-146f4f4131b0d1f31545ed7f",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c7d32d7f9ea726333463f51e",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8bedabdc0a7e06f6ebf1a33a",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1864b3f1b84af1d6c1e30761",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mbillow/localthings",
+      "url": "https://github.com/mbillow/localthings"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-e66d46be0b85e85579ba9f35",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-3a936102228d63dc5157712b",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-56f7554327b4b93e756d5264",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-94ff0057cb23ec15a2b4c157",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "govijr/terminal-mac",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-6ed9d69231d03cd9b6678429",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-14831b6e5e7907cc37cc4213",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4e7c1404f17be0a92db88d04",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "livliv-dev/player",
+      "url": "https://github.com/livliv-dev/player"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-baf1ce258f2bfd3ebe6b49ee",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "mmdoctor/google-pro-helper",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8e5083f5e97fa31017e9a1e2",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Sandflow-ai/sand3d",
+      "url": "https://github.com/Sandflow-ai/sand3d"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-996f2555f88ee6b5b0ae428b",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "voyager-so/vork",
+      "url": "https://github.com/voyager-so/vork"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-657c384fcf61ffe74e1c8dc5",
+      "publishedAt": "2026-11-07T18:02:17Z",
+      "sourceId": "hacker-news",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-1cb557267df1c719f93b214b",
+      "publishedAt": "2026-11-07T20:45:32Z",
+      "sourceId": "hacker-news",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-632dc6b735257006266bb3fd",
+      "publishedAt": "2026-11-05T18:59:29Z",
+      "sourceId": "arxiv",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "url": "https://arxiv.org/abs/2611.08483v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e91e8299270a7e9d4ecb7eae",
+      "publishedAt": "2026-11-05T18:58:17Z",
+      "sourceId": "arxiv",
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "url": "https://arxiv.org/abs/2611.08478v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-443e9817ac613463b8dd6e84",
+      "publishedAt": "2026-11-05T18:55:54Z",
+      "sourceId": "arxiv",
+      "title": "XStack: A Benchmark for ML Repo Migration",
+      "url": "https://arxiv.org/abs/2611.08472v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-2787d8750755267f7e1f95eb",
+      "publishedAt": "2026-11-05T18:55:31Z",
+      "sourceId": "arxiv",
+      "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+      "url": "https://arxiv.org/abs/2611.08469v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-0b86a45855b3735273efdee6",
+      "publishedAt": "2026-11-05T18:54:40Z",
+      "sourceId": "arxiv",
+      "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+      "url": "https://arxiv.org/abs/2611.08465v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-b0cd2d596ad1abe3a50f7002",
+      "publishedAt": "2026-11-05T18:47:05Z",
+      "sourceId": "arxiv",
+      "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
+      "url": "https://arxiv.org/abs/2611.08453v1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-96dcb22ea24f23d73569e40d",
+      "publishedAt": "2026-11-03T05:54:00-08:00",
+      "sourceId": "product-hunt",
+      "title": "kayet",
+      "url": "https://www.producthunt.com/products/kayet"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-34003e8eafac592e56e99763",
+      "publishedAt": "2026-10-21T08:22:29-07:00",
+      "sourceId": "product-hunt",
+      "title": "Quest",
+      "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-736cb82931819689ff67246f",
+      "publishedAt": "2026-11-05T09:10:35-08:00",
+      "sourceId": "product-hunt",
+      "title": "Google Omni 1.2 Flash",
+      "url": "https://www.producthunt.com/products/google-omni-1-2-flash"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-2ad33ddc088c59e62b1e71a7",
+      "publishedAt": "2026-11-05T09:12:40-08:00",
+      "sourceId": "product-hunt",
+      "title": "GPT‑6 Cyber",
+      "url": "https://www.producthunt.com/products/openai"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-1d24cf3dbbe7db843f3f00b0",
+      "publishedAt": "2026-11-03T08:55:01-08:00",
+      "sourceId": "product-hunt",
+      "title": "Sendoff",
+      "url": "https://www.producthunt.com/products/sendoff-2"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-f422a142e4f3a9e51f051238",
+      "publishedAt": "2026-10-31T15:13:34-07:00",
+      "sourceId": "product-hunt",
+      "title": "Standflow",
+      "url": "https://www.producthunt.com/products/standflow"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-2c0352ff1bf0ce5dc75f35e9",
+      "publishedAt": "2026-11-03T04:41:45-08:00",
+      "sourceId": "product-hunt",
+      "title": "Fleeep",
+      "url": "https://www.producthunt.com/products/fleeep"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-08T08:49:23+08:00",
+      "dateEvidence": "exact",
+      "id": "article-b7ec58f21d081e5406aa13a3",
+      "publishedAt": "2026-10-22T04:54:24-07:00",
+      "sourceId": "product-hunt",
+      "title": "PacerTrip",
+      "url": "https://www.producthunt.com/products/pacertrip"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-08T08:49:25+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9d4e3bf14227dd6c609ef250",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Censys finds 800+ publicly exposed copies of ARTEX, a Chinese-made, AI-powered, open-source penetration testing tool linked to several cyberattacks since July",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-08T08:49:25+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1992be764c50d9acff443a33",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-08T08:49:25+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ed841566d94ba9f9733555c7",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees “shaky” projects killed",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-06/data-center-pullback-may-shield-real-economy-from-ai-bubble"
+    }
+  ],
+  "date": "2026-11-08",
+  "edition": {
+    "windowEnd": "2026-11-08T08:45:00+08:00",
+    "windowStart": "2026-11-07T08:45:00+08:00"
+  },
+  "generatedAt": "2026-11-08T08:49:26+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-11-08T08:48:37+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-08T08:48:37+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "vercel-labs/agent-browser",
+            "url": "https://github.com/vercel-labs/agent-browser"
+          },
+          "Rust",
+          "190",
+          "Browser automation CLI for AI agents"
+        ],
+        [
+          {
+            "text": "cloudflare/security-audit-skill",
+            "url": "https://github.com/cloudflare/security-audit-skill"
+          },
+          "JavaScript",
+          "2,085",
+          "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+        ],
+        [
+          {
+            "text": "google/skills",
+            "url": "https://github.com/google/skills"
+          },
+          "Python",
+          "443",
+          "Agent Skills for Google products and technologies"
+        ],
+        [
+          {
+            "text": "mattpocock/skills",
+            "url": "https://github.com/mattpocock/skills"
+          },
+          "Shell",
+          "1,100",
+          "Skills for Real Engineers. Straight from my .agents directory."
+        ],
+        [
+          {
+            "text": "anthropics/skills",
+            "url": "https://github.com/anthropics/skills"
+          },
+          "Python",
+          "390",
+          "Public repository for Agent Skills"
+        ],
+        [
+          {
+            "text": "meta/astryx",
+            "url": "https://github.com/meta/astryx"
+          },
+          "TypeScript",
+          "96",
+          "An open source design system that's fully customizable and agent ready"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "KKKKhazix/agent-autoloop",
+            "url": "https://github.com/KKKKhazix/agent-autoloop"
+          },
+          "TypeScript",
+          "3960",
+          "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
+        ],
+        [
+          {
+            "text": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+            "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+          },
+          "Python",
+          "3056",
+          "Google_AI_Pro_2Year_ZeroCost_Auto"
+        ],
+        [
+          {
+            "text": "Minireel/HGhub",
+            "url": "https://github.com/Minireel/HGhub"
+          },
+          "TypeScript",
+          "2312",
+          "YellowFruit third-party client"
+        ],
+        [
+          {
+            "text": "govijr/terminal-mac",
+            "url": "https://github.com/govijr/terminal-mac"
+          },
+          "Swift",
+          "2243",
+          "Entire MacOS running in your terminal."
+        ],
+        [
+          {
+            "text": "NotRexed/Hookshot",
+            "url": "https://github.com/NotRexed/Hookshot"
+          },
+          "C++",
+          "1830",
+          "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake"
+        ],
+        [
+          {
+            "text": "JenkinWoo/sheeridVerify",
+            "url": "https://github.com/JenkinWoo/sheeridVerify"
+          },
+          "JavaScript",
+          "1664",
+          "未提供"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-11-08 · 353 互动/积分 · 205 评论",
+          "title": "The end of Microsoft Research's AI Frontiers group",
+          "url": "https://hunch.net/?p=13764006"
+        },
+        {
+          "meta": "发布 2026-11-08 · 140 互动/积分 · 101 评论",
+          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-11-06",
+          "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+          "url": "https://arxiv.org/abs/2611.08483v1"
+        },
+        {
+          "meta": "发布 2026-11-06",
+          "title": "Scientist World: Grow a Research World for AI-Scientists",
+          "url": "https://arxiv.org/abs/2611.08478v1"
+        },
+        {
+          "meta": "发布 2026-11-06",
+          "title": "XStack: A Benchmark for ML Repo Migration",
+          "url": "https://arxiv.org/abs/2611.08472v1"
+        },
+        {
+          "meta": "发布 2026-11-06",
+          "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+          "url": "https://arxiv.org/abs/2611.08469v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-11-03",
+          "title": "kayet",
+          "url": "https://www.producthunt.com/products/kayet"
+        },
+        {
+          "meta": "发布 2026-10-21",
+          "title": "Quest",
+          "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279"
+        },
+        {
+          "meta": "发布 2026-11-06",
+          "title": "Google Omni 1.2 Flash",
+          "url": "https://www.producthunt.com/products/google-omni-1-2-flash"
+        },
+        {
+          "meta": "发布 2026-11-06",
+          "title": "GPT‑6 Cyber",
+          "url": "https://www.producthunt.com/products/openai"
+        },
+        {
+          "meta": "发布 2026-11-04",
+          "title": "Sendoff",
+          "url": "https://www.producthunt.com/products/sendoff-2"
+        },
+        {
+          "meta": "发布 2026-11-01",
+          "title": "Standflow",
+          "url": "https://www.producthunt.com/products/standflow"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Censys finds 800+ publicly exposed copies of ARTEX, a Chinese-made, AI-powered, open-source penetration testing tool linked to several cyberattacks since July",
+          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees “shaky” projects killed",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-06/data-center-pullback-may-shield-real-economy-from-ai-bubble"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "product-hunt-ranking",
+      "items": [
+        {
+          "description": "Turn your website into an AI agent that sells to AI agents",
+          "rank": 1,
+          "title": "Tobira Site Agent"
+        },
+        {
+          "description": "Grok Bot alternative that runs on your AI, completely free",
+          "rank": 2,
+          "title": "Turnstone"
+        },
+        {
+          "description": "The SEO/GEO operating system, built for people and AI agents",
+          "rank": 3,
+          "title": "Rankfender v3.0"
+        },
+        {
+          "description": "Control your Mac’s volume and brightness from the trackpad",
+          "rank": 4,
+          "title": "EdgeBar"
+        },
+        {
+          "description": "Turn any spreadsheet into a data story in seconds",
+          "rank": 5,
+          "title": "Datastripes Data Stories"
+        },
+        {
+          "description": "multitasking terminal for AI coding agents, built for macOS",
+          "rank": 6,
+          "title": "crystl"
+        },
+        {
+          "description": "Give your keyboard and mouse any sound you like",
+          "rank": 7,
+          "title": "Mechvibes 3"
+        },
+        {
+          "description": "The AI engineer for your production issues",
+          "rank": 8,
+          "title": "TraceX"
+        },
+        {
+          "description": "Custom cursors for Mac",
+          "rank": 9,
+          "title": "Cursor Craft"
+        },
+        {
+          "description": "Your private memory for every conversation",
+          "rank": 10,
+          "title": "Pauta"
+        }
+      ],
+      "kind": "links",
+      "ranking": {
+        "captureMethod": "public-page",
+        "capturedAt": "2026-11-08T08:49:20+08:00",
+        "date": "2026-11-06",
+        "scope": "featured",
+        "timezone": "America/Los_Angeles",
+        "url": "https://www.producthunt.com/leaderboard/daily/2026/11/06"
+      },
+      "title": "🏆 Product Hunt · 热门产品 Top 10"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-11-08T08:49:23+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-11-08T08:49:23+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-08T08:49:23+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-11-08T08:49:23+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-08T08:49:23+08:00",
+      "id": "hacker-news",
+      "itemCount": 2,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-11-08T08:49:23+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-08T08:49:23+08:00",
+      "id": "arxiv",
+      "itemCount": 6,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": "2026-11-08T08:49:23+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-08T08:49:23+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-11-08T08:49:23+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-08T08:49:23+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-11-08T08:49:23+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-08T08:49:25+08:00",
+      "id": "techmeme",
+      "itemCount": 3,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-11-08T08:49:25+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-08T08:49:20+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 10,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": "2026-11-08T08:49:20+08:00",
+      "message": "已核验官方公开日榜的完整 Top 10",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-08T08:48:37+08:00",
+      "id": "wechat-appso",
+      "itemCount": 0,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-11-08T08:48:37+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-08T08:48:37+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 0,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-11-08T08:48:37+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-08T08:48:37+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-11-08T08:48:37+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-08T08:48:37+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 0,
+      "label": "花叔",
+      "lastSuccessAt": "2026-11-08T08:48:37+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}
