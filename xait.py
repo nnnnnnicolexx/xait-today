@@ -38,7 +38,7 @@ TEMPLATE_PATH = ROOT / "site" / "templates" / "page.html"
 ASSETS_DIR = ROOT / "site" / "assets"
 I18N_DIR = ROOT / "site" / "i18n"
 DOCS_DIR = ROOT / "docs"
-PUBLIC_BASE_URL = "https://nicoleyang959.github.io/xait-today/"
+PUBLIC_BASE_URL = "https://nnnnnnicolexx.github.io/xait-today/"
 RECORDS_CONFIG_PATH = ROOT / "site" / "cloud-records.json"
 # The official deployment binding is public and active only on its exact origin.
 # Only public browser configuration belongs here; never put service credentials
@@ -49,7 +49,7 @@ OFFICIAL_RECORDS_BINDING = {
     "enabled": True,
     "supabaseUrl": "https://ldeuhfsjtjvurkodnaah.supabase.co",
     "publishableKey": "sb_publishable__1q4jirHouPgRnIOsVSQ4w_K1oYaL2L",
-    "redirectUrl": "https://nicoleyang959.github.io/xait-today/",
+    "redirectUrl": "https://nnnnnnicolexx.github.io/xait-today/",
 }
 RECORDS_TEMPLATE_PATH = ROOT / "site" / "templates" / "records.html"
 RECORDS_SW_PATH = ROOT / "site" / "sw.js"

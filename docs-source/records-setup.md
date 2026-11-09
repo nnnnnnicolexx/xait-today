@@ -74,7 +74,7 @@
 4. Supabase → Authentication → URL Configuration：Site URL 和精确的
    Redirect URLs 均设为：
 
-   `https://nicoleyang959.github.io/xait-today/`
+   `https://nnnnnnicolexx.github.io/xait-today/`
 
    生产环境不填写 `*` 或 `**`。GitHub 登录使用 PKCE，登录完成统一回首页，
    客户端交换认证 code 后立即清理地址栏认证参数，并恢复收藏意图或阅读位置。

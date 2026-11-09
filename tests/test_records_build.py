@@ -71,6 +71,7 @@ class RecordsBuildTests(unittest.TestCase):
         with self.config(disabled), patch.object(xait, "OFFICIAL_RECORDS_ENABLED", True):
             official = xait.records_config()
             self.assertEqual(xait.PUBLIC_BASE_URL, official["redirectUrl"])
+            self.assertEqual("https://nnnnnnicolexx.github.io/xait-today/", official["redirectUrl"])
             self.assertTrue(official["publishableKey"].startswith("sb_publishable_"))
 
     def test_strict_public_configuration_and_exact_csp(self):

@@ -6,7 +6,7 @@
 
 把重点公众号、开源项目、开发者讨论、论文与产品发现中的公开信号，整理成一份带来源状态、可继续核验的每日 AI 简报。
 
-[在线体验](https://nicoleyang959.github.io/xait-today/) · [本机部署](#本机部署) · [私密项目库](#私密项目库) · [数据边界](#数据与隐私边界)
+[在线体验](https://nnnnnnicolexx.github.io/xait-today/) · [本机部署](#本机部署) · [私密项目库](#私密项目库) · [数据边界](#数据与隐私边界)
 
 </div>
 
@@ -133,7 +133,7 @@ entries:
 ### macOS / Linux
 
 ```bash
-git clone https://github.com/nicoleyang959/xait-today.git
+git clone https://github.com/nnnnnnicolexx/xait-today.git
 cd xait-today
 python3 xait.py serve
 ```
@@ -147,7 +147,7 @@ http://127.0.0.1:8022/
 ### Windows
 
 ```powershell
-git clone https://github.com/nicoleyang959/xait-today.git
+git clone https://github.com/nnnnnnicolexx/xait-today.git
 cd xait-today
 py -3 xait.py serve
 ```
@@ -376,7 +376,7 @@ clone 仓库后，可以直接部署和重建仓库已经包含的公开内容�
 
 公开版本：
 
-<https://nicoleyang959.github.io/xait-today/>
+<https://nnnnnnicolexx.github.io/xait-today/>
 
 GitHub Pages 使用 `main` 分支中的 `/docs` 目录。
 
