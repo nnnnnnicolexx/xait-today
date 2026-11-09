@@ -2,17 +2,31 @@
   "accounts": [
     {
       "account": "APPSO",
-      "items": [],
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-11-09 · 采集时显示：48 分钟前 · 打开账号列表",
+          "title": "英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全...",
+          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+        }
+      ],
       "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
-      "status": "今日未检出新文章",
-      "statusTone": "quiet"
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
     },
     {
       "account": "数字生命卡兹克",
-      "items": [],
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-11-09 · 采集时显示：49 分钟前 · 打开账号列表",
+          "title": "我做了一个监控全网免费Token的网站，今天向所有人免费开放。",
+          "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+        }
+      ],
       "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
-      "status": "今日未检出新文章",
-      "statusTone": "quiet"
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
     },
     {
       "account": "智东西",
@@ -29,9 +43,9 @@
       "statusTone": "quiet"
     }
   ],
-  "capturedAt": "2026-11-08T08:48:37+08:00",
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T08:49:26+08:00",
+  "capturedAt": "2026-11-09T08:45:33+08:00",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T08:46:47+08:00",
   "schemaVersion": 1,
-  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-08T08:48:37+08:00；相对时间以该采集时刻为准。"
+  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-09T08:45:33+08:00；相对时间以该采集时刻为准。"
 }
