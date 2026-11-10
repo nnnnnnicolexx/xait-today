@@ -1,0 +1,869 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9b8b9d748d03f63f9cb5eb52",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8d288e076e2711212f4f04f0",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "meta/astryx",
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-385e3bd68e032f9d71647750",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f3cc283ea00a64a5f57a59e6",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-6533b704aae0d46e3f9a61bd",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-635965fa151478e5a418471d",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a6097510b894cd75b47165a9",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-36650bc603317572d60332b4",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-3b167360b533accfc4ffca41",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-556cf0d50ac68d1c190a3d6f",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-146f4f4131b0d1f31545ed7f",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-6ed9d69231d03cd9b6678429",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-280d390d7ade81e75a4b96a9",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-14831b6e5e7907cc37cc4213",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1253a84781da16f4a19b3d7e",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f2a4fa72fda06f31d3b7d750",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a010df4a4fcbd0466935efe1",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "IainKay/ram-altman",
+      "url": "https://github.com/IainKay/ram-altman"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a10d14cf459f601095ead091",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "DIYgod/pinky",
+      "url": "https://github.com/DIYgod/pinky"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-baf1ce258f2bfd3ebe6b49ee",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "mmdoctor/google-pro-helper",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4e7c1404f17be0a92db88d04",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "livliv-dev/player",
+      "url": "https://github.com/livliv-dev/player"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-996f2555f88ee6b5b0ae428b",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "voyager-so/vork",
+      "url": "https://github.com/voyager-so/vork"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-2ed16df536695655f6440a60",
+      "publishedAt": "2026-11-09T18:56:29Z",
+      "sourceId": "hacker-news",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-d5958a48748316a05afa5be0",
+      "publishedAt": "2026-11-09T20:04:55Z",
+      "sourceId": "hacker-news",
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-b7fdf7622a0d6212bdf9e1f4",
+      "publishedAt": "2026-11-09T22:19:12Z",
+      "sourceId": "hacker-news",
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-7f55fe0bf706f24159480add",
+      "publishedAt": "2026-11-09T18:05:44Z",
+      "sourceId": "hacker-news",
+      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "url": "https://github.com/Dodaios/ste80-humanizer"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8b6e2d1f45506b3c133190c4",
+      "publishedAt": "2026-11-06T18:59:34Z",
+      "sourceId": "arxiv",
+      "title": "On Agentic Manipulation Policies",
+      "url": "https://arxiv.org/abs/2611.09892v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-4d429207a7e9fe586510cbaa",
+      "publishedAt": "2026-11-06T18:58:50Z",
+      "sourceId": "arxiv",
+      "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+      "url": "https://arxiv.org/abs/2611.09891v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-f33315616f0492df8ea2d917",
+      "publishedAt": "2026-11-06T18:49:02Z",
+      "sourceId": "arxiv",
+      "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.09872v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-70c462b471198a68ee6d04ea",
+      "publishedAt": "2026-11-06T18:48:04Z",
+      "sourceId": "arxiv",
+      "title": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
+      "url": "https://arxiv.org/abs/2611.09868v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e8fb27ff11d4fd5658c56558",
+      "publishedAt": "2026-11-06T18:47:23Z",
+      "sourceId": "arxiv",
+      "title": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+      "url": "https://arxiv.org/abs/2611.09866v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-08c3e3f890efd224f2d7d64c",
+      "publishedAt": "2026-11-06T18:44:33Z",
+      "sourceId": "arxiv",
+      "title": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+      "url": "https://arxiv.org/abs/2611.09864v1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-ecf55cad8452aab288a8818d",
+      "publishedAt": "2026-11-03T02:49:37-08:00",
+      "sourceId": "product-hunt",
+      "title": "Dageno AI 2.0",
+      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8822794b87b431bb8c72baec",
+      "publishedAt": "2026-10-28T11:27:44-07:00",
+      "sourceId": "product-hunt",
+      "title": "ProtoMap",
+      "url": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-152847b8d773128e21ecfe5c",
+      "publishedAt": "2026-11-06T05:13:56-08:00",
+      "sourceId": "product-hunt",
+      "title": "MCP1",
+      "url": "https://www.producthunt.com/products/appwrite"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-fe99f99f984a8ee5a0a41b7d",
+      "publishedAt": "2026-11-02T03:48:42-08:00",
+      "sourceId": "product-hunt",
+      "title": "Pawse.ai",
+      "url": "https://www.producthunt.com/products/pawse-ai"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-5138596dfc3cbe2eeed87426",
+      "publishedAt": "2026-10-27T21:13:10-07:00",
+      "sourceId": "product-hunt",
+      "title": "Watchflows",
+      "url": "https://www.producthunt.com/products/watchflows"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-2bd4e09cc421649565458277",
+      "publishedAt": "2026-11-06T08:47:29-08:00",
+      "sourceId": "product-hunt",
+      "title": "If You Read This",
+      "url": "https://www.producthunt.com/products/if-you-read-this"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8e0e866b885fd18e9135926c",
+      "publishedAt": "2026-11-06T00:39:34-08:00",
+      "sourceId": "product-hunt",
+      "title": "Flic Cue",
+      "url": "https://www.producthunt.com/products/flic-cue"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-10T08:45:52+08:00",
+      "dateEvidence": "exact",
+      "id": "article-d3061e5ab49db42ec6f3ba49",
+      "publishedAt": "2026-11-07T10:28:56-08:00",
+      "sourceId": "product-hunt",
+      "title": "Higgsfield Miracle",
+      "url": "https://www.producthunt.com/products/higgsfield"
+    }
+  ],
+  "date": "2026-11-10",
+  "edition": {
+    "windowEnd": "2026-11-10T08:45:00+08:00",
+    "windowStart": "2026-11-09T08:45:00+08:00"
+  },
+  "generatedAt": "2026-11-10T08:45:59+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-10 · 采集时显示：45 分钟前 · 打开账号列表",
+              "title": "英伟达逆势大跌，一夜蒸发1.29万亿元/苹果国行AI备案新增iPad和Mac/千问办公2.0发布",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-11-10 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 2 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-10 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "实测Claude Fable 5.2 - 审美与细节的绝对统治。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-10 · 采集时显示：41 分钟前 · 打开账号列表",
+              "title": "连改20轮还是同一个人！Seedream5.5稳了（附GIF表情包教程）",
+              "url": "https://www.jintiankansha.com/column/4hWcR0mvAj"
+            }
+          ],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        }
+      ],
+      "capturedAt": "2026-11-10T08:43:06+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-10T08:43:06+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "anthropics/skills",
+            "url": "https://github.com/anthropics/skills"
+          },
+          "Python",
+          "1,038",
+          "Public repository for Agent Skills"
+        ],
+        [
+          {
+            "text": "meta/astryx",
+            "url": "https://github.com/meta/astryx"
+          },
+          "TypeScript",
+          "3,278",
+          "An open source design system that's fully customizable and agent ready"
+        ],
+        [
+          {
+            "text": "sherlock-project/sherlock",
+            "url": "https://github.com/sherlock-project/sherlock"
+          },
+          "Python",
+          "4,267",
+          "Hunt down social media accounts by username across social networks"
+        ],
+        [
+          {
+            "text": "google-deepmind/mujoco",
+            "url": "https://github.com/google-deepmind/mujoco"
+          },
+          "C++",
+          "574",
+          "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+        ],
+        [
+          {
+            "text": "anthropics/claude-quickstarts",
+            "url": "https://github.com/anthropics/claude-quickstarts"
+          },
+          "Python",
+          "551",
+          "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+        ],
+        [
+          {
+            "text": "garrytan/gbrain",
+            "url": "https://github.com/garrytan/gbrain"
+          },
+          "TypeScript",
+          "216",
+          "Garry's Opinionated OpenClaw/Hermes Agent Brain"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "NotRexed/Hookshot",
+            "url": "https://github.com/NotRexed/Hookshot"
+          },
+          "C++",
+          "5031",
+          "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake"
+        ],
+        [
+          {
+            "text": "tangerineturtle1/NX2navi",
+            "url": "https://github.com/tangerineturtle1/NX2navi"
+          },
+          "C",
+          "2385",
+          "未提供"
+        ],
+        [
+          {
+            "text": "JenkinWoo/sheeridVerify",
+            "url": "https://github.com/JenkinWoo/sheeridVerify"
+          },
+          "JavaScript",
+          "1927",
+          "未提供"
+        ],
+        [
+          {
+            "text": "jhaizhou-ops/S2Arm",
+            "url": "https://github.com/jhaizhou-ops/S2Arm"
+          },
+          "C#",
+          "1771",
+          "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你"
+        ],
+        [
+          {
+            "text": "huamidev/GestaltX",
+            "url": "https://github.com/huamidev/GestaltX"
+          },
+          "Swift",
+          "1612",
+          "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages."
+        ],
+        [
+          {
+            "text": "IainKay/ram-altman",
+            "url": "https://github.com/IainKay/ram-altman"
+          },
+          "Shell",
+          "1438",
+          "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI."
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-11-10 · 893 互动/积分 · 542 评论",
+          "title": "Claude Fable 5.2 and Mythos 5.2",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "meta": "发布 2026-11-10 · 267 互动/积分 · 188 评论",
+          "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+        },
+        {
+          "meta": "发布 2026-11-10 · 80 互动/积分 · 83 评论",
+          "title": "A year after the 100% AI mandate nobody understands our code",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
+        },
+        {
+          "meta": "发布 2026-11-10 · 50 互动/积分 · 12 评论",
+          "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+          "url": "https://github.com/Dodaios/ste80-humanizer"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-11-07",
+          "title": "On Agentic Manipulation Policies",
+          "url": "https://arxiv.org/abs/2611.09892v1"
+        },
+        {
+          "meta": "发布 2026-11-07",
+          "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+          "url": "https://arxiv.org/abs/2611.09891v1"
+        },
+        {
+          "meta": "发布 2026-11-07",
+          "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2611.09872v1"
+        },
+        {
+          "meta": "发布 2026-11-07",
+          "title": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
+          "url": "https://arxiv.org/abs/2611.09868v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-11-03",
+          "title": "Dageno AI 2.0",
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno"
+        },
+        {
+          "meta": "发布 2026-10-29",
+          "title": "ProtoMap",
+          "url": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2"
+        },
+        {
+          "meta": "发布 2026-11-06",
+          "title": "MCP1",
+          "url": "https://www.producthunt.com/products/appwrite"
+        },
+        {
+          "meta": "发布 2026-11-02",
+          "title": "Pawse.ai",
+          "url": "https://www.producthunt.com/products/pawse-ai"
+        },
+        {
+          "meta": "发布 2026-10-28",
+          "title": "Watchflows",
+          "url": "https://www.producthunt.com/products/watchflows"
+        },
+        {
+          "meta": "发布 2026-11-07",
+          "title": "If You Read This",
+          "url": "https://www.producthunt.com/products/if-you-read-this"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    },
+    {
+      "id": "product-hunt-ranking",
+      "items": [
+        {
+          "description": "GTM copilot for AI product founders: 1,200+ actions via MCP",
+          "rank": 1,
+          "title": "AXL"
+        },
+        {
+          "description": "Turn live talk into structured data and instant actions",
+          "rank": 2,
+          "title": "Sage2 by Levanto Labs"
+        },
+        {
+          "description": "A model that can see and refine what it builds",
+          "rank": 3,
+          "title": "Inkling 2 Small"
+        },
+        {
+          "description": "Which Meaning Owns the Word?",
+          "rank": 4,
+          "title": "Deduplication"
+        },
+        {
+          "description": "Your AI agent's own Mac, billed per minute. No subscription",
+          "rank": 5,
+          "title": "NoMac"
+        },
+        {
+          "description": "Slack and Discord bot that answers your customers questions",
+          "rank": 6,
+          "title": "DocsAlot for customer support"
+        },
+        {
+          "description": "Mac Screenshot Manager & Notch Shelf",
+          "rank": 7,
+          "title": "Archie"
+        },
+        {
+          "description": "The polished, native Mac browser for life after Arc",
+          "rank": 8,
+          "title": "Zigzag Browser"
+        },
+        {
+          "description": "A free live outage feed for your agents",
+          "rank": 9,
+          "title": "outages.live"
+        },
+        {
+          "description": "Command your Claude Code and Codex agents with gestures",
+          "rank": 10,
+          "title": "Agent Clan"
+        }
+      ],
+      "kind": "links",
+      "ranking": {
+        "captureMethod": "public-page",
+        "capturedAt": "2026-11-10T08:45:48+08:00",
+        "date": "2026-11-08",
+        "scope": "featured",
+        "timezone": "America/Los_Angeles",
+        "url": "https://www.producthunt.com/leaderboard/daily/2026/11/08"
+      },
+      "title": "🏆 Product Hunt · 热门产品 Top 10"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-11-10T08:45:52+08:00",
+      "id": "github-trending",
+      "itemCount": 11,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-11-10T08:45:52+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-10T08:45:52+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-11-10T08:45:52+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-10T08:45:52+08:00",
+      "id": "hacker-news",
+      "itemCount": 4,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-11-10T08:45:52+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-10T08:45:52+08:00",
+      "id": "arxiv",
+      "itemCount": 6,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": "2026-11-10T08:45:52+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-10T08:45:52+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-11-10T08:45:52+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-10T08:45:52+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-11-10T08:45:52+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-10T08:45:59+08:00",
+      "id": "techmeme",
+      "itemCount": 0,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-11-10T08:45:59+08:00",
+      "message": "未检出符合条件的内容",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-10T08:45:48+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 10,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": "2026-11-10T08:45:48+08:00",
+      "message": "已核验官方公开日榜的完整 Top 10",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-10T08:43:06+08:00",
+      "id": "wechat-appso",
+      "itemCount": 2,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-11-10T08:43:06+08:00",
+      "message": "今日 2 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-10T08:43:06+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 1,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-11-10T08:43:06+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-10T08:43:06+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-11-10T08:43:06+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-10T08:43:06+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 1,
+      "label": "花叔",
+      "lastSuccessAt": "2026-11-10T08:43:06+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

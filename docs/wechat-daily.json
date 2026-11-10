@@ -5,13 +5,19 @@
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-09 · 采集时显示：48 分钟前 · 打开账号列表",
-          "title": "英伟达遭大劫案，超7600万元芯片被盗/曝苹果CEO对AI进度不满/男子考驾照戴AI眼镜作弊多选题全...",
+          "meta": "2026-11-10 · 采集时显示：45 分钟前 · 打开账号列表",
+          "title": "英伟达逆势大跌，一夜蒸发1.29万亿元/苹果国行AI备案新增iPad和Mac/千问办公2.0发布",
+          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-11-10 · 采集时显示：2 小时前 · 打开账号列表",
+          "title": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
           "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
         }
       ],
       "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
-      "status": "今日 1 篇",
+      "status": "今日 2 篇",
       "statusTone": "fresh"
     },
     {
@@ -19,8 +25,8 @@
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-09 · 采集时显示：49 分钟前 · 打开账号列表",
-          "title": "我做了一个监控全网免费Token的网站，今天向所有人免费开放。",
+          "meta": "2026-11-10 · 采集时显示：1小时前 · 打开账号列表",
+          "title": "实测Claude Fable 5.2 - 审美与细节的绝对统治。",
           "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
         }
       ],
@@ -37,15 +43,22 @@
     },
     {
       "account": "花叔",
-      "items": [],
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-11-10 · 采集时显示：41 分钟前 · 打开账号列表",
+          "title": "连改20轮还是同一个人！Seedream5.5稳了（附GIF表情包教程）",
+          "url": "https://www.jintiankansha.com/column/4hWcR0mvAj"
+        }
+      ],
       "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
-      "status": "今日未检出新文章",
-      "statusTone": "quiet"
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
     }
   ],
-  "capturedAt": "2026-11-09T08:45:33+08:00",
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T08:46:47+08:00",
+  "capturedAt": "2026-11-10T08:43:06+08:00",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T08:45:59+08:00",
   "schemaVersion": 1,
-  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-09T08:45:33+08:00；相对时间以该采集时刻为准。"
+  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-10T08:43:06+08:00；相对时间以该采集时刻为准。"
 }
