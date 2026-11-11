@@ -421,6 +421,9 @@ html[lang="en"] .wechat-state, html[lang="en"] .social-status { max-width: 52%; 
 .ph-ranking-name { color: var(--text); font-weight: 700; line-height: 1.5; overflow-wrap: anywhere; }
 .ph-ranking-name a { color: var(--text); }
 .content .ph-ranking-description { margin: 3px 0 0; color: var(--text-soft); font-size: .86rem; line-height: 1.5; overflow-wrap: anywhere; }
+.ph-ranking-insights { display: flex; flex-wrap: wrap; gap: 3px 12px; margin-top: 5px; color: var(--text-soft); font-size: .78rem; line-height: 1.5; overflow-wrap: anywhere; }
+.ph-ranking-pick { color: var(--accent); font-weight: 600; }
+.ph-ranking-price time { white-space: nowrap; }
 .ph-ranking-points { color: var(--muted); font: .75rem/1.8 var(--font-mono); white-space: nowrap; }
 .ph-ranking-item > .translation-unavailable { grid-column: 2 / -1; justify-self: start; }
 #module-frontline-signals > .module-grid { grid-template-columns: minmax(0, 1fr); }

@@ -186,6 +186,16 @@ PRODUCT_HUNT_TITLE = "🚀 Product Hunt · 近期新品"
 PRODUCT_HUNT_RANKING_ID = "product-hunt-ranking"
 PRODUCT_HUNT_RANKING_TITLE = "🏆 Product Hunt · 热门产品 Top 10"
 PRODUCT_HUNT_RANKING_NOTE = "官方精选日榜，保留来源名次；积分为 Product Hunt 综合互动积分，不等同于点赞数。榜单日期不是产品发布日期。"
+PRODUCT_HUNT_EDITORIAL_CATEGORIES = {
+    "ai-coding": "AI 编程",
+    "ai-creative": "AI 创作",
+    "ai-workflows": "AI 工作流",
+}
+PRODUCT_HUNT_PRICING_TYPES = {
+    "free": "免费",
+    "free_options": "含免费选项（可能为试用）",
+    "payment_required": "付费",
+}
 SECTION_DISPLAY_LIMITS = {
     "github-trending": ("rows", 6),
     "weekly-high-stars": ("rows", 6),
@@ -515,10 +525,16 @@ def _validate_product_hunt_ranking(section: Dict[str, Any], path: str) -> None:
         raise XaitError("{0}.ranking.url 必须指向对应日期的 Product Hunt 官方日榜".format(path), EXIT_SECURITY)
     _strict_datetime(ranking["capturedAt"], path + ".ranking.capturedAt")
     items = _expect_array(section["items"], path + ".items", minimum=1, maximum=10)
+    enrichment_fields = {"editorialCategory", "pricingType", "priceCheckedAt"}
+    if len(items) != 10 and any(isinstance(item, dict) and enrichment_fields.intersection(item) for item in items):
+        raise XaitError("{0} 的 MCP 补充信息需要完整 Top 10".format(path))
     urls: Set[str] = set()
+    editorial_count = 0
     for index, raw_item in enumerate(items):
         item_path = "{0}.items[{1}]".format(path, index)
-        item = _expect_object(raw_item, item_path, {"title", "rank", "description"}, {"url", "points"})
+        item = _expect_object(raw_item, item_path, {"title", "rank", "description"}, {
+            "url", "points", "editorialCategory", "pricingType", "priceCheckedAt",
+        })
         _expect_string(item["title"], item_path + ".title")
         _expect_string(item["description"], item_path + ".description", allow_empty=True)
         rank = _expect_integer(item["rank"], item_path + ".rank", minimum=1)
@@ -538,6 +554,24 @@ def _validate_product_hunt_ranking(section: Dict[str, Any], path: str) -> None:
             urls.add(identity)
         if "points" in item:
             _expect_integer(item["points"], item_path + ".points", minimum=0)
+        if index >= 8 and enrichment_fields.intersection(item):
+            raise XaitError("{0} 的 MCP 补充信息仅允许已核对的前 8 名".format(item_path))
+        if "editorialCategory" in item:
+            if not isinstance(item["editorialCategory"], str) or item["editorialCategory"] not in PRODUCT_HUNT_EDITORIAL_CATEGORIES:
+                raise XaitError("{0}.editorialCategory 无效".format(item_path))
+            editorial_count += 1
+            if editorial_count > 3:
+                raise XaitError("{0} 的编辑精选最多 3 条".format(path))
+        if ("pricingType" in item) != ("priceCheckedAt" in item):
+            raise XaitError("{0} 的价格类型与核验时间必须同时提供".format(item_path))
+        if "pricingType" in item:
+            if not isinstance(item["pricingType"], str) or item["pricingType"] not in PRODUCT_HUNT_PRICING_TYPES:
+                raise XaitError("{0}.pricingType 无效".format(item_path))
+            if "url" not in item:
+                raise XaitError("{0} 的价格类型必须提供官方产品链接".format(item_path))
+            price_checked = _strict_datetime(item["priceCheckedAt"], item_path + ".priceCheckedAt")
+            if price_checked < _strict_datetime(ranking["capturedAt"], path + ".ranking.capturedAt"):
+                raise XaitError("{0}.priceCheckedAt 不得早于榜单采集时间".format(item_path))
 
 
 def _validate_table_cell(value: Any, path: str) -> None:
@@ -776,6 +810,11 @@ def _validate_editorial(root: Dict[str, Any], path: str) -> None:
             captured = _strict_datetime(ph_sections[0]["ranking"]["capturedAt"], path + ".ranking.capturedAt")
             if captured > generated or captured.astimezone(CST).date().isoformat() != root["date"]:
                 raise XaitError("{0} 的 Product Hunt 日榜必须于本期当天采集且不得晚于生成时间".format(path))
+            for item in ph_sections[0]["items"]:
+                if "priceCheckedAt" in item:
+                    checked = _strict_datetime(item["priceCheckedAt"], path + ".ranking.priceCheckedAt")
+                    if checked > generated or checked.astimezone(CST).date().isoformat() != root["date"]:
+                        raise XaitError("{0} 的价格类型必须于本期当天核验且不得晚于生成时间".format(path))
             # At 08:45 CST (00:45 UTC), Los Angeles is on the previous
             # calendar date in both PST and PDT. Its last completed day is
             # therefore exactly two calendar days before the issue date.
@@ -1323,7 +1362,9 @@ def _save_project_button(title: str, url: str, source: str, issue_date: Optional
     if source in {"github-trending", "weekly-high-stars"}:
         if host != "github.com" or len(parts.path.strip("/").split("/")) != 2:
             return ""
-    elif host not in {"producthunt.com", "www.producthunt.com"} or not re.match(r"^/(products|posts)/[^/]+/?$", parts.path):
+    elif (host not in {"producthunt.com", "www.producthunt.com"}
+          or parts.scheme != "https" or parts.query or parts.fragment
+          or not re.fullmatch(r"/(?:posts|products)/[A-Za-z0-9][A-Za-z0-9_-]*(?:/launches/[A-Za-z0-9][A-Za-z0-9_-]*)?/?", parts.path)):
         return ""
     values = [html.escape(value, quote=True) for value in (title[:200], url, source, issue_date)]
     return ('<button class="project-save-button" type="button" data-save-project data-no-i18n '
@@ -1347,13 +1388,15 @@ def _render_links(section: Dict[str, Any], issue_date: Optional[str] = None) -> 
 def _render_product_hunt_ranking(section: Dict[str, Any], issue_date: Optional[str] = None) -> str:
     ranking = section["ranking"]
     captured_label = "人工核验于：" if ranking.get("captureMethod") == "manual-review" else "截至采集时间："
+    pick_scope = (' <span>AI 实用精选仅从已核对的前 8 名按规则筛选。</span>'
+                  if any(item.get("editorialCategory") for item in section["items"]) else "")
     header = (
         '<p class="ph-ranking-meta"><span>榜单日期：</span>'
         '<time datetime="{0}">{0}</time><span>（太平洋时间）</span>'
         ' · <span>{4}</span><time datetime="{1}">{1}</time>'
-        ' · {2}</p><p class="ph-ranking-note">{3}</p>'
+        ' · {2}</p><p class="ph-ranking-note">{3}{5}</p>'
     ).format(html.escape(ranking["date"], quote=True), html.escape(ranking["capturedAt"], quote=True),
-             _link(ranking["url"], "查看官方日榜"), _escape_text(PRODUCT_HUNT_RANKING_NOTE), captured_label)
+             _link(ranking["url"], "查看官方日榜"), _escape_text(PRODUCT_HUNT_RANKING_NOTE), captured_label, pick_scope)
     rows = []
     for item in section["items"]:
         name = _link(item["url"], item["title"]) if item.get("url") else _escape_text(item["title"])
@@ -1361,11 +1404,24 @@ def _render_product_hunt_ranking(section: Dict[str, Any], issue_date: Optional[s
             name += _save_project_button(item["title"], item["url"], section["id"], issue_date)
         points = ('<span class="ph-ranking-points"><span>积分</span> {0:,}</span>'.format(item["points"])
                   if "points" in item else "")
+        insights = []
+        if item.get("editorialCategory"):
+            category = PRODUCT_HUNT_EDITORIAL_CATEGORIES[item["editorialCategory"]]
+            insights.append('<span class="ph-ranking-pick"><span>AI 实用精选（规则筛选）</span> · <span>{0}</span></span>'.format(
+                _escape_text(category)))
+        if item.get("pricingType"):
+            price_label = PRODUCT_HUNT_PRICING_TYPES[item["pricingType"]]
+            checked_at = html.escape(item["priceCheckedAt"], quote=True)
+            checked_display = _strict_datetime(item["priceCheckedAt"], "priceCheckedAt").astimezone(CST).strftime("%Y-%m-%d %H:%M UTC+08:00")
+            insights.append('<span class="ph-ranking-price"><span>Product Hunt 标注：</span>'
+                            '<span>{0}</span> · <span>价格采集于：</span><time datetime="{1}">{2}</time></span>'.format(
+                                _escape_text(price_label), checked_at, _escape_text(checked_display)))
+        insight_html = '<div class="ph-ranking-insights">{0}</div>'.format("".join(insights)) if insights else ""
         rows.append(
             '<li class="ph-ranking-item"><span class="ph-ranking-rank" aria-label="{0}">{1}</span>'
             '<div class="ph-ranking-copy"><div class="ph-ranking-name" data-no-i18n>{2}</div>'
-            '<p class="ph-ranking-description">{3}</p></div>{4}</li>'.format(
-                "#{0}".format(item["rank"]), item["rank"], name, _escape_text(item["description"]), points,
+            '<p class="ph-ranking-description">{3}</p>{5}</div>{4}</li>'.format(
+                "#{0}".format(item["rank"]), item["rank"], name, _escape_text(item["description"]), points, insight_html,
             )
         )
     return header + '<ol class="ph-ranking-list">{0}</ol>'.format("".join(rows))

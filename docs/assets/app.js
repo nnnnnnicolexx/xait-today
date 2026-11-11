@@ -165,7 +165,7 @@
   const metadataSelector = [
     ".meta", ".tagline", ".issue-header", ".card-header", ".site-footer",
     ".sidebar", ".collection-status", ".brief-meta", ".brief-reason", ".brief-policy",
-    ".brief-empty", ".brief-related summary", ".link-meta", "#x-ai-signals .link-item", ".x-signal-disclaimer", ".ph-ranking-meta", ".ph-ranking-note", ".ph-ranking-rank", ".ph-ranking-points", ".wechat-meta", ".wechat-badge",
+    ".brief-empty", ".brief-related summary", ".link-meta", "#x-ai-signals .link-item", ".x-signal-disclaimer", ".ph-ranking-meta", ".ph-ranking-note", ".ph-ranking-rank", ".ph-ranking-points", ".ph-ranking-insights", ".wechat-meta", ".wechat-badge",
     ".wechat-state", ".wechat-origin", ".wechat-overview", ".wechat-item-badge", ".wechat-item-copy > span", ".social-meta", ".social-heat", ".social-rank-meta", ".social-rank-heat", ".social-rank-note", ".social-rank-date", ".social-rank-origin", ".social-rank-overview",
     ".social-status", ".social-origin", ".social-overview", ".social-origin-details summary",
     "#source-health", ".wechat-empty", ".social-empty", ".reading-nav", ".module-nav",

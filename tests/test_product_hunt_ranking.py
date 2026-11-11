@@ -161,6 +161,67 @@ class ProductHuntRankingTests(unittest.TestCase):
         with self.assertRaises(xait.XaitError):
             xait.validate_issue(issue)
 
+    def test_editorial_and_pricing_are_limited_attributed_and_bilingual(self):
+        issue = ranking_issue(count=10)
+        section = issue["sections"][-1]
+        section["items"][0].update(
+            editorialCategory="ai-coding", pricingType="free_options",
+            priceCheckedAt=issue["generatedAt"],
+            url="https://www.producthunt.com/products/example-1/launches/example-launch")
+        section["items"][1].update(editorialCategory="ai-creative", pricingType="free",
+                                    priceCheckedAt=issue["generatedAt"])
+        section["items"][2].update(editorialCategory="ai-workflows", pricingType="payment_required",
+                                    priceCheckedAt=issue["generatedAt"])
+        xait.validate_issue(issue)
+        rendered = xait._render_product_hunt_ranking(section, issue["date"])
+        self.assertEqual(3, rendered.count('class="ph-ranking-pick"'))
+        self.assertEqual(3, rendered.count('class="ph-ranking-price"'))
+        self.assertIn("含免费选项（可能为试用）", rendered)
+        self.assertIn("Product Hunt 标注：", rendered)
+        self.assertIn("价格采集于：", rendered)
+        self.assertIn("AI 实用精选仅从已核对的前 8 名按规则筛选。", rendered)
+        self.assertIn('data-save-project', rendered)
+        self.assertIn('/products/example-1/launches/example-launch', rendered)
+        self.assertEqual(list(range(1, 11)), [item["rank"] for item in section["items"]])
+        with tempfile.TemporaryDirectory(prefix="xait-ranking-insights-") as temporary:
+            target = Path(temporary) / "site"
+            xait.build_site(target, [issue])
+            xait.validate_built_site(target, [issue])
+            page = (target / "index.html").read_text(encoding="utf-8")
+            self.assertIn("AI picks (rule-based)", page)
+            self.assertIn("AI picks are selected by rules only from the first 8 verified ranks.", page)
+            self.assertIn("Free option (may be a trial)", page)
+            self.assertIn("Pricing checked", page)
+
+    def test_untrusted_insights_are_rejected(self):
+        def category(value):
+            return lambda issue: issue["sections"][-1]["items"][0].update(editorialCategory=value)
+        def price(value):
+            return lambda issue: issue["sections"][-1]["items"][0].update(
+                pricingType=value, priceCheckedAt=issue["generatedAt"])
+        mutations = [
+            category("unverified"), category(["ai-coding"]),
+            price("permanently-free"), price([]),
+            lambda issue: issue["sections"][-1]["items"][0].update(pricingType="free"),
+            lambda issue: (issue["sections"][-1]["items"][0].update(pricingType="free", priceCheckedAt=issue["generatedAt"]), issue["sections"][-1]["items"][0].pop("url")),
+            lambda issue: issue["sections"][-1]["items"][0].update(priceCheckedAt=issue["generatedAt"]),
+            lambda issue: issue["sections"][-1]["items"][0].update(pricingType="free", priceCheckedAt="2000-01-01T12:00:00+08:00"),
+            lambda issue: issue["sections"][-1]["items"][0].update(pricingType="free", priceCheckedAt="2999-01-01T12:00:00+08:00"),
+            lambda issue: issue["sections"][-1]["items"][0].update(pricingType="free", priceCheckedAt="2026-11-11T10:00:00"),
+            lambda issue: [item.update(editorialCategory="ai-coding") for item in issue["sections"][-1]["items"][:4]],
+            lambda issue: issue["sections"][-1]["items"][8].update(editorialCategory="ai-coding"),
+            lambda issue: issue["sections"][-1]["items"][9].update(pricingType="free", priceCheckedAt=issue["generatedAt"]),
+        ]
+        for mutate in mutations:
+            issue = ranking_issue()
+            mutate(issue)
+            with self.subTest(mutate=mutate), self.assertRaises(xait.XaitError):
+                xait.validate_issue(issue)
+        partial = ranking_issue(status="partial", count=3)
+        partial["sections"][-1]["items"][0]["editorialCategory"] = "ai-coding"
+        with self.assertRaises(xait.XaitError):
+            xait.validate_issue(partial)
+
     def test_empty_unavailable_and_not_run_keep_only_source_status(self):
         for status in ("empty", "unavailable", "not_run"):
             issue = ranking_issue(status=status)

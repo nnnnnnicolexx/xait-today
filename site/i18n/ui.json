@@ -163,6 +163,16 @@
     "截至采集时间：": {"zh": "截至采集时间：", "en": "As of collection: "},
     "查看官方日榜": {"zh": "查看官方日榜", "en": "View official daily leaderboard"},
     "积分": {"zh": "积分", "en": "Points"},
+    "AI 实用精选（规则筛选）": {"zh": "AI 实用精选（规则筛选）", "en": "AI picks (rule-based)"},
+    "AI 实用精选仅从已核对的前 8 名按规则筛选。": {"zh": "AI 实用精选仅从已核对的前 8 名按规则筛选。", "en": "AI picks are selected by rules only from the first 8 verified ranks."},
+    "AI 编程": {"zh": "AI 编程", "en": "AI coding"},
+    "AI 创作": {"zh": "AI 创作", "en": "AI creative tools"},
+    "AI 工作流": {"zh": "AI 工作流", "en": "AI workflows"},
+    "Product Hunt 标注：": {"zh": "Product Hunt 标注：", "en": "Product Hunt lists: "},
+    "免费": {"zh": "免费", "en": "Free"},
+    "含免费选项（可能为试用）": {"zh": "含免费选项（可能为试用）", "en": "Free option (may be a trial)"},
+    "付费": {"zh": "付费", "en": "Paid"},
+    "价格采集于：": {"zh": "价格采集于：", "en": "Pricing checked: "},
     "官方精选日榜，保留来源名次；积分为 Product Hunt 综合互动积分，不等同于点赞数。榜单日期不是产品发布日期。": {"zh": "官方精选日榜，保留来源名次；积分为 Product Hunt 综合互动积分，不等同于点赞数。榜单日期不是产品发布日期。", "en": "Official featured daily leaderboard with source ranks preserved. Points are Product Hunt's combined engagement score, not upvotes. The leaderboard date is not a product publication date."}
   }
 }
