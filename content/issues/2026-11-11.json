@@ -1,0 +1,945 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8d288e076e2711212f4f04f0",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "meta/astryx",
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9b8b9d748d03f63f9cb5eb52",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-6f8d5f59ffead31d7b35b13b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-6533b704aae0d46e3f9a61bd",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f3cc283ea00a64a5f57a59e6",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9bfa1edff21890c43aff4660",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-556cf0d50ac68d1c190a3d6f",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a6097510b894cd75b47165a9",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-385e3bd68e032f9d71647750",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8462a0f880e418b2d53d5f71",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-5773bd8b5597116d195773a5",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a995c524e162e5954b7a5664",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-6ed9d69231d03cd9b6678429",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f2a4fa72fda06f31d3b7d750",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-280d390d7ade81e75a4b96a9",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1253a84781da16f4a19b3d7e",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-14831b6e5e7907cc37cc4213",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a010df4a4fcbd0466935efe1",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "IainKay/ram-altman",
+      "url": "https://github.com/IainKay/ram-altman"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-00f0272a6746ccfec81c88fe",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "jamesondh/chimera-vocal-synth",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a10d14cf459f601095ead091",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "DIYgod/pinky",
+      "url": "https://github.com/DIYgod/pinky"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-baf1ce258f2bfd3ebe6b49ee",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "mmdoctor/google-pro-helper",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-996f2555f88ee6b5b0ae428b",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "voyager-so/vork",
+      "url": "https://github.com/voyager-so/vork"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-46b2b1efaeac7b7dbb014176",
+      "publishedAt": "2026-11-10T10:25:58Z",
+      "sourceId": "hacker-news",
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-a54d3025c5db386eb3babbd6",
+      "publishedAt": "2026-11-10T18:01:15Z",
+      "sourceId": "hacker-news",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-afff123540735e8aa4d2e980",
+      "publishedAt": "2026-11-10T21:25:03Z",
+      "sourceId": "hacker-news",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-dd31337f2f10dd93a81265d1",
+      "publishedAt": "2026-11-09T18:57:00Z",
+      "sourceId": "arxiv",
+      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2611.12872v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-6cdd57c515a53dd209ee6212",
+      "publishedAt": "2026-11-09T18:52:20Z",
+      "sourceId": "arxiv",
+      "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+      "url": "https://arxiv.org/abs/2611.12865v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-6398f840fcf0d628cc253c44",
+      "publishedAt": "2026-11-09T18:51:03Z",
+      "sourceId": "arxiv",
+      "title": "Is Persona Generalization Predictable?",
+      "url": "https://arxiv.org/abs/2611.12864v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-39527a75b1f37d2e71dd4575",
+      "publishedAt": "2026-11-09T18:45:28Z",
+      "sourceId": "arxiv",
+      "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2611.12856v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-990a15011123158638b32d73",
+      "publishedAt": "2026-11-09T18:33:13Z",
+      "sourceId": "arxiv",
+      "title": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
+      "url": "https://arxiv.org/abs/2611.12834v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-5831962b7f63ca0292cb65b2",
+      "publishedAt": "2026-11-09T18:25:42Z",
+      "sourceId": "arxiv",
+      "title": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.12825v1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-7407637becb0588f5f2589c2",
+      "publishedAt": "2026-11-05T06:33:24-08:00",
+      "sourceId": "product-hunt",
+      "title": "TK by Medium",
+      "url": "https://www.producthunt.com/products/medium"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-55e811f24dbce7ddee98794e",
+      "publishedAt": "2026-11-09T09:29:48-08:00",
+      "sourceId": "product-hunt",
+      "title": "Tokens by UI Colors",
+      "url": "https://www.producthunt.com/products/tokens-by-ui-colors"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-1bc9e78ac37eb9d87e4e0442",
+      "publishedAt": "2026-11-09T04:59:46-08:00",
+      "sourceId": "product-hunt",
+      "title": "SideKick By Open",
+      "url": "https://www.producthunt.com/products/open-for-sales"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-0df41f363bea09578fa6c0fd",
+      "publishedAt": "2026-11-09T16:23:22-08:00",
+      "sourceId": "product-hunt",
+      "title": "Clive",
+      "url": "https://www.producthunt.com/products/clive"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8bf8699f2b9dd29ffb89fb70",
+      "publishedAt": "2026-11-03T10:07:07-08:00",
+      "sourceId": "product-hunt",
+      "title": "TOWeb 15",
+      "url": "https://www.producthunt.com/products/toweb"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-21309f708f59a435c4c713a0",
+      "publishedAt": "2026-11-06T22:51:00-08:00",
+      "sourceId": "product-hunt",
+      "title": "CloakPane",
+      "url": "https://www.producthunt.com/products/cloakpane"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e3eebbdec108f9f9496c686e",
+      "publishedAt": "2026-11-09T09:01:49-08:00",
+      "sourceId": "product-hunt",
+      "title": "ZUS",
+      "url": "https://www.producthunt.com/products/zus-2"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-11T08:47:13+08:00",
+      "dateEvidence": "exact",
+      "id": "article-d8e265501e307a7d8b74023a",
+      "publishedAt": "2026-11-06T09:01:01-08:00",
+      "sourceId": "product-hunt",
+      "title": "gitmanual",
+      "url": "https://www.producthunt.com/products/gitmanual"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-11T08:47:16+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-6a76ed435d91b86e648a3abc",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Anthropic launches its IPO roadshow, saying the company and shareholders plan to sell 825M Class A shares at $70 to $78 each, listing on the Nasdaq under ANT",
+      "url": "https://www.anthropic.com/news/roadshow-launch"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-11T08:47:16+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-75d0280cc8bf1d532978bf80",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Filing: Anthropic's IPO could give it an up to $1.405T valuation on a fully diluted basis, up from the $965B valuation during its $65B Series H announced in May",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-11T08:47:16+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8943ff6b33dc42b474934d0b",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "S-1: Nvidia plans to invest ~$10B in Anthropic after its IPO, or ~10% of the total new cash Anthropic is expected to raise in November, including in its IPO",
+      "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-11T08:47:16+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c24debb6fdf8761b31edb118",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "IPO prospectus: Anthropic and its investors are set to raise up to $64.4B, and it will also raise $26B via cornerstone investors like Google, AMD, and Nvidia",
+      "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-11T08:47:16+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4f2b13ba5e3de628d4eebbd0",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Sources: Goldman Sachs expects Anthropic to hit ~$52B revenue in 2026 and $600B+ by 2030, an operating profit in 2029, and be free cash flow positive from 2030",
+      "url": "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58"
+    }
+  ],
+  "date": "2026-11-11",
+  "edition": {
+    "windowEnd": "2026-11-11T08:45:00+08:00",
+    "windowStart": "2026-11-10T08:45:00+08:00"
+  },
+  "generatedAt": "2026-11-11T08:47:32+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-11 · 采集时显示：26 分钟前 · 打开账号列表",
+              "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-11-11 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "Claude最严封号机制将生效，人在海外也受限",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-11-11 · 采集时显示：8 小时前 · 打开账号列表",
+              "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 3 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-11 · 采集时显示：50 分钟前 · 打开账号列表",
+              "title": "Claude Fable 5.2证明了，AI可以靠代码吞噬一切。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-11-11T08:46:26+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-11T08:46:26+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "meta/astryx",
+            "url": "https://github.com/meta/astryx"
+          },
+          "TypeScript",
+          "3,108",
+          "An open source design system that's fully customizable and agent ready"
+        ],
+        [
+          {
+            "text": "anthropics/skills",
+            "url": "https://github.com/anthropics/skills"
+          },
+          "Python",
+          "1,679",
+          "Public repository for Agent Skills"
+        ],
+        [
+          {
+            "text": "addyosmani/agent-skills",
+            "url": "https://github.com/addyosmani/agent-skills"
+          },
+          "JavaScript",
+          "465",
+          "Production-grade engineering skills for AI coding agents."
+        ],
+        [
+          {
+            "text": "anthropics/claude-quickstarts",
+            "url": "https://github.com/anthropics/claude-quickstarts"
+          },
+          "Python",
+          "531",
+          "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+        ],
+        [
+          {
+            "text": "google-deepmind/mujoco",
+            "url": "https://github.com/google-deepmind/mujoco"
+          },
+          "C++",
+          "456",
+          "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+        ],
+        [
+          {
+            "text": "we-promise/sure",
+            "url": "https://github.com/we-promise/sure"
+          },
+          "Ruby",
+          "159",
+          "The personal finance app for everyone (by everyone)"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "NotRexed/Hookshot",
+            "url": "https://github.com/NotRexed/Hookshot"
+          },
+          "C++",
+          "6544",
+          "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake"
+        ],
+        [
+          {
+            "text": "huamidev/GestaltX",
+            "url": "https://github.com/huamidev/GestaltX"
+          },
+          "Swift",
+          "4767",
+          "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages."
+        ],
+        [
+          {
+            "text": "tangerineturtle1/NX2navi",
+            "url": "https://github.com/tangerineturtle1/NX2navi"
+          },
+          "C",
+          "2877",
+          "未提供"
+        ],
+        [
+          {
+            "text": "jhaizhou-ops/S2Arm",
+            "url": "https://github.com/jhaizhou-ops/S2Arm"
+          },
+          "C#",
+          "2379",
+          "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你"
+        ],
+        [
+          {
+            "text": "JenkinWoo/sheeridVerify",
+            "url": "https://github.com/JenkinWoo/sheeridVerify"
+          },
+          "JavaScript",
+          "2005",
+          "未提供"
+        ],
+        [
+          {
+            "text": "IainKay/ram-altman",
+            "url": "https://github.com/IainKay/ram-altman"
+          },
+          "Shell",
+          "1823",
+          "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI."
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-11-10 · 354 互动/积分 · 393 评论",
+          "title": "AI usage generates a fragile codebase",
+          "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+        },
+        {
+          "meta": "发布 2026-11-11 · 248 互动/积分 · 70 评论",
+          "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance"
+        },
+        {
+          "meta": "发布 2026-11-11 · 98 互动/积分 · 65 评论",
+          "title": "Apple has new Mac app coming to make running local AI models easy",
+          "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-11-10",
+          "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+          "url": "https://arxiv.org/abs/2611.12872v1"
+        },
+        {
+          "meta": "发布 2026-11-10",
+          "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+          "url": "https://arxiv.org/abs/2611.12865v1"
+        },
+        {
+          "meta": "发布 2026-11-10",
+          "title": "Is Persona Generalization Predictable?",
+          "url": "https://arxiv.org/abs/2611.12864v1"
+        },
+        {
+          "meta": "发布 2026-11-10",
+          "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+          "url": "https://arxiv.org/abs/2611.12856v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-11-05",
+          "title": "TK by Medium",
+          "url": "https://www.producthunt.com/products/medium"
+        },
+        {
+          "meta": "发布 2026-11-10",
+          "title": "Tokens by UI Colors",
+          "url": "https://www.producthunt.com/products/tokens-by-ui-colors"
+        },
+        {
+          "meta": "发布 2026-11-09",
+          "title": "SideKick By Open",
+          "url": "https://www.producthunt.com/products/open-for-sales"
+        },
+        {
+          "meta": "发布 2026-11-10",
+          "title": "Clive",
+          "url": "https://www.producthunt.com/products/clive"
+        },
+        {
+          "meta": "发布 2026-11-04",
+          "title": "TOWeb 15",
+          "url": "https://www.producthunt.com/products/toweb"
+        },
+        {
+          "meta": "发布 2026-11-07",
+          "title": "CloakPane",
+          "url": "https://www.producthunt.com/products/cloakpane"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Anthropic launches its IPO roadshow, saying the company and shareholders plan to sell 825M Class A shares at $70 to $78 each, listing on the Nasdaq under ANT",
+          "url": "https://www.anthropic.com/news/roadshow-launch"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Filing: Anthropic's IPO could give it an up to $1.405T valuation on a fully diluted basis, up from the $965B valuation during its $65B Series H announced in May",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "S-1: Nvidia plans to invest ~$10B in Anthropic after its IPO, or ~10% of the total new cash Anthropic is expected to raise in November, including in its IPO",
+          "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "IPO prospectus: Anthropic and its investors are set to raise up to $64.4B, and it will also raise $26B via cornerstone investors like Google, AMD, and Nvidia",
+          "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: Goldman Sachs expects Anthropic to hit ~$52B revenue in 2026 and $600B+ by 2030, an operating profit in 2029, and be free cash flow positive from 2030",
+          "url": "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "product-hunt-ranking",
+      "items": [
+        {
+          "description": "The community you trust in the assistant you use",
+          "rank": 1,
+          "title": "Product Hunt MCP"
+        },
+        {
+          "description": "See why AI recommends your competitors instead of you",
+          "rank": 2,
+          "title": "Dageno AI 2.0"
+        },
+        {
+          "description": "Your agentic analytics platform in the terminal",
+          "rank": 3,
+          "title": "Databox CLI"
+        },
+        {
+          "description": "A family of custom-trained security models for coding agents",
+          "rank": 4,
+          "title": "Arcjet AI security models"
+        },
+        {
+          "description": "Stop wasting AI tokens rediscovering dependencies",
+          "rank": 5,
+          "title": "ProtoMap"
+        },
+        {
+          "description": "✴️ An agentic file browser to navigate your work context",
+          "rank": 6,
+          "title": "Voyager"
+        },
+        {
+          "description": "Edit any part of a video without changing the rest",
+          "rank": 7,
+          "title": "Higgsfield Miracle"
+        },
+        {
+          "description": "One URL for every MCP server.",
+          "rank": 8,
+          "title": "MCP1"
+        },
+        {
+          "description": "See what's blocking a PR before you scroll",
+          "rank": 9,
+          "title": "GitHub New PR Overview"
+        },
+        {
+          "description": "Best way to edit videos with AI",
+          "rank": 10,
+          "title": "Cardboard AI"
+        }
+      ],
+      "kind": "links",
+      "ranking": {
+        "captureMethod": "public-page",
+        "capturedAt": "2026-11-11T08:47:09+08:00",
+        "date": "2026-11-09",
+        "scope": "featured",
+        "timezone": "America/Los_Angeles",
+        "url": "https://www.producthunt.com/leaderboard/daily/2026/11/09"
+      },
+      "title": "🏆 Product Hunt · 热门产品 Top 10"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-11-11T08:47:13+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-11-11T08:47:13+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-11T08:47:13+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-11-11T08:47:13+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-11T08:47:13+08:00",
+      "id": "hacker-news",
+      "itemCount": 3,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-11-11T08:47:13+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-11T08:47:13+08:00",
+      "id": "arxiv",
+      "itemCount": 6,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": "2026-11-11T08:47:13+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-11T08:47:13+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-11-11T08:47:13+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-11T08:47:13+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-11-11T08:47:13+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-11T08:47:16+08:00",
+      "id": "techmeme",
+      "itemCount": 5,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-11-11T08:47:16+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-11T08:47:09+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 10,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": "2026-11-11T08:47:09+08:00",
+      "message": "已核验官方公开日榜的完整 Top 10",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-11T08:46:26+08:00",
+      "id": "wechat-appso",
+      "itemCount": 3,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-11-11T08:46:26+08:00",
+      "message": "今日 3 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-11T08:46:26+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 1,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-11-11T08:46:26+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-11T08:46:26+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-11-11T08:46:26+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-11T08:46:26+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 0,
+      "label": "花叔",
+      "lastSuccessAt": "2026-11-11T08:46:26+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}
