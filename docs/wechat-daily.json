@@ -5,40 +5,21 @@
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-11 · 采集时显示：26 分钟前 · 打开账号列表",
-          "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
-          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
-        },
-        {
-          "badge": "今日",
-          "meta": "2026-11-11 · 采集时显示：2 小时前 · 打开账号列表",
-          "title": "Claude最严封号机制将生效，人在海外也受限",
-          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
-        },
-        {
-          "badge": "今日",
-          "meta": "2026-11-11 · 采集时显示：8 小时前 · 打开账号列表",
-          "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
+          "meta": "2026-11-12 · 采集时显示：55 分钟前 · 打开账号列表",
+          "title": "黄仁勋再曝婚外情，英伟达董事会或启动罢免/字节或推出「中国版Muse」/苹果支持社区将永久关闭",
           "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
         }
       ],
       "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
-      "status": "今日 3 篇",
+      "status": "今日 1 篇",
       "statusTone": "fresh"
     },
     {
       "account": "数字生命卡兹克",
-      "items": [
-        {
-          "badge": "今日",
-          "meta": "2026-11-11 · 采集时显示：50 分钟前 · 打开账号列表",
-          "title": "Claude Fable 5.2证明了，AI可以靠代码吞噬一切。",
-          "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
-        }
-      ],
+      "items": [],
       "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
-      "status": "今日 1 篇",
-      "statusTone": "fresh"
+      "status": "今日未检出新文章",
+      "statusTone": "quiet"
     },
     {
       "account": "智东西",
@@ -55,9 +36,9 @@
       "statusTone": "quiet"
     }
   ],
-  "capturedAt": "2026-11-11T08:46:26+08:00",
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T08:47:32+08:00",
+  "capturedAt": "2026-11-12T08:44:44+08:00",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T08:46:38+08:00",
   "schemaVersion": 1,
-  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-11T08:46:26+08:00；相对时间以该采集时刻为准。"
+  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-12T08:44:44+08:00；相对时间以该采集时刻为准。"
 }
