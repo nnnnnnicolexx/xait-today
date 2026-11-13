@@ -1,0 +1,911 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-413e30f56cd32f9921b8b270",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-d1d7019779af09ba6c79bf53",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-7b055a93e9c4202dea5713e1",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-31965ce61eda47e4aedb3d13",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "pookjw/HermesEnabler",
+      "url": "https://github.com/pookjw/HermesEnabler"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9bfa1edff21890c43aff4660",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-606540881ce33632a9d8c08c",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-fdcb5e8a6ba8153a64be699c",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ab2198e752d415ca524b7ad5",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "nodejs/node",
+      "url": "https://github.com/nodejs/node"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-6f8d5f59ffead31d7b35b13b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8d288e076e2711212f4f04f0",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "meta/astryx",
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-07380b3385b6d197dfa86562",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b8fda454bcbcf2c0c3c9876b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f2a4fa72fda06f31d3b7d750",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-280d390d7ade81e75a4b96a9",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1253a84781da16f4a19b3d7e",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-2fe1b5f71f0ceba1d285e97d",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a86301dbd611d222e15e2acf",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-27de9326a9763cab82bf6be4",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-59aa49e0a39164445e5141dc",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Th0rgal/satmux",
+      "url": "https://github.com/Th0rgal/satmux"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ebe7f048933bd6bbe04f8c50",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-0dc33a65971c38f8c53f9a91",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "HolyArrs/HolyArrs",
+      "url": "https://github.com/HolyArrs/HolyArrs"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-2d7bf2368d8cc7d12001d2dd",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-11adb7cac593dd5747268b4b",
+      "publishedAt": "2026-11-12T18:01:48Z",
+      "sourceId": "hacker-news",
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-3a990219c910977f73026797",
+      "publishedAt": "2026-11-12T15:23:10Z",
+      "sourceId": "hacker-news",
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-0736f7208dac74dd880fd007",
+      "publishedAt": "2026-11-12T21:56:11Z",
+      "sourceId": "hacker-news",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-9c144a650247c5132674c0d7",
+      "publishedAt": "2026-11-12T21:09:49Z",
+      "sourceId": "hacker-news",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-3ee32a86853082a32b372afb",
+      "publishedAt": "2026-11-12T23:06:17Z",
+      "sourceId": "hacker-news",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-d8b21ca51658aa9058c4ac87",
+      "publishedAt": "2026-11-11T05:10:32Z",
+      "sourceId": "arxiv",
+      "title": "Estimating Image Creativity",
+      "url": "https://arxiv.org/abs/2611.15044v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-aa120f6cb811a6ca6ce61522",
+      "publishedAt": "2026-11-11T05:06:33Z",
+      "sourceId": "arxiv",
+      "title": "AROMA: Adaptive Representation-Oriented Multimodal Actuation for Vision-Language Model Control",
+      "url": "https://arxiv.org/abs/2611.15041v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-6b7d8ffdd64c49e9bd569730",
+      "publishedAt": "2026-11-11T04:59:36Z",
+      "sourceId": "arxiv",
+      "title": "Moving Beyond the DRW Model: Learning Quasar Variability with Generative Models",
+      "url": "https://arxiv.org/abs/2611.15040v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-f2ab3c26c1a7dde6d2306d32",
+      "publishedAt": "2026-11-11T04:36:07Z",
+      "sourceId": "arxiv",
+      "title": "SkinAdvisor: An AI-Driven Decision Framework for Skin Production Planning via Multi-Modal Transformer Sales Forecasting",
+      "url": "https://arxiv.org/abs/2611.15023v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e46cccd401e24b58dc56115e",
+      "publishedAt": "2026-11-11T04:18:25Z",
+      "sourceId": "arxiv",
+      "title": "Beyond Named Mechanisms: Economic Institutions as a Design Space for Artificial Agents",
+      "url": "https://arxiv.org/abs/2611.15017v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-f79399a509a09f9479e38a90",
+      "publishedAt": "2026-11-11T04:08:24Z",
+      "sourceId": "arxiv",
+      "title": "Calibrate, Don't Retrain: Decomposing the Value of Annotator Disagreement in Cyberbullying Severity",
+      "url": "https://arxiv.org/abs/2611.15010v1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-ae3bb00dc94b61f0820ca864",
+      "publishedAt": "2026-11-09T14:40:16-08:00",
+      "sourceId": "product-hunt",
+      "title": "Spacefast by Automattic",
+      "url": "https://www.producthunt.com/products/spacefast-by-automattic"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-3e7228b18110503dca86413e",
+      "publishedAt": "2026-11-11T01:27:27-08:00",
+      "sourceId": "product-hunt",
+      "title": "⌘+L",
+      "url": "https://www.producthunt.com/products/l"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-7536dc32267776044a52ce67",
+      "publishedAt": "2026-11-10T08:51:51-08:00",
+      "sourceId": "product-hunt",
+      "title": "three.dev",
+      "url": "https://www.producthunt.com/products/three-dev"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-1f927ff133c9a5d8667c4c3c",
+      "publishedAt": "2026-11-10T04:36:08-08:00",
+      "sourceId": "product-hunt",
+      "title": "Klang",
+      "url": "https://www.producthunt.com/products/klang"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-192c1f746ce3955d81aa5791",
+      "publishedAt": "2026-11-11T12:10:27-08:00",
+      "sourceId": "product-hunt",
+      "title": "LeaseWire",
+      "url": "https://www.producthunt.com/products/leasewire"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-3798f65aa554dc41ba066387",
+      "publishedAt": "2026-11-11T09:31:09-08:00",
+      "sourceId": "product-hunt",
+      "title": "Marqly 7.0",
+      "url": "https://www.producthunt.com/products/marqly"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-b13015561b9d56677303f653",
+      "publishedAt": "2026-11-10T10:55:39-08:00",
+      "sourceId": "product-hunt",
+      "title": "Adobe AI Assistant",
+      "url": "https://www.producthunt.com/products/adobe-ai-assistant"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-13T11:08:35+08:00",
+      "dateEvidence": "exact",
+      "id": "article-2090868295c43cea3955b537",
+      "publishedAt": "2026-11-11T22:29:56-08:00",
+      "sourceId": "product-hunt",
+      "title": "Hoy for Mac",
+      "url": "https://www.producthunt.com/products/hoy-for-mac"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-13T11:08:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-2e4fc066cea0b43ff6c8d423",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Nvidia appoints ex-Synopsys CEO Harvey C. Jones as its first-ever board chair; the board's Jensen Huang exit press release does not include a quote from Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-fired-nvidia"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-13T11:08:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ad568e2e33963d55bdff9204",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Jensen Huang's resignation caps a 33-year career, growing Nvidia from a GPU maker to an AI giant; born in Taiwan, he moved to the US at 10 and has a ~3.6% stake",
+      "url": "https://www.wsj.com/tech/ai/jensen-huang-built-nvidia-its-chips-made-the-ai-boom-possible-bef1b4bb?st=fd71DX&reflink=desktopwebshare_permalink"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-13T11:08:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-7ba1f3edd53d37568f0fcd15",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Google launches Gemini 4 Hydrogen, calling it a major upgrade over Gemini 3.8 Flash, at $1.50/1M input and $7.50/1M output tokens across its 1M context window",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-13T11:08:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-3298f6be91ebe3102e91a7db",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Google says Gemini 4 Hydrogen is available across AI Studio, the Gemini API, Search, paid AI Pro and Ultra tiers in Antigravity, and more",
+      "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-13T11:08:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-43904b9b2d06bf6b78b0185d",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Artificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol",
+      "url": "https://x.com/artificialanlys/status/2120941511223185722"
+    }
+  ],
+  "date": "2026-11-13",
+  "edition": {
+    "windowEnd": "2026-11-13T08:45:00+08:00",
+    "windowStart": "2026-11-12T08:45:00+08:00"
+  },
+  "generatedAt": "2026-11-13T11:08:39+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-13 · 采集时显示：3 小时前 · 打开账号列表",
+              "title": "特朗普：能接替黄仁勋的只有库克/腾讯辟谣「裁员50%」传言/微信「看一看」测试短剧入口",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-11-13 · 采集时显示：4 小时前 · 打开账号列表",
+              "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 2 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-13 · 采集时显示：3 小时前 · 打开账号列表",
+              "title": "黄仁勋辞职始末。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-13 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "“黄仁勋辞职是个错误”！",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            }
+          ],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-11-13T11:07:08+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-13T11:07:08+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "GoogleChrome/modern-web-guidance-src",
+            "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+          },
+          "TypeScript",
+          "739",
+          "Keep your coding agent up to date with the latest web best practices"
+        ],
+        [
+          {
+            "text": "openai/codex-security",
+            "url": "https://github.com/openai/codex-security"
+          },
+          "TypeScript",
+          "643",
+          "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
+        ],
+        [
+          {
+            "text": "nvm-sh/nvm",
+            "url": "https://github.com/nvm-sh/nvm"
+          },
+          "Shell",
+          "63",
+          "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
+        ],
+        [
+          {
+            "text": "pookjw/HermesEnabler",
+            "url": "https://github.com/pookjw/HermesEnabler"
+          },
+          "Objective-C",
+          "218",
+          "Enable Hermès Watch Faces on any Apple Watch devices"
+        ],
+        [
+          {
+            "text": "we-promise/sure",
+            "url": "https://github.com/we-promise/sure"
+          },
+          "Ruby",
+          "967",
+          "The personal finance app for everyone (by everyone)"
+        ],
+        [
+          {
+            "text": "QwenLM/qwen-code",
+            "url": "https://github.com/QwenLM/qwen-code"
+          },
+          "TypeScript",
+          "151",
+          "An open-source AI coding agent that lives in your terminal."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "huamidev/GestaltX",
+            "url": "https://github.com/huamidev/GestaltX"
+          },
+          "Swift",
+          "6981",
+          "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups."
+        ],
+        [
+          {
+            "text": "tangerineturtle1/NX2navi",
+            "url": "https://github.com/tangerineturtle1/NX2navi"
+          },
+          "C",
+          "3599",
+          "未提供"
+        ],
+        [
+          {
+            "text": "jhaizhou-ops/S2Arm",
+            "url": "https://github.com/jhaizhou-ops/S2Arm"
+          },
+          "C#",
+          "2777",
+          "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你"
+        ],
+        [
+          {
+            "text": "Kianuni/Erosion-CN",
+            "url": "https://github.com/Kianuni/Erosion-CN"
+          },
+          "Swift",
+          "1738",
+          "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）"
+        ],
+        [
+          {
+            "text": "HybridRobotics/supermimic",
+            "url": "https://github.com/HybridRobotics/supermimic"
+          },
+          "Python",
+          "1325",
+          "Humanoid whole-body motion tracking with one differentiable world model."
+        ],
+        [
+          {
+            "text": "agentes-chat/agentes-chat",
+            "url": "https://github.com/agentes-chat/agentes-chat"
+          },
+          "TypeScript",
+          "1208",
+          "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, the"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-11-13 · 477 互动/积分 · 300 评论",
+          "title": "Gemini 4 Hydrogen",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+        },
+        {
+          "meta": "发布 2026-11-12 · 288 互动/积分 · 98 评论",
+          "title": "I'm making LLMs work on small and old devices",
+          "url": "https://github.com/hyperionaidev/smolmaxxing/"
+        },
+        {
+          "meta": "发布 2026-11-13 · 190 互动/积分 · 53 评论",
+          "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "url": "https://unemploymentlabs.com/checkpoint-forensics"
+        },
+        {
+          "meta": "发布 2026-11-13 · 115 互动/积分 · 111 评论",
+          "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+        },
+        {
+          "meta": "发布 2026-11-13 · 81 互动/积分 · 19 评论",
+          "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-11-11",
+          "title": "Estimating Image Creativity",
+          "url": "https://arxiv.org/abs/2611.15044v1"
+        },
+        {
+          "meta": "发布 2026-11-11",
+          "title": "AROMA: Adaptive Representation-Oriented Multimodal Actuation for Vision-Language Model Control",
+          "url": "https://arxiv.org/abs/2611.15041v1"
+        },
+        {
+          "meta": "发布 2026-11-11",
+          "title": "Moving Beyond the DRW Model: Learning Quasar Variability with Generative Models",
+          "url": "https://arxiv.org/abs/2611.15040v1"
+        },
+        {
+          "meta": "发布 2026-11-11",
+          "title": "SkinAdvisor: An AI-Driven Decision Framework for Skin Production Planning via Multi-Modal Transformer Sales Forecasting",
+          "url": "https://arxiv.org/abs/2611.15023v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-11-10",
+          "title": "Spacefast by Automattic",
+          "url": "https://www.producthunt.com/products/spacefast-by-automattic"
+        },
+        {
+          "meta": "发布 2026-11-11",
+          "title": "⌘+L",
+          "url": "https://www.producthunt.com/products/l"
+        },
+        {
+          "meta": "发布 2026-11-11",
+          "title": "three.dev",
+          "url": "https://www.producthunt.com/products/three-dev"
+        },
+        {
+          "meta": "发布 2026-11-10",
+          "title": "Klang",
+          "url": "https://www.producthunt.com/products/klang"
+        },
+        {
+          "meta": "发布 2026-11-12",
+          "title": "LeaseWire",
+          "url": "https://www.producthunt.com/products/leasewire"
+        },
+        {
+          "meta": "发布 2026-11-12",
+          "title": "Marqly 7.0",
+          "url": "https://www.producthunt.com/products/marqly"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Nvidia appoints ex-Synopsys CEO Harvey C. Jones as its first-ever board chair; the board's Jensen Huang exit press release does not include a quote from Huang",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-fired-nvidia"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Jensen Huang's resignation caps a 33-year career, growing Nvidia from a GPU maker to an AI giant; born in Taiwan, he moved to the US at 10 and has a ~3.6% stake",
+          "url": "https://www.wsj.com/tech/ai/jensen-huang-built-nvidia-its-chips-made-the-ai-boom-possible-bef1b4bb?st=fd71DX&reflink=desktopwebshare_permalink"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Google launches Gemini 4 Hydrogen, calling it a major upgrade over Gemini 3.8 Flash, at $1.50/1M input and $7.50/1M output tokens across its 1M context window",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Google says Gemini 4 Hydrogen is available across AI Studio, the Gemini API, Search, paid AI Pro and Ultra tiers in Antigravity, and more",
+          "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Artificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol",
+          "url": "https://x.com/artificialanlys/status/2120941511223185722"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-11-13T11:08:35+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-11-13T11:08:35+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-13T11:08:35+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-11-13T11:08:35+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-13T11:08:35+08:00",
+      "id": "hacker-news",
+      "itemCount": 5,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-11-13T11:08:35+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-13T11:08:35+08:00",
+      "id": "arxiv",
+      "itemCount": 6,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": "2026-11-13T11:08:35+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-13T11:08:35+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-11-13T11:08:35+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-13T11:08:35+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-11-13T11:08:35+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-13T11:08:39+08:00",
+      "id": "techmeme",
+      "itemCount": 5,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-11-13T11:08:39+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-13T11:08:25+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 0,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": null,
+      "message": "来源要求验证，已停止该来源",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-13T11:07:08+08:00",
+      "id": "wechat-appso",
+      "itemCount": 2,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-11-13T11:07:08+08:00",
+      "message": "今日 2 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-13T11:07:08+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 1,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-11-13T11:07:08+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-13T11:07:08+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 1,
+      "label": "智东西",
+      "lastSuccessAt": "2026-11-13T11:07:08+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-13T11:07:08+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 0,
+      "label": "花叔",
+      "lastSuccessAt": "2026-11-13T11:07:08+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

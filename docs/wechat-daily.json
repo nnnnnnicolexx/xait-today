@@ -5,28 +5,48 @@
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-12 · 采集时显示：55 分钟前 · 打开账号列表",
-          "title": "黄仁勋再曝婚外情，英伟达董事会或启动罢免/字节或推出「中国版Muse」/苹果支持社区将永久关闭",
+          "meta": "2026-11-13 · 采集时显示：3 小时前 · 打开账号列表",
+          "title": "特朗普：能接替黄仁勋的只有库克/腾讯辟谣「裁员50%」传言/微信「看一看」测试短剧入口",
+          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-11-13 · 采集时显示：4 小时前 · 打开账号列表",
+          "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
           "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
         }
       ],
       "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
-      "status": "今日 1 篇",
+      "status": "今日 2 篇",
       "statusTone": "fresh"
     },
     {
       "account": "数字生命卡兹克",
-      "items": [],
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-11-13 · 采集时显示：3 小时前 · 打开账号列表",
+          "title": "黄仁勋辞职始末。",
+          "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+        }
+      ],
       "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
-      "status": "今日未检出新文章",
-      "statusTone": "quiet"
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
     },
     {
       "account": "智东西",
-      "items": [],
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-11-13 · 采集时显示：1小时前 · 打开账号列表",
+          "title": "“黄仁勋辞职是个错误”！",
+          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+        }
+      ],
       "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
-      "status": "今日未检出新文章",
-      "statusTone": "quiet"
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
     },
     {
       "account": "花叔",
@@ -36,9 +56,9 @@
       "statusTone": "quiet"
     }
   ],
-  "capturedAt": "2026-11-12T08:44:44+08:00",
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T08:46:38+08:00",
+  "capturedAt": "2026-11-13T11:07:08+08:00",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T11:08:39+08:00",
   "schemaVersion": 1,
-  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-12T08:44:44+08:00；相对时间以该采集时刻为准。"
+  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-13T11:07:08+08:00；相对时间以该采集时刻为准。"
 }
