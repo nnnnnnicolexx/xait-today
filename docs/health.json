@@ -1,7 +1,7 @@
 {
   "buildMode": "offline",
-  "generatedAt": "2026-11-13T11:08:39+08:00",
-  "issueCount": 62,
+  "generatedAt": "2026-11-14T08:46:51+08:00",
+  "issueCount": 63,
   "issueSha256": {
     "2026-09-01": "8d90ab5753eca19cf135287cab1c76877dc4e3c9e66161c85ae69dec1a8e4b37",
     "2026-09-02": "4f6005ad89bb01e73d63a7f84fbc70f7637eaa5e37c077646189415f3908c5ac",
@@ -64,9 +64,10 @@
     "2026-11-10": "8ce348eb31331cc8faa4cf2476e1c2cba7c2bc0f7eefdacf7f60880cf4b61862",
     "2026-11-11": "c52fe0606db00e9d1a2212207c94f6b4b39ecb34ff5c541525268e85fb70527c",
     "2026-11-12": "77e5d195a134947b9021533d15ed4256ba0e42049b67bb38a00de13cb04f15b2",
-    "2026-11-13": "283270fe54567eb0908aa6aeec3ddbdf041b315335cb3af116147a4b44de3f54"
+    "2026-11-13": "283270fe54567eb0908aa6aeec3ddbdf041b315335cb3af116147a4b44de3f54",
+    "2026-11-14": "713c6ce22fb3aa27a7a7d25c1ee72174668c2f4dba7694ddbed2b06b71f5cd78"
   },
-  "latest": "2026-11-13",
+  "latest": "2026-11-14",
   "schemaVersion": 1,
   "status": "ok"
 }

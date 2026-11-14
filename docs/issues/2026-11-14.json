@@ -1,0 +1,909 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f7094707e7d46deb1e988839",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-413e30f56cd32f9921b8b270",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-d1d7019779af09ba6c79bf53",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-3b167360b533accfc4ffca41",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9bfa1edff21890c43aff4660",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-bad62c45cdbe7262eb7076c8",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-97a5eb2159ee2d17b077b57a",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "louislam/uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b111dc87a634728fd656b86d",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "block/buzz",
+      "url": "https://github.com/block/buzz"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b4ee57fd2ea4ea31db9eb18c",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-069a7c791058ea84daed57a6",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-5ff9eab19c6c9c84ee524661",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "Likely7/Veyra-NRVideo",
+      "url": "https://github.com/Likely7/Veyra-NRVideo"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-e56790b739fdad6ac75463a5",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f2a4fa72fda06f31d3b7d750",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1253a84781da16f4a19b3d7e",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-2fe1b5f71f0ceba1d285e97d",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ebe7f048933bd6bbe04f8c50",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a86301dbd611d222e15e2acf",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-27de9326a9763cab82bf6be4",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-2d7bf2368d8cc7d12001d2dd",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-0dc33a65971c38f8c53f9a91",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "HolyArrs/HolyArrs",
+      "url": "https://github.com/HolyArrs/HolyArrs"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-edb89776848c3611c2478523",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "kolbicz/WQFiles",
+      "url": "https://github.com/kolbicz/WQFiles"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a3413765611034737f685a37",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "serveroshq/panel",
+      "url": "https://github.com/serveroshq/panel"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-7d2f3ac9144ef818542af393",
+      "publishedAt": "2026-11-13T17:30:10Z",
+      "sourceId": "hacker-news",
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-015423623c8ed643daa82ecd",
+      "publishedAt": "2026-11-13T23:40:12Z",
+      "sourceId": "hacker-news",
+      "title": "Doc-foundry – AI writes Security detection rules, then proves they work",
+      "url": "https://github.com/mjha-arya/DOC-foundry"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-9587bd1a73a742591fba4eb5",
+      "publishedAt": "2026-11-13T21:01:11Z",
+      "sourceId": "hacker-news",
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "url": "https://atg.science/careers"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8b80f6204383563ce8072eab",
+      "publishedAt": "2026-11-12T18:59:52Z",
+      "sourceId": "arxiv",
+      "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "url": "https://arxiv.org/abs/2611.17332v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-67f93a5e28f464dad5f41605",
+      "publishedAt": "2026-11-12T18:59:06Z",
+      "sourceId": "arxiv",
+      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "url": "https://arxiv.org/abs/2611.17323v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-74b0230e86c4c73608ed94a9",
+      "publishedAt": "2026-11-12T18:58:50Z",
+      "sourceId": "arxiv",
+      "title": "Learning When Diffusion Language Models Should Regenerate",
+      "url": "https://arxiv.org/abs/2611.17320v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-c8c623cb562ef77de806ccd7",
+      "publishedAt": "2026-11-12T18:58:22Z",
+      "sourceId": "arxiv",
+      "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+      "url": "https://arxiv.org/abs/2611.17316v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-cd3793ea928c6f866268b32a",
+      "publishedAt": "2026-11-12T18:57:49Z",
+      "sourceId": "arxiv",
+      "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+      "url": "https://arxiv.org/abs/2611.17314v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e25b64d2ccaf6f9c9b579e17",
+      "publishedAt": "2026-11-12T18:57:48Z",
+      "sourceId": "arxiv",
+      "title": "Sketching Language Models for Context Attribution",
+      "url": "https://arxiv.org/abs/2611.17313v1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e75bd1784ab85d21c268b233",
+      "publishedAt": "2026-10-26T04:56:03-07:00",
+      "sourceId": "product-hunt",
+      "title": "Templify AI",
+      "url": "https://www.producthunt.com/products/templify"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-a77d087a9a787c7d076bb869",
+      "publishedAt": "2026-10-16T07:05:37-07:00",
+      "sourceId": "product-hunt",
+      "title": "Filament by Galaxy",
+      "url": "https://www.producthunt.com/products/galaxy"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-137f89b24c7a1e810b432154",
+      "publishedAt": "2026-11-12T17:35:46-08:00",
+      "sourceId": "product-hunt",
+      "title": "WHOOP Humans",
+      "url": "https://www.producthunt.com/products/whoop"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-1ed07321ca1b7304009299ce",
+      "publishedAt": "2026-11-10T16:54:47-08:00",
+      "sourceId": "product-hunt",
+      "title": "Google Pixel Tag",
+      "url": "https://www.producthunt.com/products/google"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-dc4a801db31cdbb72890d012",
+      "publishedAt": "2026-10-18T13:15:41-07:00",
+      "sourceId": "product-hunt",
+      "title": "qorqbot",
+      "url": "https://www.producthunt.com/products/qorqbot"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-78e97909c9838430474c56c4",
+      "publishedAt": "2026-11-11T21:01:59-08:00",
+      "sourceId": "product-hunt",
+      "title": "Trainn MCP",
+      "url": "https://www.producthunt.com/products/trainn"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-65acb2323f96ef94b0ab4af8",
+      "publishedAt": "2026-11-12T10:54:12-08:00",
+      "sourceId": "product-hunt",
+      "title": "GAtrends",
+      "url": "https://www.producthunt.com/products/gatrends"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-14T08:46:48+08:00",
+      "dateEvidence": "exact",
+      "id": "article-15cd21f724bbac57d6fbf58b",
+      "publishedAt": "2026-11-12T10:37:12-08:00",
+      "sourceId": "product-hunt",
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://www.producthunt.com/products/gemini-6"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-14T08:46:51+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ced91097bdcf5953ddd5e9f0",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-14T08:46:51+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f2d59d8b350e67db8f09771f",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "ASI, developer of AI tool SMART, says the FAA outage “is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC”",
+      "url": "https://x.com/airspaceintel/status/2121371183836696583"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-14T08:46:51+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9197d17df0c16b099e963ed2",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Microsoft apologizes for the outage, calling it a “technical issue” from a “network capacity upgrade”, and says it was “not related to cyber or AI/agents”",
+      "url": "https://x.com/microsoft/status/2121282013600907325"
+    }
+  ],
+  "date": "2026-11-14",
+  "edition": {
+    "windowEnd": "2026-11-14T08:45:00+08:00",
+    "windowStart": "2026-11-13T08:45:00+08:00"
+  },
+  "generatedAt": "2026-11-14T08:46:51+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-14 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "刚刚，DeepSeek 开放全家桶 API，人人都能打造自己的超级 App",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-11-14T08:43:22+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-14T08:43:22+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "alibaba/open-code-review",
+            "url": "https://github.com/alibaba/open-code-review"
+          },
+          "Go",
+          "215",
+          "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-la"
+        ],
+        [
+          {
+            "text": "GoogleChrome/modern-web-guidance-src",
+            "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+          },
+          "TypeScript",
+          "1,925",
+          "Keep your coding agent up to date with the latest web best practices"
+        ],
+        [
+          {
+            "text": "openai/codex-security",
+            "url": "https://github.com/openai/codex-security"
+          },
+          "TypeScript",
+          "751",
+          "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
+        ],
+        [
+          {
+            "text": "ZhuLinsen/daily_stock_analysis",
+            "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+          },
+          "Python",
+          "256",
+          "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifi"
+        ],
+        [
+          {
+            "text": "we-promise/sure",
+            "url": "https://github.com/we-promise/sure"
+          },
+          "Ruby",
+          "925",
+          "The personal finance app for everyone (by everyone)"
+        ],
+        [
+          {
+            "text": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator"
+          },
+          "TypeScript",
+          "108",
+          "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "huamidev/GestaltX",
+            "url": "https://github.com/huamidev/GestaltX"
+          },
+          "Swift",
+          "7310",
+          "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups."
+        ],
+        [
+          {
+            "text": "jhaizhou-ops/S2Arm",
+            "url": "https://github.com/jhaizhou-ops/S2Arm"
+          },
+          "C#",
+          "2868",
+          "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你"
+        ],
+        [
+          {
+            "text": "Kianuni/Erosion-CN",
+            "url": "https://github.com/Kianuni/Erosion-CN"
+          },
+          "Swift",
+          "1918",
+          "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）"
+        ],
+        [
+          {
+            "text": "apex-compute/ANR",
+            "url": "https://github.com/apex-compute/ANR"
+          },
+          "C++",
+          "1478",
+          "Apex Neural Rendering (ANR) by Apex Compute"
+        ],
+        [
+          {
+            "text": "HybridRobotics/supermimic",
+            "url": "https://github.com/HybridRobotics/supermimic"
+          },
+          "Python",
+          "1436",
+          "Humanoid whole-body motion tracking with one differentiable world model."
+        ],
+        [
+          {
+            "text": "agentes-chat/agentes-chat",
+            "url": "https://github.com/agentes-chat/agentes-chat"
+          },
+          "TypeScript",
+          "1341",
+          "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, the"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-11-14 · 318 互动/积分 · 90 评论",
+          "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+        },
+        {
+          "meta": "发布 2026-11-14 · 4 互动/积分 · 0 评论",
+          "title": "Doc-foundry – AI writes Security detection rules, then proves they work",
+          "url": "https://github.com/mjha-arya/DOC-foundry"
+        },
+        {
+          "meta": "发布 2026-11-14 · 0 互动/积分 · 0 评论",
+          "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "url": "https://atg.science/careers"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-11-13",
+          "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+          "url": "https://arxiv.org/abs/2611.17332v1"
+        },
+        {
+          "meta": "发布 2026-11-13",
+          "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+          "url": "https://arxiv.org/abs/2611.17323v1"
+        },
+        {
+          "meta": "发布 2026-11-13",
+          "title": "Learning When Diffusion Language Models Should Regenerate",
+          "url": "https://arxiv.org/abs/2611.17320v1"
+        },
+        {
+          "meta": "发布 2026-11-13",
+          "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+          "url": "https://arxiv.org/abs/2611.17316v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-10-26",
+          "title": "Templify AI",
+          "url": "https://www.producthunt.com/products/templify"
+        },
+        {
+          "meta": "发布 2026-10-16",
+          "title": "Filament by Galaxy",
+          "url": "https://www.producthunt.com/products/galaxy"
+        },
+        {
+          "meta": "发布 2026-11-13",
+          "title": "WHOOP Humans",
+          "url": "https://www.producthunt.com/products/whoop"
+        },
+        {
+          "meta": "发布 2026-11-11",
+          "title": "Google Pixel Tag",
+          "url": "https://www.producthunt.com/products/google"
+        },
+        {
+          "meta": "发布 2026-10-19",
+          "title": "qorqbot",
+          "url": "https://www.producthunt.com/products/qorqbot"
+        },
+        {
+          "meta": "发布 2026-11-12",
+          "title": "Trainn MCP",
+          "url": "https://www.producthunt.com/products/trainn"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US",
+          "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "ASI, developer of AI tool SMART, says the FAA outage “is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC”",
+          "url": "https://x.com/airspaceintel/status/2121371183836696583"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Microsoft apologizes for the outage, calling it a “technical issue” from a “network capacity upgrade”, and says it was “not related to cyber or AI/agents”",
+          "url": "https://x.com/microsoft/status/2121282013600907325"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "product-hunt-ranking",
+      "items": [
+        {
+          "description": "A simulated world that makes your agent improve on every run",
+          "rank": 1,
+          "title": "Plurai Simulation",
+          "url": "https://www.producthunt.com/products/plurai"
+        },
+        {
+          "description": "Codex for creative team",
+          "editorialCategory": "ai-creative",
+          "rank": 2,
+          "title": "YouArt Desktop App",
+          "url": "https://www.producthunt.com/products/youart"
+        },
+        {
+          "description": "Open source graph database for your AI agents",
+          "editorialCategory": "ai-workflows",
+          "rank": 3,
+          "title": "Omnigraph",
+          "url": "https://www.producthunt.com/products/omnigraph"
+        },
+        {
+          "description": "Edit your website like Figma!",
+          "rank": 4,
+          "title": "⌘+L",
+          "url": "https://www.producthunt.com/products/l"
+        },
+        {
+          "description": "Give your AI agents a place to build, run, and ship",
+          "editorialCategory": "ai-workflows",
+          "rank": 5,
+          "title": "Spacefast by Automattic",
+          "url": "https://www.producthunt.com/products/spacefast-by-automattic"
+        },
+        {
+          "description": "Create and edit faster with AI across Adobe apps",
+          "rank": 6,
+          "title": "Adobe AI Assistant",
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant"
+        },
+        {
+          "description": "Long-term memory for agents, across every harness",
+          "rank": 7,
+          "title": "Harness Memory",
+          "url": "https://www.producthunt.com/products/epsilla"
+        },
+        {
+          "description": "Find out how your AI agent fails. Before your users do.",
+          "rank": 8,
+          "title": "three.dev",
+          "url": "https://www.producthunt.com/products/three-dev"
+        },
+        {
+          "description": "Your screenshots named automatically",
+          "rank": 9,
+          "title": "Nameshot",
+          "url": "https://www.producthunt.com/products/nameshot-2"
+        },
+        {
+          "description": "Bots work together alongside your team",
+          "rank": 10,
+          "title": "Grok Bot 1.0",
+          "url": "https://www.producthunt.com/products/grok"
+        }
+      ],
+      "kind": "links",
+      "ranking": {
+        "captureMethod": "public-page",
+        "capturedAt": "2026-11-14T08:46:20+08:00",
+        "date": "2026-11-12",
+        "scope": "featured",
+        "timezone": "America/Los_Angeles",
+        "url": "https://www.producthunt.com/leaderboard/daily/2026/11/12"
+      },
+      "title": "🏆 Product Hunt · 热门产品 Top 10"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-11-14T08:46:48+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-11-14T08:46:48+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-14T08:46:48+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-11-14T08:46:48+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-14T08:46:48+08:00",
+      "id": "hacker-news",
+      "itemCount": 3,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-11-14T08:46:48+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-14T08:46:48+08:00",
+      "id": "arxiv",
+      "itemCount": 6,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": "2026-11-14T08:46:48+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-14T08:46:48+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-11-14T08:46:48+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-14T08:46:48+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-11-14T08:46:48+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-14T08:46:51+08:00",
+      "id": "techmeme",
+      "itemCount": 3,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-11-14T08:46:51+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-14T08:46:20+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 10,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": "2026-11-14T08:46:20+08:00",
+      "message": "已核验官方公开日榜的完整 Top 10",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-14T08:43:22+08:00",
+      "id": "wechat-appso",
+      "itemCount": 1,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-11-14T08:43:22+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-14T08:43:22+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 0,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-11-14T08:43:22+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-14T08:43:22+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-11-14T08:43:22+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-14T08:43:22+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 0,
+      "label": "花叔",
+      "lastSuccessAt": "2026-11-14T08:43:22+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}
