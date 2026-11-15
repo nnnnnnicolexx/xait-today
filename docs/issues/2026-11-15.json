@@ -1,0 +1,633 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-bad62c45cdbe7262eb7076c8",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-413e30f56cd32f9921b8b270",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b4ee57fd2ea4ea31db9eb18c",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-e56790b739fdad6ac75463a5",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f7094707e7d46deb1e988839",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-606540881ce33632a9d8c08c",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1cd6462b70927e08e86dedbc",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-19ee024d340e4a3281455832",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-fdcb5e8a6ba8153a64be699c",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f706122b3b65a8e8c54fd2f0",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-97a5eb2159ee2d17b077b57a",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "louislam/uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9bfa1edff21890c43aff4660",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f2a4fa72fda06f31d3b7d750",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-2fe1b5f71f0ceba1d285e97d",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ebe7f048933bd6bbe04f8c50",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-541835d0743eac14516d0153",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a86301dbd611d222e15e2acf",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-2d7bf2368d8cc7d12001d2dd",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-27de9326a9763cab82bf6be4",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-0dc33a65971c38f8c53f9a91",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "HolyArrs/HolyArrs",
+      "url": "https://github.com/HolyArrs/HolyArrs"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-3c86c4726b548e98b3b3c847",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "DevedevT/FFmpeg-GUI-Editor-Windows",
+      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-908558240f90fe53044e693b",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "adriadam10/mkw-recomp",
+      "url": "https://github.com/adriadam10/mkw-recomp"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "exact",
+      "id": "article-2c6778990c4c94c261e84de9",
+      "publishedAt": "2026-11-13T03:39:17-08:00",
+      "sourceId": "product-hunt",
+      "title": "Tabletop by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "exact",
+      "id": "article-21544034047c5162606523f4",
+      "publishedAt": "2026-11-09T07:57:03-08:00",
+      "sourceId": "product-hunt",
+      "title": "ScreenGo",
+      "url": "https://www.producthunt.com/products/screengo"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "exact",
+      "id": "article-48e9021794379b4371a4a64a",
+      "publishedAt": "2026-11-05T05:41:38-08:00",
+      "sourceId": "product-hunt",
+      "title": "VB Notes",
+      "url": "https://www.producthunt.com/products/vb-notes"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "exact",
+      "id": "article-a86274f179bde97449d278b4",
+      "publishedAt": "2026-11-06T05:40:07-08:00",
+      "sourceId": "product-hunt",
+      "title": "Nexus",
+      "url": "https://www.producthunt.com/products/project-nexus-2"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e908b8b2eeedf2030a466277",
+      "publishedAt": "2026-10-21T13:14:51-07:00",
+      "sourceId": "product-hunt",
+      "title": "MAP & GO!",
+      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "exact",
+      "id": "article-b2a043518fb5818e998b8d6e",
+      "publishedAt": "2026-11-13T07:03:50-08:00",
+      "sourceId": "product-hunt",
+      "title": "Tacie",
+      "url": "https://www.producthunt.com/products/tacie"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "exact",
+      "id": "article-2ad33ddc088c59e62b1e71a7",
+      "publishedAt": "2026-11-13T00:53:51-08:00",
+      "sourceId": "product-hunt",
+      "title": "Businesses in ChatGPT",
+      "url": "https://www.producthunt.com/products/openai"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-15T08:51:31+08:00",
+      "dateEvidence": "exact",
+      "id": "article-571b2094340451479f7d3c25",
+      "publishedAt": "2026-11-02T02:23:37-08:00",
+      "sourceId": "product-hunt",
+      "title": "HiringNow",
+      "url": "https://www.producthunt.com/products/hiringnow"
+    }
+  ],
+  "date": "2026-11-15",
+  "edition": {
+    "windowEnd": "2026-11-15T08:45:00+08:00",
+    "windowStart": "2026-11-14T08:45:00+08:00"
+  },
+  "generatedAt": "2026-11-15T08:52:09+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-11-15T08:49:54+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-15T08:49:54+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator"
+          },
+          "TypeScript",
+          "408",
+          "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
+        ],
+        [
+          {
+            "text": "GoogleChrome/modern-web-guidance-src",
+            "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+          },
+          "TypeScript",
+          "1,231",
+          "Keep your coding agent up to date with the latest web best practices"
+        ],
+        [
+          {
+            "text": "tradermonty/claude-trading-skills",
+            "url": "https://github.com/tradermonty/claude-trading-skills"
+          },
+          "Python",
+          "553",
+          "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
+        ],
+        [
+          {
+            "text": "ChromeDevTools/chrome-devtools-mcp",
+            "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+          },
+          "TypeScript",
+          "664",
+          "Chrome DevTools for coding agents"
+        ],
+        [
+          {
+            "text": "alibaba/open-code-review",
+            "url": "https://github.com/alibaba/open-code-review"
+          },
+          "Go",
+          "893",
+          "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-la"
+        ],
+        [
+          {
+            "text": "QwenLM/qwen-code",
+            "url": "https://github.com/QwenLM/qwen-code"
+          },
+          "TypeScript",
+          "64",
+          "An open-source AI coding agent that lives in your terminal."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "huamidev/GestaltX",
+            "url": "https://github.com/huamidev/GestaltX"
+          },
+          "Swift",
+          "7568",
+          "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups."
+        ],
+        [
+          {
+            "text": "Kianuni/Erosion-CN",
+            "url": "https://github.com/Kianuni/Erosion-CN"
+          },
+          "Swift",
+          "2057",
+          "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）"
+        ],
+        [
+          {
+            "text": "apex-compute/ANR",
+            "url": "https://github.com/apex-compute/ANR"
+          },
+          "C++",
+          "1839",
+          "Apex Neural Rendering (ANR) by Apex Compute"
+        ],
+        [
+          {
+            "text": "deepseek-ai/chat-demo",
+            "url": "https://github.com/deepseek-ai/chat-demo"
+          },
+          "TypeScript",
+          "1754",
+          "Chat Demo"
+        ],
+        [
+          {
+            "text": "HybridRobotics/supermimic",
+            "url": "https://github.com/HybridRobotics/supermimic"
+          },
+          "Python",
+          "1501",
+          "Humanoid whole-body motion tracking with one differentiable world model."
+        ],
+        [
+          {
+            "text": "FrigadeHQ/yogurt",
+            "url": "https://github.com/FrigadeHQ/yogurt"
+          },
+          "TypeScript",
+          "1488",
+          "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux."
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-11-13",
+          "title": "Tabletop by Google Labs",
+          "url": "https://www.producthunt.com/products/google-labs"
+        },
+        {
+          "meta": "发布 2026-11-09",
+          "title": "ScreenGo",
+          "url": "https://www.producthunt.com/products/screengo"
+        },
+        {
+          "meta": "发布 2026-11-05",
+          "title": "VB Notes",
+          "url": "https://www.producthunt.com/products/vb-notes"
+        },
+        {
+          "meta": "发布 2026-11-06",
+          "title": "Nexus",
+          "url": "https://www.producthunt.com/products/project-nexus-2"
+        },
+        {
+          "meta": "发布 2026-10-22",
+          "title": "MAP & GO!",
+          "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920"
+        },
+        {
+          "meta": "发布 2026-11-13",
+          "title": "Tacie",
+          "url": "https://www.producthunt.com/products/tacie"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-11-15T08:51:31+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-11-15T08:51:31+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-15T08:51:31+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-11-15T08:51:31+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-15T08:51:31+08:00",
+      "id": "hacker-news",
+      "itemCount": 0,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": null,
+      "message": "公开来源连接超时",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-15T08:51:31+08:00",
+      "id": "arxiv",
+      "itemCount": 0,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": null,
+      "message": "公开来源连接超时",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-15T08:51:31+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-11-15T08:51:31+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-15T08:51:31+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-11-15T08:51:31+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-15T08:52:09+08:00",
+      "id": "techmeme",
+      "itemCount": 0,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": null,
+      "message": "公开来源连接失败或超时。",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-15T08:51:19+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 0,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": null,
+      "message": "正常浏览器暂时无法访问官方榜单，已停止该来源",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-15T08:49:54+08:00",
+      "id": "wechat-appso",
+      "itemCount": 0,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-11-15T08:49:54+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-15T08:49:54+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 0,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-11-15T08:49:54+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-15T08:49:54+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-11-15T08:49:54+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-15T08:49:54+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 0,
+      "label": "花叔",
+      "lastSuccessAt": "2026-11-15T08:49:54+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}
