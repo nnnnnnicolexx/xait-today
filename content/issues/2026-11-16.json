@@ -1,0 +1,656 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1cd6462b70927e08e86dedbc",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-19ee024d340e4a3281455832",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b3d8306b65b662cf7489c388",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-bad62c45cdbe7262eb7076c8",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-e56790b739fdad6ac75463a5",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f7094707e7d46deb1e988839",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-e37946eb679a49123b50c6ce",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-17306a52136516ede9615bdb",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ggml-org/ggml",
+      "url": "https://github.com/ggml-org/ggml"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-dd9885c001e24508d005d481",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-413e30f56cd32f9921b8b270",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b4ee57fd2ea4ea31db9eb18c",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-16764b668fc8d21add622409",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-c17cf119813f162a5e3dee53",
+      "publishedAt": "2026-11-15T14:46:58Z",
+      "sourceId": "hacker-news",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-3ab62853f41584308beeb4a5",
+      "publishedAt": "2026-11-12T05:29:24Z",
+      "sourceId": "hacker-news",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-9cf9740378ba0381f37f7e4a",
+      "publishedAt": "2026-11-15T12:14:06Z",
+      "sourceId": "hacker-news",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8b80f6204383563ce8072eab",
+      "publishedAt": "2026-11-12T18:59:52Z",
+      "sourceId": "arxiv",
+      "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "url": "https://arxiv.org/abs/2611.17332v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-67f93a5e28f464dad5f41605",
+      "publishedAt": "2026-11-12T18:59:06Z",
+      "sourceId": "arxiv",
+      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "url": "https://arxiv.org/abs/2611.17323v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-74b0230e86c4c73608ed94a9",
+      "publishedAt": "2026-11-12T18:58:50Z",
+      "sourceId": "arxiv",
+      "title": "Learning When Diffusion Language Models Should Regenerate",
+      "url": "https://arxiv.org/abs/2611.17320v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-c8c623cb562ef77de806ccd7",
+      "publishedAt": "2026-11-12T18:58:22Z",
+      "sourceId": "arxiv",
+      "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+      "url": "https://arxiv.org/abs/2611.17316v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-cd3793ea928c6f866268b32a",
+      "publishedAt": "2026-11-12T18:57:49Z",
+      "sourceId": "arxiv",
+      "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+      "url": "https://arxiv.org/abs/2611.17314v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e25b64d2ccaf6f9c9b579e17",
+      "publishedAt": "2026-11-12T18:57:48Z",
+      "sourceId": "arxiv",
+      "title": "Sketching Language Models for Context Attribution",
+      "url": "https://arxiv.org/abs/2611.17313v1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-165d6b78d649ee57d6f07d1d",
+      "publishedAt": "2026-11-07T06:08:39-08:00",
+      "sourceId": "product-hunt",
+      "title": "Tulvo",
+      "url": "https://www.producthunt.com/products/tulvo"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-96de6b636a16e78ed4bc0339",
+      "publishedAt": "2026-11-06T23:14:18-08:00",
+      "sourceId": "product-hunt",
+      "title": "TwoBucket",
+      "url": "https://www.producthunt.com/products/twobucket"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-9597b86b814baa780768ba4f",
+      "publishedAt": "2026-11-12T02:07:59-08:00",
+      "sourceId": "product-hunt",
+      "title": "Talyn",
+      "url": "https://www.producthunt.com/products/talyn"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-ed98834374484ecd64dbe8f8",
+      "publishedAt": "2026-11-09T21:18:49-08:00",
+      "sourceId": "product-hunt",
+      "title": "Frevana Multiplayer",
+      "url": "https://www.producthunt.com/products/frevana-2"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-0fef973aa59e33ff14bd9ded",
+      "publishedAt": "2026-11-12T15:32:53-08:00",
+      "sourceId": "product-hunt",
+      "title": "Emayler",
+      "url": "https://www.producthunt.com/products/emayler"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-a259e06157bb4a23f6187966",
+      "publishedAt": "2026-11-14T22:22:09-08:00",
+      "sourceId": "product-hunt",
+      "title": "Canvas by AgentGrid.io",
+      "url": "https://www.producthunt.com/products/agentgrid-io"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-0d7499ecbb72da767ae4317a",
+      "publishedAt": "2026-11-12T08:47:12-08:00",
+      "sourceId": "product-hunt",
+      "title": "Pixel Office",
+      "url": "https://www.producthunt.com/products/pixel-office-3"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-16T08:45:08+08:00",
+      "dateEvidence": "exact",
+      "id": "article-3a2d245c09acb1f8bb3d67f1",
+      "publishedAt": "2026-11-07T15:33:53-08:00",
+      "sourceId": "product-hunt",
+      "title": "collecto.rs",
+      "url": "https://www.producthunt.com/products/collecto-rs"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-16T08:45:12+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c38f615fb96145b6f33becbf",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions",
+      "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?st=geQhk5"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-16T08:45:12+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b3ad7a54c1ae2bf5ac57696e",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement",
+      "url": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom"
+    }
+  ],
+  "date": "2026-11-16",
+  "edition": {
+    "windowEnd": "2026-11-16T08:45:00+08:00",
+    "windowStart": "2026-11-15T08:45:00+08:00"
+  },
+  "generatedAt": "2026-11-16T08:45:15+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-16 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "突发｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-16 · 采集时显示：46 分钟前 · 打开账号列表",
+              "title": "这些AI手搓的几百K的3D世界，正在让HTML再次伟大。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-11-16T08:42:40+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-16T08:42:40+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "dream-num/univer",
+            "url": "https://github.com/dream-num/univer"
+          },
+          "TypeScript",
+          "988",
+          "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible o"
+        ],
+        [
+          {
+            "text": "ag-ui-protocol/ag-ui",
+            "url": "https://github.com/ag-ui-protocol/ag-ui"
+          },
+          "TypeScript",
+          "355",
+          "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
+        ],
+        [
+          {
+            "text": "google-labs-code/stitch-skills",
+            "url": "https://github.com/google-labs-code/stitch-skills"
+          },
+          "TypeScript",
+          "247",
+          "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, "
+        ],
+        [
+          {
+            "text": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator"
+          },
+          "TypeScript",
+          "866",
+          "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
+        ],
+        [
+          {
+            "text": "ChromeDevTools/chrome-devtools-mcp",
+            "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+          },
+          "TypeScript",
+          "717",
+          "Chrome DevTools for coding agents"
+        ],
+        [
+          {
+            "text": "alibaba/open-code-review",
+            "url": "https://github.com/alibaba/open-code-review"
+          },
+          "Go",
+          "691",
+          "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-la"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-11-15 · 1068 互动/积分 · 579 评论",
+          "title": "All AI-generated code should be Open Source",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+        },
+        {
+          "meta": "发布 2026-11-12 · 325 互动/积分 · 160 评论",
+          "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+          "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+        },
+        {
+          "meta": "发布 2026-11-15 · 195 互动/积分 · 26 评论",
+          "title": "Understanding Positional Embeddings in Modern LLMs",
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-11-13",
+          "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+          "url": "https://arxiv.org/abs/2611.17332v1"
+        },
+        {
+          "meta": "发布 2026-11-13",
+          "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+          "url": "https://arxiv.org/abs/2611.17323v1"
+        },
+        {
+          "meta": "发布 2026-11-13",
+          "title": "Learning When Diffusion Language Models Should Regenerate",
+          "url": "https://arxiv.org/abs/2611.17320v1"
+        },
+        {
+          "meta": "发布 2026-11-13",
+          "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+          "url": "https://arxiv.org/abs/2611.17316v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-11-07",
+          "title": "Tulvo",
+          "url": "https://www.producthunt.com/products/tulvo"
+        },
+        {
+          "meta": "发布 2026-11-07",
+          "title": "TwoBucket",
+          "url": "https://www.producthunt.com/products/twobucket"
+        },
+        {
+          "meta": "发布 2026-11-12",
+          "title": "Talyn",
+          "url": "https://www.producthunt.com/products/talyn"
+        },
+        {
+          "meta": "发布 2026-11-10",
+          "title": "Frevana Multiplayer",
+          "url": "https://www.producthunt.com/products/frevana-2"
+        },
+        {
+          "meta": "发布 2026-11-13",
+          "title": "Emayler",
+          "url": "https://www.producthunt.com/products/emayler"
+        },
+        {
+          "meta": "发布 2026-11-15",
+          "title": "Canvas by AgentGrid.io",
+          "url": "https://www.producthunt.com/products/agentgrid-io"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions",
+          "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?st=geQhk5"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement",
+          "url": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-11-16T08:45:08+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-11-16T08:45:08+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-16T08:45:08+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 0,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": null,
+      "message": "来源要求验证或限制访问，已停止该来源",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-16T08:45:08+08:00",
+      "id": "hacker-news",
+      "itemCount": 3,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-11-16T08:45:08+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-16T08:45:08+08:00",
+      "id": "arxiv",
+      "itemCount": 6,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": "2026-11-16T08:45:08+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-16T08:45:08+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-11-16T08:45:08+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-16T08:45:08+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-11-16T08:45:08+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-16T08:45:12+08:00",
+      "id": "techmeme",
+      "itemCount": 2,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-11-16T08:45:12+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-16T08:44:08+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 0,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": null,
+      "message": "正常浏览器暂时无法访问官方榜单，已停止该来源",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-16T08:42:40+08:00",
+      "id": "wechat-appso",
+      "itemCount": 1,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-11-16T08:42:40+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-16T08:42:40+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 1,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-11-16T08:42:40+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-16T08:42:40+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-11-16T08:42:40+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-16T08:42:40+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 0,
+      "label": "花叔",
+      "lastSuccessAt": "2026-11-16T08:42:40+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}
