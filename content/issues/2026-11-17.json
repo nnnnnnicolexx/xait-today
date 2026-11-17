@@ -1,0 +1,801 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-19ee024d340e4a3281455832",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-bad62c45cdbe7262eb7076c8",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1cd6462b70927e08e86dedbc",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b4ee57fd2ea4ea31db9eb18c",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c57f127a7ac0fa570ba130c8",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-292706166c0ed6733db68fa5",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "DeanChensj/jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b3d8306b65b662cf7489c388",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-049a229e428dfe921a234d1a",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-16764b668fc8d21add622409",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f7094707e7d46deb1e988839",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c20352f27efb6f63ba911ed7",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-e56790b739fdad6ac75463a5",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-541835d0743eac14516d0153",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ebe7f048933bd6bbe04f8c50",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-d17643641e5cbc4876ebe9f9",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "hitkeeen/blender-ai-mcp-addon",
+      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ac61160038ea59e50d708698",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Noniv/abyssal-garden",
+      "url": "https://github.com/Noniv/abyssal-garden"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-819204ea46a2bd2c9ed9dc66",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "duwqijlk/muse-protocol",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c61e70779118b88a56767eba",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Eynnzerr/TelemetryCleaner",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-d82fc6594e2b1f224d75c371",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "ZiChuanLan/freebie-radar",
+      "url": "https://github.com/ZiChuanLan/freebie-radar"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1af5175eb7f7e2743ba81250",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "opencoredev/islandcn",
+      "url": "https://github.com/opencoredev/islandcn"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ada74a915e2ff8e7ca171a29",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "AIRzZ90/study-materials-fork",
+      "url": "https://github.com/AIRzZ90/study-materials-fork"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9b5993b405f8833bfb6e50e3",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "linknimiball1974/ai-texture-forge",
+      "url": "https://github.com/linknimiball1974/ai-texture-forge"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-b44febf7d5903a3bed152db7",
+      "publishedAt": "2026-11-13T18:58:08Z",
+      "sourceId": "arxiv",
+      "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+      "url": "https://arxiv.org/abs/2611.18553v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-c1a4e739bc216d11012e292e",
+      "publishedAt": "2026-11-13T18:50:05Z",
+      "sourceId": "arxiv",
+      "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.18543v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-af26493e92a44a215ea63581",
+      "publishedAt": "2026-11-13T18:49:36Z",
+      "sourceId": "arxiv",
+      "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
+      "url": "https://arxiv.org/abs/2611.18542v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-9873d4237809e9d96f6ad72e",
+      "publishedAt": "2026-11-13T18:45:49Z",
+      "sourceId": "arxiv",
+      "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
+      "url": "https://arxiv.org/abs/2611.18533v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-0265ea36f4972653fd760171",
+      "publishedAt": "2026-11-13T18:43:24Z",
+      "sourceId": "arxiv",
+      "title": "Alignment by Socialization: Learning Tradeoffs Under Selection",
+      "url": "https://arxiv.org/abs/2611.18531v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-b35feb85f69d71e173ddb6cc",
+      "publishedAt": "2026-11-13T18:41:44Z",
+      "sourceId": "arxiv",
+      "title": "WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators",
+      "url": "https://arxiv.org/abs/2611.18527v1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-a54936cce08b4021a3100740",
+      "publishedAt": "2026-11-15T00:59:05-08:00",
+      "sourceId": "product-hunt",
+      "title": "Punchcutter",
+      "url": "https://www.producthunt.com/products/punchcutter"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-ade1d96f7538a29e9fe8ad07",
+      "publishedAt": "2026-11-15T15:41:27-08:00",
+      "sourceId": "product-hunt",
+      "title": "LexiCAD",
+      "url": "https://www.producthunt.com/products/lexicad"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-287304e0bf91642d81d9a9f1",
+      "publishedAt": "2026-11-15T06:46:35-08:00",
+      "sourceId": "product-hunt",
+      "title": "Cal.com v7",
+      "url": "https://www.producthunt.com/products/cal"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-0772556a2b8930fa6dc0b4ac",
+      "publishedAt": "2026-11-14T16:43:18-08:00",
+      "sourceId": "product-hunt",
+      "title": "Pine Drama Studio",
+      "url": "https://www.producthunt.com/products/pine-drama-studio"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-79670d9731f27734b25c1b86",
+      "publishedAt": "2026-11-15T11:51:59-08:00",
+      "sourceId": "product-hunt",
+      "title": "Puffin",
+      "url": "https://www.producthunt.com/products/puffin-2"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-5f3480991a5253917e42efd0",
+      "publishedAt": "2026-11-15T04:01:57-08:00",
+      "sourceId": "product-hunt",
+      "title": "UI SDK by Vercel",
+      "url": "https://www.producthunt.com/products/ui-sdk"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-4fcd2c129f7635d10945145e",
+      "publishedAt": "2026-11-15T09:59:28-08:00",
+      "sourceId": "product-hunt",
+      "title": "Freebuff",
+      "url": "https://www.producthunt.com/products/freebuff-2"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-17T08:48:39+08:00",
+      "dateEvidence": "exact",
+      "id": "article-d901609adbbc348e7df5fcd7",
+      "publishedAt": "2026-11-09T08:38:00-08:00",
+      "sourceId": "product-hunt",
+      "title": "Cookie Away",
+      "url": "https://www.producthunt.com/products/cookie-away"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-17T08:48:43+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-602cfe4e8ea8d91f9c39ca78",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "The US issues a rule to limit China and other countries from remotely accessing US AI chips and servers in Singapore, Malaysia, Thailand, Indonesia, and Brazil",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-17T08:48:43+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-0e5d2899e95ac7bec0589ad3",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Tighter AI chip export rules are gaining bipartisan support in Congress, such as a bill that would stop Chinese companies from remotely accessing chips overseas",
+      "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-17T08:48:43+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-12234be13ad3a8492225b748",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "California's AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards",
+      "url": "https://www.politico.com/news/2026/11/16/bonta-sues-openai-over-rogue-ai-hack-of-hugging-face-01166953"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-17T08:48:43+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f767055280c90d16f645a93c",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "OpenAI says it signed agreements with independent assessors Apollo Research, METR, Transluce, and Goodfire for its first phase of AI model embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+    }
+  ],
+  "date": "2026-11-17",
+  "edition": {
+    "windowEnd": "2026-11-17T08:45:00+08:00",
+    "windowStart": "2026-11-16T08:45:00+08:00"
+  },
+  "generatedAt": "2026-11-17T08:48:48+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-17 · 采集时显示：55 分钟前 · 打开账号列表",
+              "title": "曝英伟达董事会不考虑让黄仁勋回归/iPhone Duo新增人脸解锁/AI演员方桃子代言美瞳被罚款",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-17 · 采集时显示：50 分钟前 · 打开账号列表",
+              "title": "时隔3年，我重新入职淘宝当了一天设计师，也看见了这个行业最真实的进化。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-11-17T08:46:57+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-17T08:46:57+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "ag-ui-protocol/ag-ui",
+            "url": "https://github.com/ag-ui-protocol/ag-ui"
+          },
+          "TypeScript",
+          "791",
+          "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
+        ],
+        [
+          {
+            "text": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator"
+          },
+          "TypeScript",
+          "696",
+          "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
+        ],
+        [
+          {
+            "text": "dream-num/univer",
+            "url": "https://github.com/dream-num/univer"
+          },
+          "TypeScript",
+          "1,828",
+          "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible o"
+        ],
+        [
+          {
+            "text": "tradermonty/claude-trading-skills",
+            "url": "https://github.com/tradermonty/claude-trading-skills"
+          },
+          "Python",
+          "837",
+          "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
+        ],
+        [
+          {
+            "text": "getarcaneapp/arcane",
+            "url": "https://github.com/getarcaneapp/arcane"
+          },
+          "Go",
+          "46",
+          "Modern Docker Management, Designed for Everyone"
+        ],
+        [
+          {
+            "text": "DeanChensj/jiangshan-map",
+            "url": "https://github.com/DeanChensj/jiangshan-map"
+          },
+          "JavaScript",
+          "288",
+          "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry ro"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "deepseek-ai/chat-demo",
+            "url": "https://github.com/deepseek-ai/chat-demo"
+          },
+          "TypeScript",
+          "4067",
+          "Chat Demo"
+        ],
+        [
+          {
+            "text": "apex-compute/ANR",
+            "url": "https://github.com/apex-compute/ANR"
+          },
+          "C++",
+          "2467",
+          "Apex Neural Rendering (ANR) by Apex Compute"
+        ],
+        [
+          {
+            "text": "hitkeeen/blender-ai-mcp-addon",
+            "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+          },
+          "未提供",
+          "2196",
+          "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D"
+        ],
+        [
+          {
+            "text": "Noniv/abyssal-garden",
+            "url": "https://github.com/Noniv/abyssal-garden"
+          },
+          "JavaScript",
+          "1699",
+          "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images"
+        ],
+        [
+          {
+            "text": "duwqijlk/muse-protocol",
+            "url": "https://github.com/duwqijlk/muse-protocol"
+          },
+          "Python",
+          "1440",
+          "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）"
+        ],
+        [
+          {
+            "text": "Eynnzerr/TelemetryCleaner",
+            "url": "https://github.com/Eynnzerr/TelemetryCleaner"
+          },
+          "Kotlin",
+          "1312",
+          "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-11-14",
+          "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+          "url": "https://arxiv.org/abs/2611.18553v1"
+        },
+        {
+          "meta": "发布 2026-11-14",
+          "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2611.18543v1"
+        },
+        {
+          "meta": "发布 2026-11-14",
+          "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
+          "url": "https://arxiv.org/abs/2611.18542v1"
+        },
+        {
+          "meta": "发布 2026-11-14",
+          "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
+          "url": "https://arxiv.org/abs/2611.18533v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-11-15",
+          "title": "Punchcutter",
+          "url": "https://www.producthunt.com/products/punchcutter"
+        },
+        {
+          "meta": "发布 2026-11-16",
+          "title": "LexiCAD",
+          "url": "https://www.producthunt.com/products/lexicad"
+        },
+        {
+          "meta": "发布 2026-11-15",
+          "title": "Cal.com v7",
+          "url": "https://www.producthunt.com/products/cal"
+        },
+        {
+          "meta": "发布 2026-11-15",
+          "title": "Pine Drama Studio",
+          "url": "https://www.producthunt.com/products/pine-drama-studio"
+        },
+        {
+          "meta": "发布 2026-11-16",
+          "title": "Puffin",
+          "url": "https://www.producthunt.com/products/puffin-2"
+        },
+        {
+          "meta": "发布 2026-11-15",
+          "title": "UI SDK by Vercel",
+          "url": "https://www.producthunt.com/products/ui-sdk"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "The US issues a rule to limit China and other countries from remotely accessing US AI chips and servers in Singapore, Malaysia, Thailand, Indonesia, and Brazil",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Tighter AI chip export rules are gaining bipartisan support in Congress, such as a bill that would stop Chinese companies from remotely accessing chips overseas",
+          "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "California's AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards",
+          "url": "https://www.politico.com/news/2026/11/16/bonta-sues-openai-over-rogue-ai-hack-of-hugging-face-01166953"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI says it signed agreements with independent assessors Apollo Research, METR, Transluce, and Goodfire for its first phase of AI model embedded assessments",
+          "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-11-17T08:48:39+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-11-17T08:48:39+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-17T08:48:39+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-11-17T08:48:39+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-17T08:48:39+08:00",
+      "id": "hacker-news",
+      "itemCount": 0,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-11-17T08:48:39+08:00",
+      "message": "本次未检出符合条件的公开内容",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-17T08:48:39+08:00",
+      "id": "arxiv",
+      "itemCount": 6,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": "2026-11-17T08:48:39+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-17T08:48:39+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-11-17T08:48:39+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-17T08:48:39+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-11-17T08:48:39+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-17T08:48:43+08:00",
+      "id": "techmeme",
+      "itemCount": 4,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-11-17T08:48:43+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-17T08:48:34+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 0,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": null,
+      "message": "正常浏览器暂时无法访问官方榜单，已停止该来源",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-17T08:46:57+08:00",
+      "id": "wechat-appso",
+      "itemCount": 1,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-11-17T08:46:57+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-17T08:46:57+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 1,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-11-17T08:46:57+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-17T08:46:57+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-11-17T08:46:57+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-17T08:46:57+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 0,
+      "label": "花叔",
+      "lastSuccessAt": "2026-11-17T08:46:57+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}
