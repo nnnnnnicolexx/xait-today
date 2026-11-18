@@ -5,13 +5,19 @@
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-17 · 采集时显示：55 分钟前 · 打开账号列表",
-          "title": "曝英伟达董事会不考虑让黄仁勋回归/iPhone Duo新增人脸解锁/AI演员方桃子代言美瞳被罚款",
+          "meta": "2026-11-18 · 采集时显示：1小时前 · 打开账号列表",
+          "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
+          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-11-18 · 采集时显示：2 小时前 · 打开账号列表",
+          "title": "刚刚，黄仁勋辞职后首次发声：愿重返英伟达当 CEO",
           "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
         }
       ],
       "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
-      "status": "今日 1 篇",
+      "status": "今日 2 篇",
       "statusTone": "fresh"
     },
     {
@@ -19,8 +25,8 @@
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-17 · 采集时显示：50 分钟前 · 打开账号列表",
-          "title": "时隔3年，我重新入职淘宝当了一天设计师，也看见了这个行业最真实的进化。",
+          "meta": "2026-11-18 · 采集时显示：2 小时前 · 打开账号列表",
+          "title": "深度实测GPT-6.2 Astra，OpenAI在偏科的道路上越走越远了。",
           "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
         }
       ],
@@ -30,10 +36,17 @@
     },
     {
       "account": "智东西",
-      "items": [],
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-11-18 · 采集时显示：23 分钟前 · 打开账号列表",
+          "title": "OpenAI掏出GPT‑6.2 Astra：“史上最会做PPT的大模型”！",
+          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+        }
+      ],
       "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
-      "status": "今日未检出新文章",
-      "statusTone": "quiet"
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
     },
     {
       "account": "花叔",
@@ -43,9 +56,9 @@
       "statusTone": "quiet"
     }
   ],
-  "capturedAt": "2026-11-17T08:46:57+08:00",
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T08:48:48+08:00",
+  "capturedAt": "2026-11-18T08:42:52+08:00",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T08:45:55+08:00",
   "schemaVersion": 1,
-  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-17T08:46:57+08:00；相对时间以该采集时刻为准。"
+  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-18T08:42:52+08:00；相对时间以该采集时刻为准。"
 }
