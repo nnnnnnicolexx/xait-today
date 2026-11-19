@@ -1,0 +1,755 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-da82b4caee88e06f7977de05",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-68d891c5e16280755a65f87c",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-049a229e428dfe921a234d1a",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c57f127a7ac0fa570ba130c8",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-16764b668fc8d21add622409",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-7b055a93e9c4202dea5713e1",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1b22f022196062a2eac09a09",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c20352f27efb6f63ba911ed7",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b3d8306b65b662cf7489c388",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-56ff5b7a060cc66921e39449",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ae603e336b37ea7693196790",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "jquery/jquery",
+      "url": "https://github.com/jquery/jquery"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-7104bfd5c07a49e9559a8ace",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "appwrite/appwrite",
+      "url": "https://github.com/appwrite/appwrite"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-b9e8a8ff45011202d18804c1",
+      "publishedAt": "2026-11-18T21:34:07Z",
+      "sourceId": "hacker-news",
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-a61e52f9d7fb6eaf03a9c96f",
+      "publishedAt": "2026-11-18T15:49:34Z",
+      "sourceId": "hacker-news",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-f924da376ebf583b5612f976",
+      "publishedAt": "2026-11-18T22:29:13Z",
+      "sourceId": "hacker-news",
+      "title": "LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-0a4e2a8080505101d60c2d6a",
+      "publishedAt": "2026-11-18T17:26:28Z",
+      "sourceId": "hacker-news",
+      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "url": "https://news.ycombinator.com/item?id=50549188"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-2043180a52b4eefa90e7ea70",
+      "publishedAt": "2026-11-19T00:18:18Z",
+      "sourceId": "hacker-news",
+      "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+      "url": "https://claudia.gallery/fable/"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-49569e6d10ed09f58983c8b6",
+      "publishedAt": "2026-11-17T18:59:37Z",
+      "sourceId": "arxiv",
+      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "url": "https://arxiv.org/abs/2611.23229v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-38a2ad827a520622c2ca8399",
+      "publishedAt": "2026-11-17T18:58:40Z",
+      "sourceId": "arxiv",
+      "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+      "url": "https://arxiv.org/abs/2611.23225v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-1621cc60e29cf39a1ae7416f",
+      "publishedAt": "2026-11-17T18:57:10Z",
+      "sourceId": "arxiv",
+      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "url": "https://arxiv.org/abs/2611.23219v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-90f8a0b1b5b0f0567d51eaeb",
+      "publishedAt": "2026-11-17T18:57:08Z",
+      "sourceId": "arxiv",
+      "title": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+      "url": "https://arxiv.org/abs/2611.23218v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-653510a96a6794e491f3523b",
+      "publishedAt": "2026-11-17T18:56:42Z",
+      "sourceId": "arxiv",
+      "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
+      "url": "https://arxiv.org/abs/2611.23216v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-75f2eb78b75bfdf41d8a3af9",
+      "publishedAt": "2026-11-17T18:48:02Z",
+      "sourceId": "arxiv",
+      "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.23206v1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-5680c2cdfb80e481ff480d47",
+      "publishedAt": "2026-10-22T03:27:29-07:00",
+      "sourceId": "product-hunt",
+      "title": "Pitch Avatar HR Suite",
+      "url": "https://www.producthunt.com/products/pitchavatar"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-2ad33ddc088c59e62b1e71a7",
+      "publishedAt": "2026-11-17T10:06:04-08:00",
+      "sourceId": "product-hunt",
+      "title": "GPT-6.2 Astra and Sol",
+      "url": "https://www.producthunt.com/products/openai"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-301d7546fc1fa54ffb71b244",
+      "publishedAt": "2026-11-15T05:26:16-08:00",
+      "sourceId": "product-hunt",
+      "title": "S.Space",
+      "url": "https://www.producthunt.com/products/s-space"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8f2e42df19c279a2b4c89efd",
+      "publishedAt": "2026-11-11T12:24:56-08:00",
+      "sourceId": "product-hunt",
+      "title": "Mermaid Flow",
+      "url": "https://www.producthunt.com/products/mermaid-chart"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8d4ff4ea69afac50b2fd5d4c",
+      "publishedAt": "2026-11-17T00:00:01-08:00",
+      "sourceId": "product-hunt",
+      "title": "KaDeep AI",
+      "url": "https://www.producthunt.com/products/kadeep-ai"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-0da2b04818d9f5faaf8e2a57",
+      "publishedAt": "2026-11-16T13:45:46-08:00",
+      "sourceId": "product-hunt",
+      "title": "Replay QA Self-healing Mode",
+      "url": "https://www.producthunt.com/products/replayio"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-c2a3c289e37cf0da2d9aaf45",
+      "publishedAt": "2026-11-17T14:02:24-08:00",
+      "sourceId": "product-hunt",
+      "title": "Incredible Agents",
+      "url": "https://www.producthunt.com/products/incredible"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-19T09:35:00+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e6a4f4774ccc36b568232394",
+      "publishedAt": "2026-11-15T22:53:29-08:00",
+      "sourceId": "product-hunt",
+      "title": "Tencent Hy4 flash",
+      "url": "https://www.producthunt.com/products/hunyuan-a13b"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-19T09:35:04+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1095bc3680faf42d9b63d359",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Anthropic prices its upsized IPO at $83 per share, above the $70-$78 marketed range, raising $81.3B in the largest offering on record, topping SpaceX",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-19T09:35:04+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-94f46f2fa21285cebfb91779",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-19T09:35:04+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-124798e9a0ebb6e2d560a367",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Ahead of Anthropic's IPO, CAIS and others sign the MisAnthropic Statement, challenging the company's “safety” branding and its “reckless attempt” to build RSI",
+      "url": "https://safe.ai/news/anthropic-is-not-a-safe-ai-company"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-19T09:35:04+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-d69c8d6b7dfdd98ef4551640",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Masayoshi Son says passing on a 2023 opportunity to invest in Anthropic was a “mistake”, noting that “by that point, we had already decided to invest in OpenAI”",
+      "url": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-19T09:35:04+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-15cd0d05800e3469c5ac7d3c",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Google rolls out Gemini 4 Neon, with “fast end-to-end task completion” across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    }
+  ],
+  "date": "2026-11-19",
+  "edition": {
+    "windowEnd": "2026-11-19T08:45:00+08:00",
+    "windowStart": "2026-11-18T08:45:00+08:00"
+  },
+  "generatedAt": "2026-11-19T09:35:04+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-19 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-19 · 采集时显示：22 分钟前 · 打开账号列表",
+              "title": "三个00后，受DeepSeek感召创业，今天公司卖了300亿！",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-11-19 · 采集时显示：22 分钟前 · 打开账号列表",
+              "title": "谷歌RSI新论文：自带记忆、自主迭代！",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-11-19 · 采集时显示：22 分钟前 · 打开账号列表",
+              "title": "奇袭GPT-6.2！谷歌迄今最强Gemini登场，7周内第四发，RSI时代真来了",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-11-19 · 采集时显示：3 小时前 · 打开账号列表",
+              "title": "14%收益提升！OpenAI用AI造芯，5个月完成人工1年工作量，Astra领跑",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-11-19 · 采集时显示：3 小时前 · 打开账号列表",
+              "title": "没有黄仁勋的首场全员会：英伟达加薪发股权稳军心，传接洽Arm CEO作为继位者",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            }
+          ],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日 5 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-11-19T09:22:42+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-19T09:22:42+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "cursor/plugins",
+            "url": "https://github.com/cursor/plugins"
+          },
+          "TypeScript",
+          "314",
+          "Cursor plugin specification and official plugins"
+        ],
+        [
+          {
+            "text": "HKUDS/CLI-Anything",
+            "url": "https://github.com/HKUDS/CLI-Anything"
+          },
+          "Python",
+          "389",
+          "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+        ],
+        [
+          {
+            "text": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill"
+          },
+          "Python",
+          "1,059",
+          "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+        ],
+        [
+          {
+            "text": "getarcaneapp/arcane",
+            "url": "https://github.com/getarcaneapp/arcane"
+          },
+          "Go",
+          "547",
+          "Modern Docker Management, Designed for Everyone"
+        ],
+        [
+          {
+            "text": "NVIDIA/SkillEvaluator",
+            "url": "https://github.com/NVIDIA/SkillEvaluator"
+          },
+          "Python",
+          "312",
+          "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation t"
+        ],
+        [
+          {
+            "text": "nvm-sh/nvm",
+            "url": "https://github.com/nvm-sh/nvm"
+          },
+          "Shell",
+          "237",
+          "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-11-19 · 428 互动/积分 · 404 评论",
+          "title": "Gemini 4 Neon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "meta": "发布 2026-11-18 · 352 互动/积分 · 160 评论",
+          "title": "AI agents ask better questions than KPMG accountants in audit trial",
+          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+        },
+        {
+          "meta": "发布 2026-11-19 · 55 互动/积分 · 11 评论",
+          "title": "LLM assisted reverse engineering",
+          "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+        },
+        {
+          "meta": "发布 2026-11-19 · 42 互动/积分 · 34 评论",
+          "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+          "url": "https://news.ycombinator.com/item?id=50549188"
+        },
+        {
+          "meta": "发布 2026-11-19 · 23 互动/积分 · 16 评论",
+          "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+          "url": "https://claudia.gallery/fable/"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-11-18",
+          "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+          "url": "https://arxiv.org/abs/2611.23229v1"
+        },
+        {
+          "meta": "发布 2026-11-18",
+          "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+          "url": "https://arxiv.org/abs/2611.23225v1"
+        },
+        {
+          "meta": "发布 2026-11-18",
+          "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+          "url": "https://arxiv.org/abs/2611.23219v1"
+        },
+        {
+          "meta": "发布 2026-11-18",
+          "title": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+          "url": "https://arxiv.org/abs/2611.23218v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-10-22",
+          "title": "Pitch Avatar HR Suite",
+          "url": "https://www.producthunt.com/products/pitchavatar"
+        },
+        {
+          "meta": "发布 2026-11-18",
+          "title": "GPT-6.2 Astra and Sol",
+          "url": "https://www.producthunt.com/products/openai"
+        },
+        {
+          "meta": "发布 2026-11-15",
+          "title": "S.Space",
+          "url": "https://www.producthunt.com/products/s-space"
+        },
+        {
+          "meta": "发布 2026-11-12",
+          "title": "Mermaid Flow",
+          "url": "https://www.producthunt.com/products/mermaid-chart"
+        },
+        {
+          "meta": "发布 2026-11-17",
+          "title": "KaDeep AI",
+          "url": "https://www.producthunt.com/products/kadeep-ai"
+        },
+        {
+          "meta": "发布 2026-11-17",
+          "title": "Replay QA Self-healing Mode",
+          "url": "https://www.producthunt.com/products/replayio"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Anthropic prices its upsized IPO at $83 per share, above the $70-$78 marketed range, raising $81.3B in the largest offering on record, topping SpaceX",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Ahead of Anthropic's IPO, CAIS and others sign the MisAnthropic Statement, challenging the company's “safety” branding and its “reckless attempt” to build RSI",
+          "url": "https://safe.ai/news/anthropic-is-not-a-safe-ai-company"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Masayoshi Son says passing on a 2023 opportunity to invest in Anthropic was a “mistake”, noting that “by that point, we had already decided to invest in OpenAI”",
+          "url": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Google rolls out Gemini 4 Neon, with “fast end-to-end task completion” across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-11-19T09:35:00+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-11-19T09:35:00+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-19T09:35:00+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 0,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": null,
+      "message": "来源要求验证或限制访问，已停止该来源",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-19T09:35:00+08:00",
+      "id": "hacker-news",
+      "itemCount": 5,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-11-19T09:35:00+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-19T09:35:00+08:00",
+      "id": "arxiv",
+      "itemCount": 6,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": "2026-11-19T09:35:00+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-19T09:35:00+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-11-19T09:35:00+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-19T09:35:00+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-11-19T09:35:00+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-19T09:35:04+08:00",
+      "id": "techmeme",
+      "itemCount": 5,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-11-19T09:35:04+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-19T09:34:50+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 0,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": null,
+      "message": "正常浏览器暂时无法访问官方榜单，已停止该来源",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-19T09:22:42+08:00",
+      "id": "wechat-appso",
+      "itemCount": 1,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-11-19T09:22:42+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-19T09:22:42+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 0,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-11-19T09:22:42+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-19T09:22:42+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 5,
+      "label": "智东西",
+      "lastSuccessAt": "2026-11-19T09:22:42+08:00",
+      "message": "今日 5 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-19T09:22:42+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 0,
+      "label": "花叔",
+      "lastSuccessAt": "2026-11-19T09:22:42+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

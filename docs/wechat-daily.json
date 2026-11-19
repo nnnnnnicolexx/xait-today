@@ -5,47 +5,58 @@
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-18 · 采集时显示：1小时前 · 打开账号列表",
-          "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
-          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
-        },
-        {
-          "badge": "今日",
-          "meta": "2026-11-18 · 采集时显示：2 小时前 · 打开账号列表",
-          "title": "刚刚，黄仁勋辞职后首次发声：愿重返英伟达当 CEO",
+          "meta": "2026-11-19 · 采集时显示：1小时前 · 打开账号列表",
+          "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
           "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
         }
       ],
       "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
-      "status": "今日 2 篇",
+      "status": "今日 1 篇",
       "statusTone": "fresh"
     },
     {
       "account": "数字生命卡兹克",
-      "items": [
-        {
-          "badge": "今日",
-          "meta": "2026-11-18 · 采集时显示：2 小时前 · 打开账号列表",
-          "title": "深度实测GPT-6.2 Astra，OpenAI在偏科的道路上越走越远了。",
-          "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
-        }
-      ],
+      "items": [],
       "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
-      "status": "今日 1 篇",
-      "statusTone": "fresh"
+      "status": "今日未检出新文章",
+      "statusTone": "quiet"
     },
     {
       "account": "智东西",
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-18 · 采集时显示：23 分钟前 · 打开账号列表",
-          "title": "OpenAI掏出GPT‑6.2 Astra：“史上最会做PPT的大模型”！",
+          "meta": "2026-11-19 · 采集时显示：22 分钟前 · 打开账号列表",
+          "title": "三个00后，受DeepSeek感召创业，今天公司卖了300亿！",
+          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-11-19 · 采集时显示：22 分钟前 · 打开账号列表",
+          "title": "谷歌RSI新论文：自带记忆、自主迭代！",
+          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-11-19 · 采集时显示：22 分钟前 · 打开账号列表",
+          "title": "奇袭GPT-6.2！谷歌迄今最强Gemini登场，7周内第四发，RSI时代真来了",
+          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-11-19 · 采集时显示：3 小时前 · 打开账号列表",
+          "title": "14%收益提升！OpenAI用AI造芯，5个月完成人工1年工作量，Astra领跑",
+          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-11-19 · 采集时显示：3 小时前 · 打开账号列表",
+          "title": "没有黄仁勋的首场全员会：英伟达加薪发股权稳军心，传接洽Arm CEO作为继位者",
           "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
         }
       ],
       "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
-      "status": "今日 1 篇",
+      "status": "今日 5 篇",
       "statusTone": "fresh"
     },
     {
@@ -56,9 +67,9 @@
       "statusTone": "quiet"
     }
   ],
-  "capturedAt": "2026-11-18T08:42:52+08:00",
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T08:45:55+08:00",
+  "capturedAt": "2026-11-19T09:22:42+08:00",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T09:35:04+08:00",
   "schemaVersion": 1,
-  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-18T08:42:52+08:00；相对时间以该采集时刻为准。"
+  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-19T09:22:42+08:00；相对时间以该采集时刻为准。"
 }
