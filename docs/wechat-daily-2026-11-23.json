@@ -1,0 +1,58 @@
+{
+  "accounts": [
+    {
+      "account": "APPSO",
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-11-23 · 采集时显示：34 分钟前 · 打开账号列表",
+          "title": "曝iPhone 18明年春季发布/数学家发论文质疑Claude黎曼猜想有效性/丘成桐：数学研究进入新...",
+          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+        }
+      ],
+      "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
+    },
+    {
+      "account": "数字生命卡兹克",
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-11-23 · 采集时显示：56 分钟前 · 打开账号列表",
+          "title": "毫无保留地分享一下，我是如何让Claude、GPT和Gemini完美协同的。",
+          "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+        }
+      ],
+      "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
+    },
+    {
+      "account": "智东西",
+      "items": [],
+      "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+      "status": "今日未检出新文章",
+      "statusTone": "quiet"
+    },
+    {
+      "account": "花叔",
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-11-23 · 采集时显示：2 小时前 · 打开账号列表",
+          "title": "Huashu-Design 3.5正式发布！小程序设计也稳稳拿下！",
+          "url": "https://www.jintiankansha.com/column/4hWcR0mvAj"
+        }
+      ],
+      "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
+    }
+  ],
+  "capturedAt": "2026-11-23T08:52:07+08:00",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T08:58:07+08:00",
+  "schemaVersion": 1,
+  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-23T08:52:07+08:00；相对时间以该采集时刻为准。"
+}

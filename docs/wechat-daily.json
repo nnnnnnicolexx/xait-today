@@ -5,8 +5,8 @@
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-19 · 采集时显示：1小时前 · 打开账号列表",
-          "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
+          "meta": "2026-11-23 · 采集时显示：34 分钟前 · 打开账号列表",
+          "title": "曝iPhone 18明年春季发布/数学家发论文质疑Claude黎曼猜想有效性/丘成桐：数学研究进入新...",
           "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
         }
       ],
@@ -16,60 +16,43 @@
     },
     {
       "account": "数字生命卡兹克",
-      "items": [],
-      "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
-      "status": "今日未检出新文章",
-      "statusTone": "quiet"
-    },
-    {
-      "account": "智东西",
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-19 · 采集时显示：22 分钟前 · 打开账号列表",
-          "title": "三个00后，受DeepSeek感召创业，今天公司卖了300亿！",
-          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
-        },
-        {
-          "badge": "今日",
-          "meta": "2026-11-19 · 采集时显示：22 分钟前 · 打开账号列表",
-          "title": "谷歌RSI新论文：自带记忆、自主迭代！",
-          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
-        },
-        {
-          "badge": "今日",
-          "meta": "2026-11-19 · 采集时显示：22 分钟前 · 打开账号列表",
-          "title": "奇袭GPT-6.2！谷歌迄今最强Gemini登场，7周内第四发，RSI时代真来了",
-          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
-        },
-        {
-          "badge": "今日",
-          "meta": "2026-11-19 · 采集时显示：3 小时前 · 打开账号列表",
-          "title": "14%收益提升！OpenAI用AI造芯，5个月完成人工1年工作量，Astra领跑",
-          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
-        },
-        {
-          "badge": "今日",
-          "meta": "2026-11-19 · 采集时显示：3 小时前 · 打开账号列表",
-          "title": "没有黄仁勋的首场全员会：英伟达加薪发股权稳军心，传接洽Arm CEO作为继位者",
-          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+          "meta": "2026-11-23 · 采集时显示：56 分钟前 · 打开账号列表",
+          "title": "毫无保留地分享一下，我是如何让Claude、GPT和Gemini完美协同的。",
+          "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
         }
       ],
-      "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
-      "status": "今日 5 篇",
+      "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+      "status": "今日 1 篇",
       "statusTone": "fresh"
     },
     {
-      "account": "花叔",
+      "account": "智东西",
       "items": [],
-      "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+      "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
       "status": "今日未检出新文章",
       "statusTone": "quiet"
+    },
+    {
+      "account": "花叔",
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-11-23 · 采集时显示：2 小时前 · 打开账号列表",
+          "title": "Huashu-Design 3.5正式发布！小程序设计也稳稳拿下！",
+          "url": "https://www.jintiankansha.com/column/4hWcR0mvAj"
+        }
+      ],
+      "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
     }
   ],
-  "capturedAt": "2026-11-19T09:22:42+08:00",
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T09:35:04+08:00",
+  "capturedAt": "2026-11-23T08:52:07+08:00",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T08:58:07+08:00",
   "schemaVersion": 1,
-  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-19T09:22:42+08:00；相对时间以该采集时刻为准。"
+  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-23T08:52:07+08:00；相对时间以该采集时刻为准。"
 }

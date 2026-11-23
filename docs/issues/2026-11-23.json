@@ -1,0 +1,803 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-dd9885c001e24508d005d481",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-77cbe1d03f2d725c73b7b494",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-68d891c5e16280755a65f87c",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-5c8b5dadb57fed8b07bf07fe",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-da82b4caee88e06f7977de05",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4852cde1be2da736e9c66b4e",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-625670fecf9945f39a1353fb",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-553bad6b7b2e01b4a5a71f6f",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4aa9c61cd87ef8136e1ec5e3",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-049a229e428dfe921a234d1a",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b3d8306b65b662cf7489c388",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f2e8cd4ce36eb6c25327e69b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mjmirza/app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a7e4c54d9e0d4bb55cb37c6d",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-d2d6aacbce66ebe21c6e8c01",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9452f1f198b04d91014d69e2",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b81e1e8c7cbb994c63f5ae6a",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8306932a03adaf9e505eb3fb",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-879563f2e1546256cd1d940b",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "R0Y00/Xbox2Windows",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-0c144fb6e4c0f416d065ee32",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Lemxy/WinRust",
+      "url": "https://github.com/Lemxy/WinRust"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4295f784513086ae5d5c1f95",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "MSNightmare/FastUnlock",
+      "url": "https://github.com/MSNightmare/FastUnlock"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4cf4876496d712c5bfde9a3d",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "leanprover-community/riemann-hypothesis",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-931f060354d4151c5694231a",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "0xkaka/homeport",
+      "url": "https://github.com/0xkaka/homeport"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "exact",
+      "id": "article-08e3fcda55d3d957333007be",
+      "publishedAt": "2026-11-22T13:56:58Z",
+      "sourceId": "hacker-news",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "exact",
+      "id": "article-a7ff8633be423951b86b31f8",
+      "publishedAt": "2026-11-22T21:01:16Z",
+      "sourceId": "hacker-news",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "exact",
+      "id": "article-3701513ae0e91cf07962152e",
+      "publishedAt": "2026-11-22T18:01:54Z",
+      "sourceId": "hacker-news",
+      "title": "Harvard CS 2881R AI Safety",
+      "url": "https://boazbk.github.io/mltheoryseminar/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "exact",
+      "id": "article-43afc4d90de64baa3afa5470",
+      "publishedAt": "2026-11-22T23:53:00Z",
+      "sourceId": "hacker-news",
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "url": "https://0rwx.com/"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8b9336626bf61d6667cc510d",
+      "publishedAt": "2026-11-05T19:24:04-08:00",
+      "sourceId": "product-hunt",
+      "title": "Yoroll",
+      "url": "https://www.producthunt.com/products/yoroll"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "exact",
+      "id": "article-abae8a7bafe6afe4043662fd",
+      "publishedAt": "2026-11-21T12:02:03-08:00",
+      "sourceId": "product-hunt",
+      "title": "oovi",
+      "url": "https://www.producthunt.com/products/oovi"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "exact",
+      "id": "article-2a56e379ad47fe1071980055",
+      "publishedAt": "2026-11-10T13:43:34-08:00",
+      "sourceId": "product-hunt",
+      "title": "Squint",
+      "url": "https://www.producthunt.com/products/squint"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "exact",
+      "id": "article-4cfecaf8ca1d342b07bdefb5",
+      "publishedAt": "2026-11-06T18:49:47-08:00",
+      "sourceId": "product-hunt",
+      "title": "Webless Agents",
+      "url": "https://www.producthunt.com/products/webless"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "exact",
+      "id": "article-abff69a7ce3f59389780d688",
+      "publishedAt": "2026-11-15T09:16:10-08:00",
+      "sourceId": "product-hunt",
+      "title": "Copy Haste",
+      "url": "https://www.producthunt.com/products/copy-haste"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "exact",
+      "id": "article-9bf0e33e7b73780468cf09f0",
+      "publishedAt": "2026-11-17T05:49:46-08:00",
+      "sourceId": "product-hunt",
+      "title": "MeshLive",
+      "url": "https://www.producthunt.com/products/meshlive"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "exact",
+      "id": "article-05e01b94da94d90ddb01c8a9",
+      "publishedAt": "2026-11-19T18:04:14-08:00",
+      "sourceId": "product-hunt",
+      "title": "Mockreel",
+      "url": "https://www.producthunt.com/products/mockreel"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-23T08:57:41+08:00",
+      "dateEvidence": "exact",
+      "id": "article-782200180a487e4c0cd453a0",
+      "publishedAt": "2026-11-17T11:23:36-08:00",
+      "sourceId": "product-hunt",
+      "title": "Ulika",
+      "url": "https://www.producthunt.com/products/ulika"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-23T08:57:47+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9bd8a9ba7a6046e03c08d420",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains",
+      "url": "https://openai.com/index/perplexity-and-intelligence"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-23T08:57:47+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-e00c5baf9a288eee8a411dc7",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China",
+      "url": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?st=HzXMZU"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-23T08:57:47+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-91b30809b1a2c9c6ed468ed6",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under “ZDR” policies, and saw “privacy” often broken, keys stolen",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-23T08:57:47+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-6e493ef474c81f30f4566b9e",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for “bumps in the road” as systems are upgraded to adapt to the AI age",
+      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-23T08:57:47+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-60cf39ff124c1693ac782e3f",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation",
+      "url": "https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director"
+    }
+  ],
+  "date": "2026-11-23",
+  "edition": {
+    "windowEnd": "2026-11-23T08:45:00+08:00",
+    "windowStart": "2026-11-22T08:45:00+08:00"
+  },
+  "generatedAt": "2026-11-23T08:58:07+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-23 · 采集时显示：34 分钟前 · 打开账号列表",
+              "title": "曝iPhone 18明年春季发布/数学家发论文质疑Claude黎曼猜想有效性/丘成桐：数学研究进入新...",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-23 · 采集时显示：56 分钟前 · 打开账号列表",
+              "title": "毫无保留地分享一下，我是如何让Claude、GPT和Gemini完美协同的。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-23 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "Huashu-Design 3.5正式发布！小程序设计也稳稳拿下！",
+              "url": "https://www.jintiankansha.com/column/4hWcR0mvAj"
+            }
+          ],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        }
+      ],
+      "capturedAt": "2026-11-23T08:52:07+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-23T08:52:07+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "elementalsouls/Claude-BugHunter",
+            "url": "https://github.com/elementalsouls/Claude-BugHunter"
+          },
+          "Python",
+          "1,716",
+          "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, pl"
+        ],
+        [
+          {
+            "text": "obra/superpowers",
+            "url": "https://github.com/obra/superpowers"
+          },
+          "Shell",
+          "788",
+          "An agentic skills framework & software development methodology that works."
+        ],
+        [
+          {
+            "text": "HKUDS/CLI-Anything",
+            "url": "https://github.com/HKUDS/CLI-Anything"
+          },
+          "Python",
+          "699",
+          "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+        ],
+        [
+          {
+            "text": "jingyaogong/minimind",
+            "url": "https://github.com/jingyaogong/minimind"
+          },
+          "Python",
+          "473",
+          "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours."
+        ],
+        [
+          {
+            "text": "cursor/plugins",
+            "url": "https://github.com/cursor/plugins"
+          },
+          "TypeScript",
+          "294",
+          "Cursor plugin specification and official plugins"
+        ],
+        [
+          {
+            "text": "firecrawl/firecrawl",
+            "url": "https://github.com/firecrawl/firecrawl"
+          },
+          "TypeScript",
+          "915",
+          "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "ItsNotRexed/Leonida",
+            "url": "https://github.com/ItsNotRexed/Leonida"
+          },
+          "Python",
+          "15091",
+          "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6"
+        ],
+        [
+          {
+            "text": "bookwjitchieni1986/blender-ai-mcp-addon",
+            "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+          },
+          "未提供",
+          "2746",
+          "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D"
+        ],
+        [
+          {
+            "text": "iamajmeena/neonclipping",
+            "url": "https://github.com/iamajmeena/neonclipping"
+          },
+          "Python",
+          "2095",
+          "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM)."
+        ],
+        [
+          {
+            "text": "EL4CTEO/fast-anything",
+            "url": "https://github.com/EL4CTEO/fast-anything"
+          },
+          "Rust",
+          "1907",
+          "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same."
+        ],
+        [
+          {
+            "text": "omonkeyz/xbox-emulator",
+            "url": "https://github.com/omonkeyz/xbox-emulator"
+          },
+          "Rust",
+          "1319",
+          "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)"
+        ],
+        [
+          {
+            "text": "R0Y00/Xbox2Windows",
+            "url": "https://github.com/R0Y00/Xbox2Windows"
+          },
+          "Python",
+          "1307",
+          "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game sta"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-11-22 · 266 互动/积分 · 61 评论",
+          "title": "Show HN: I built a game where you are an LLM's subagent",
+          "url": "https://github.com/gulivan/worker755"
+        },
+        {
+          "meta": "发布 2026-11-23 · 173 互动/积分 · 62 评论",
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+        },
+        {
+          "meta": "发布 2026-11-23 · 33 互动/积分 · 3 评论",
+          "title": "Harvard CS 2881R AI Safety",
+          "url": "https://boazbk.github.io/mltheoryseminar/"
+        },
+        {
+          "meta": "发布 2026-11-23 · 11 互动/积分 · 3 评论",
+          "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "url": "https://0rwx.com/"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-11-06",
+          "title": "Yoroll",
+          "url": "https://www.producthunt.com/products/yoroll"
+        },
+        {
+          "meta": "发布 2026-11-22",
+          "title": "oovi",
+          "url": "https://www.producthunt.com/products/oovi"
+        },
+        {
+          "meta": "发布 2026-11-11",
+          "title": "Squint",
+          "url": "https://www.producthunt.com/products/squint"
+        },
+        {
+          "meta": "发布 2026-11-07",
+          "title": "Webless Agents",
+          "url": "https://www.producthunt.com/products/webless"
+        },
+        {
+          "meta": "发布 2026-11-16",
+          "title": "Copy Haste",
+          "url": "https://www.producthunt.com/products/copy-haste"
+        },
+        {
+          "meta": "发布 2026-11-17",
+          "title": "MeshLive",
+          "url": "https://www.producthunt.com/products/meshlive"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains",
+          "url": "https://openai.com/index/perplexity-and-intelligence"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China",
+          "url": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?st=HzXMZU"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under “ZDR” policies, and saw “privacy” often broken, keys stolen",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for “bumps in the road” as systems are upgraded to adapt to the AI age",
+          "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation",
+          "url": "https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-11-23T08:57:41+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-11-23T08:57:41+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-23T08:57:41+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-11-23T08:57:41+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-23T08:57:41+08:00",
+      "id": "hacker-news",
+      "itemCount": 4,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-11-23T08:57:41+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-23T08:57:41+08:00",
+      "id": "arxiv",
+      "itemCount": 0,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": null,
+      "message": "公开来源连接超时",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-23T08:57:41+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-11-23T08:57:41+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-23T08:57:41+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-11-23T08:57:41+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-23T08:57:47+08:00",
+      "id": "techmeme",
+      "itemCount": 5,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-11-23T08:57:47+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-23T08:56:45+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 0,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": null,
+      "message": "正常浏览器暂时无法访问官方榜单，已停止该来源",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-23T08:52:07+08:00",
+      "id": "wechat-appso",
+      "itemCount": 1,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-11-23T08:52:07+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-23T08:52:07+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 1,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-11-23T08:52:07+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-23T08:52:07+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-11-23T08:52:07+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-23T08:52:07+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 1,
+      "label": "花叔",
+      "lastSuccessAt": "2026-11-23T08:52:07+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}
