@@ -1,0 +1,867 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-dd9885c001e24508d005d481",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-77cbe1d03f2d725c73b7b494",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-68d891c5e16280755a65f87c",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-5c8b5dadb57fed8b07bf07fe",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-da82b4caee88e06f7977de05",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4852cde1be2da736e9c66b4e",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-625670fecf9945f39a1353fb",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-553bad6b7b2e01b4a5a71f6f",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4aa9c61cd87ef8136e1ec5e3",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-049a229e428dfe921a234d1a",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b3d8306b65b662cf7489c388",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f2e8cd4ce36eb6c25327e69b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mjmirza/app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-05fd90e99de89e24c2bc5afd",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "ivall/xcl",
+      "url": "https://github.com/ivall/xcl"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b81e1e8c7cbb994c63f5ae6a",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1cc81b1fef5d6b5e9c2b550e",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9452f1f198b04d91014d69e2",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a4c16e631923aec02d57d9e7",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8306932a03adaf9e505eb3fb",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-879563f2e1546256cd1d940b",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "R0Y00/Xbox2Windows",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-492925280f22e6f131a48e57",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "os6/nospeaker",
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4cf4876496d712c5bfde9a3d",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "leanprover-community/riemann-hypothesis",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-e949018e9d13e6bb702220d3",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "INK-Q/agy-fast",
+      "url": "https://github.com/INK-Q/agy-fast"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-4fbecc73bbde4552376159b6",
+      "publishedAt": "2026-11-23T22:29:48Z",
+      "sourceId": "hacker-news",
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "url": "https://arxiv.org/abs/2602.20031"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-cce07483768f03af09ceddec",
+      "publishedAt": "2026-11-21T08:50:10Z",
+      "sourceId": "arxiv",
+      "title": "The Evaluation Substrate Matters: Benchmarking Multi-Agent Serving Substrates",
+      "url": "https://arxiv.org/abs/2611.28671v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-a8a185bde10331130859b75f",
+      "publishedAt": "2026-11-21T08:49:09Z",
+      "sourceId": "arxiv",
+      "title": "Physical regime changes expose formula misuse in large language models",
+      "url": "https://arxiv.org/abs/2611.28669v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-4e89e0c738d3a388079614a3",
+      "publishedAt": "2026-11-21T08:45:39Z",
+      "sourceId": "arxiv",
+      "title": "Seeing Right, Writing Wrong: Where Short Chain-of-Thought Breaks Spatial VQA",
+      "url": "https://arxiv.org/abs/2611.28665v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-403b807a1b2c832513544a9c",
+      "publishedAt": "2026-11-21T08:41:43Z",
+      "sourceId": "arxiv",
+      "title": "Persuasion from Within: Model-Based Insider Attacks in Multi-Agent LLM Debate and Consensus",
+      "url": "https://arxiv.org/abs/2611.28660v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-6bc71cceceb7033695a57f03",
+      "publishedAt": "2026-11-21T08:27:17Z",
+      "sourceId": "arxiv",
+      "title": "Unlearning Model Identity: Ablating LoRA Weights from Question-Based Identity Tuning",
+      "url": "https://arxiv.org/abs/2611.28650v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-598d24f66c129f064ffe5a4a",
+      "publishedAt": "2026-11-21T08:22:21Z",
+      "sourceId": "arxiv",
+      "title": "S-Mind: Internalizing Multi-View Geometry for Spatial Intelligence",
+      "url": "https://arxiv.org/abs/2611.28649v1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8e3749aa05475d0966c4a2c8",
+      "publishedAt": "2026-11-22T09:13:25-08:00",
+      "sourceId": "product-hunt",
+      "title": "Replit Missions",
+      "url": "https://www.producthunt.com/products/replit"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-29c14e657c92e42cfdf6cdc2",
+      "publishedAt": "2026-11-21T02:04:50-08:00",
+      "sourceId": "product-hunt",
+      "title": "Spikely",
+      "url": "https://www.producthunt.com/products/spikely"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-775545199a33eafb1252a4d9",
+      "publishedAt": "2026-11-17T18:11:19-08:00",
+      "sourceId": "product-hunt",
+      "title": "Snowly",
+      "url": "https://www.producthunt.com/products/snowly-2"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-365318643233e8da6cd0521d",
+      "publishedAt": "2026-11-22T13:29:23-08:00",
+      "sourceId": "product-hunt",
+      "title": "Branchery",
+      "url": "https://www.producthunt.com/products/branchery"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-a05c15f64ccfc37de24dc365",
+      "publishedAt": "2026-11-20T09:12:34-08:00",
+      "sourceId": "product-hunt",
+      "title": "Gauth Personal Study Agent",
+      "url": "https://www.producthunt.com/products/gauth-ai-course"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-fca4ef70f699337a601f1129",
+      "publishedAt": "2026-11-14T01:50:44-08:00",
+      "sourceId": "product-hunt",
+      "title": "Motionflare",
+      "url": "https://www.producthunt.com/products/motionflare"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-5c3915a6fd7fdb9ae1fd208a",
+      "publishedAt": "2026-11-22T00:35:25-08:00",
+      "sourceId": "product-hunt",
+      "title": "Omi Work",
+      "url": "https://www.producthunt.com/products/omi-work"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-24T10:14:54+08:00",
+      "dateEvidence": "exact",
+      "id": "article-79f7e22736ee9b5e295638dc",
+      "publishedAt": "2026-11-14T09:41:01-08:00",
+      "sourceId": "product-hunt",
+      "title": "Orpheus",
+      "url": "https://www.producthunt.com/products/orpheus-2"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-24T10:14:57+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-97576dc25b6c365e2d3c6bc1",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models",
+      "url": "https://www.reuters.com/world/us/trump-saw-nvidias-huang-protector-open-weight-ai-models-sources-say-2026-11-23/"
+    }
+  ],
+  "date": "2026-11-24",
+  "edition": {
+    "windowEnd": "2026-11-24T08:45:00+08:00",
+    "windowStart": "2026-11-23T08:45:00+08:00"
+  },
+  "generatedAt": "2026-11-24T10:14:59+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-24 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "黄仁勋回到英伟达上班：我会做得更好/上海一高校免费发Token给师生/蚂蚁阿福同款医疗大模型开源",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-11-24 · 采集时显示：9 小时前 · 打开账号列表",
+              "title": "刚刚，马斯克力挺黄仁勋回归，英伟达大涨",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 2 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-24 · 采集时显示：10 小时前 · 打开账号列表",
+              "title": "黄仁勋归来，英伟达犹在。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-24 · 采集时显示：10 小时前 · 打开账号列表",
+              "title": "Token生意爆发！云知声Q3毛利飙升近80%，股价单日大涨21.7%",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            }
+          ],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-11-24T10:12:56+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-24T10:12:56+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "elementalsouls/Claude-BugHunter",
+            "url": "https://github.com/elementalsouls/Claude-BugHunter"
+          },
+          "Python",
+          "2,029",
+          "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, pl"
+        ],
+        [
+          {
+            "text": "obra/superpowers",
+            "url": "https://github.com/obra/superpowers"
+          },
+          "Shell",
+          "840",
+          "An agentic skills framework & software development methodology that works."
+        ],
+        [
+          {
+            "text": "HKUDS/CLI-Anything",
+            "url": "https://github.com/HKUDS/CLI-Anything"
+          },
+          "Python",
+          "790",
+          "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+        ],
+        [
+          {
+            "text": "jingyaogong/minimind",
+            "url": "https://github.com/jingyaogong/minimind"
+          },
+          "Python",
+          "828",
+          "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours."
+        ],
+        [
+          {
+            "text": "cursor/plugins",
+            "url": "https://github.com/cursor/plugins"
+          },
+          "TypeScript",
+          "397",
+          "Cursor plugin specification and official plugins"
+        ],
+        [
+          {
+            "text": "firecrawl/firecrawl",
+            "url": "https://github.com/firecrawl/firecrawl"
+          },
+          "TypeScript",
+          "924",
+          "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "ivall/xcl",
+            "url": "https://github.com/ivall/xcl"
+          },
+          "Rust",
+          "3304",
+          "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL"
+        ],
+        [
+          {
+            "text": "EL4CTEO/fast-anything",
+            "url": "https://github.com/EL4CTEO/fast-anything"
+          },
+          "Rust",
+          "3168",
+          "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same."
+        ],
+        [
+          {
+            "text": "Marvisak/VIctory",
+            "url": "https://github.com/Marvisak/VIctory"
+          },
+          "Rust",
+          "3046",
+          "An attempt at running GTA VI on PC"
+        ],
+        [
+          {
+            "text": "iamajmeena/neonclipping",
+            "url": "https://github.com/iamajmeena/neonclipping"
+          },
+          "Python",
+          "2311",
+          "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM)."
+        ],
+        [
+          {
+            "text": "AFK-surf/xnulinux",
+            "url": "https://github.com/AFK-surf/xnulinux"
+          },
+          "Objective-C++",
+          "2172",
+          "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)"
+        ],
+        [
+          {
+            "text": "omonkeyz/xbox-emulator",
+            "url": "https://github.com/omonkeyz/xbox-emulator"
+          },
+          "Rust",
+          "1692",
+          "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-11-24 · 22 互动/积分 · 1 评论",
+          "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+          "url": "https://arxiv.org/abs/2602.20031"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-11-21",
+          "title": "The Evaluation Substrate Matters: Benchmarking Multi-Agent Serving Substrates",
+          "url": "https://arxiv.org/abs/2611.28671v1"
+        },
+        {
+          "meta": "发布 2026-11-21",
+          "title": "Physical regime changes expose formula misuse in large language models",
+          "url": "https://arxiv.org/abs/2611.28669v1"
+        },
+        {
+          "meta": "发布 2026-11-21",
+          "title": "Seeing Right, Writing Wrong: Where Short Chain-of-Thought Breaks Spatial VQA",
+          "url": "https://arxiv.org/abs/2611.28665v1"
+        },
+        {
+          "meta": "发布 2026-11-21",
+          "title": "Persuasion from Within: Model-Based Insider Attacks in Multi-Agent LLM Debate and Consensus",
+          "url": "https://arxiv.org/abs/2611.28660v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-11-23",
+          "title": "Replit Missions",
+          "url": "https://www.producthunt.com/products/replit"
+        },
+        {
+          "meta": "发布 2026-11-21",
+          "title": "Spikely",
+          "url": "https://www.producthunt.com/products/spikely"
+        },
+        {
+          "meta": "发布 2026-11-18",
+          "title": "Snowly",
+          "url": "https://www.producthunt.com/products/snowly-2"
+        },
+        {
+          "meta": "发布 2026-11-23",
+          "title": "Branchery",
+          "url": "https://www.producthunt.com/products/branchery"
+        },
+        {
+          "meta": "发布 2026-11-21",
+          "title": "Gauth Personal Study Agent",
+          "url": "https://www.producthunt.com/products/gauth-ai-course"
+        },
+        {
+          "meta": "发布 2026-11-14",
+          "title": "Motionflare",
+          "url": "https://www.producthunt.com/products/motionflare"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models",
+          "url": "https://www.reuters.com/world/us/trump-saw-nvidias-huang-protector-open-weight-ai-models-sources-say-2026-11-23/"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "product-hunt-ranking",
+      "items": [
+        {
+          "description": "Build playable stories without a game engine",
+          "rank": 1,
+          "title": "Yoroll",
+          "url": "https://www.producthunt.com/products/yoroll"
+        },
+        {
+          "description": "Get customers from Reddit on autopilot",
+          "rank": 2,
+          "title": "Rankhog",
+          "url": "https://www.producthunt.com/products/rankhog"
+        },
+        {
+          "description": "Personal Knowledge Base & Bookmark Manager for Mac",
+          "rank": 3,
+          "title": "Resurf",
+          "url": "https://www.producthunt.com/products/resurf-2"
+        },
+        {
+          "description": "Gifts so personal, your prospects take the meeting.",
+          "rank": 4,
+          "title": "Daymaker",
+          "url": "https://www.producthunt.com/products/daymaker"
+        },
+        {
+          "description": "Your own team of AI on your desktop",
+          "rank": 5,
+          "title": "oovi",
+          "url": "https://www.producthunt.com/products/oovi"
+        },
+        {
+          "description": "Screen recording, iPhone camera and cinematic demos for Mac",
+          "rank": 6,
+          "title": "Creavit Studio 4.0",
+          "url": "https://www.producthunt.com/products/creavit-studio"
+        },
+        {
+          "description": "Agents you want to put in front of customers",
+          "rank": 7,
+          "title": "Webless Agents",
+          "url": "https://www.producthunt.com/products/webless"
+        },
+        {
+          "description": "AI coding agents that work while you're away.",
+          "editorialCategory": "ai-coding",
+          "rank": 8,
+          "title": "Omi CLI",
+          "url": "https://www.producthunt.com/products/omi-cli"
+        },
+        {
+          "description": "Visual editor for sites built with Claude, Cursor, or Codex",
+          "rank": 9,
+          "title": "Ulika",
+          "url": "https://www.producthunt.com/products/ulika"
+        },
+        {
+          "description": "your screen recording, but in a 3D phone. free, no signup",
+          "rank": 10,
+          "title": "Mockreel",
+          "url": "https://www.producthunt.com/products/mockreel"
+        }
+      ],
+      "kind": "links",
+      "ranking": {
+        "captureMethod": "public-page",
+        "capturedAt": "2026-11-24T10:14:30+08:00",
+        "date": "2026-11-22",
+        "scope": "featured",
+        "timezone": "America/Los_Angeles",
+        "url": "https://www.producthunt.com/leaderboard/daily/2026/11/22"
+      },
+      "title": "🏆 Product Hunt · 热门产品 Top 10"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-11-24T10:14:54+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-11-24T10:14:54+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-24T10:14:54+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-11-24T10:14:54+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-24T10:14:54+08:00",
+      "id": "hacker-news",
+      "itemCount": 1,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-11-24T10:14:54+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-24T10:14:54+08:00",
+      "id": "arxiv",
+      "itemCount": 6,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": "2026-11-24T10:14:54+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-24T10:14:54+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-11-24T10:14:54+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-24T10:14:54+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-11-24T10:14:54+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-24T10:14:57+08:00",
+      "id": "techmeme",
+      "itemCount": 1,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-11-24T10:14:57+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-24T10:14:30+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 10,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": "2026-11-24T10:14:30+08:00",
+      "message": "已核验官方公开日榜的完整 Top 10",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-24T10:12:56+08:00",
+      "id": "wechat-appso",
+      "itemCount": 2,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-11-24T10:12:56+08:00",
+      "message": "今日 2 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-24T10:12:56+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 1,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-11-24T10:12:56+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-24T10:12:56+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 1,
+      "label": "智东西",
+      "lastSuccessAt": "2026-11-24T10:12:56+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-24T10:12:56+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 0,
+      "label": "花叔",
+      "lastSuccessAt": "2026-11-24T10:12:56+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}
