@@ -1,0 +1,779 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-dd9885c001e24508d005d481",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-77cbe1d03f2d725c73b7b494",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-68d891c5e16280755a65f87c",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-5c8b5dadb57fed8b07bf07fe",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-da82b4caee88e06f7977de05",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4852cde1be2da736e9c66b4e",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-625670fecf9945f39a1353fb",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-553bad6b7b2e01b4a5a71f6f",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4aa9c61cd87ef8136e1ec5e3",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-049a229e428dfe921a234d1a",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b3d8306b65b662cf7489c388",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f2e8cd4ce36eb6c25327e69b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mjmirza/app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1cc81b1fef5d6b5e9c2b550e",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-3729caf6ffd30e35d7dcced0",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-86c612025a86a82bce7d0500",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b81e1e8c7cbb994c63f5ae6a",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a4c16e631923aec02d57d9e7",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-3ed50816cf35edca81c84538",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "fxceless/victory-fork",
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-aa383646ea798c3a582d0b88",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "ubiquitarianism/leonida",
+      "url": "https://github.com/ubiquitarianism/leonida"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-879563f2e1546256cd1d940b",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "R0Y00/Xbox2Windows",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-492925280f22e6f131a48e57",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "os6/nospeaker",
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8306932a03adaf9e505eb3fb",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-b2dcb4da1d813d6abd1374a3",
+      "publishedAt": "2026-11-22T16:44:48Z",
+      "sourceId": "hacker-news",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-755db612f3a4b9c57c9496a5",
+      "publishedAt": "2026-11-25T21:18:02Z",
+      "sourceId": "hacker-news",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-338902c4103f17a81f15c47c",
+      "publishedAt": "2026-11-26T03:36:58Z",
+      "sourceId": "hacker-news",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-5d48fd1db18a99b939c43eef",
+      "publishedAt": "2026-11-25T22:15:34Z",
+      "sourceId": "hacker-news",
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-73749f5a3c4c4cde7581e871",
+      "publishedAt": "2026-11-24T21:35:39-08:00",
+      "sourceId": "product-hunt",
+      "title": "MAGI-2",
+      "url": "https://www.producthunt.com/products/magi-1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-b9ca638d08b6c08b9a2d7606",
+      "publishedAt": "2026-11-24T07:39:09-08:00",
+      "sourceId": "product-hunt",
+      "title": "MyClaw 3.0",
+      "url": "https://www.producthunt.com/products/myclaw-3-0"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-23676dd0a6c3119b5cb6bb37",
+      "publishedAt": "2026-11-24T22:58:59-08:00",
+      "sourceId": "product-hunt",
+      "title": "OpenEight",
+      "url": "https://www.producthunt.com/products/openeight"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8e8a1a41c807be61a42bf580",
+      "publishedAt": "2026-11-14T13:12:05-08:00",
+      "sourceId": "product-hunt",
+      "title": "SteerLatch",
+      "url": "https://www.producthunt.com/products/steerlatch"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-3dd63a62fffd12e85ccc677e",
+      "publishedAt": "2026-11-24T17:17:35-08:00",
+      "sourceId": "product-hunt",
+      "title": "Blink",
+      "url": "https://www.producthunt.com/products/blink-35"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-86ae3362f5f2bbb61d8666bc",
+      "publishedAt": "2026-11-19T08:45:54-08:00",
+      "sourceId": "product-hunt",
+      "title": "Airbot",
+      "url": "https://www.producthunt.com/products/airbots"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-5c1e680c97ba3906e4b10e8b",
+      "publishedAt": "2026-11-24T15:52:06-08:00",
+      "sourceId": "product-hunt",
+      "title": "Falcon by Vybe",
+      "url": "https://www.producthunt.com/products/vybe-4"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-26T14:52:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-6b3db5ccc9d807aeed2d08bd",
+      "publishedAt": "2026-11-23T11:41:33-08:00",
+      "sourceId": "product-hunt",
+      "title": "TruAstra",
+      "url": "https://www.producthunt.com/products/truastra"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-26T14:52:57+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-298eb9722b09152466dab6eb",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia",
+      "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-26T14:52:57+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-5babf7b66f232b4dcc688e3e",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Sources: an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to AI chips",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-26T14:52:57+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-56eafd7965119c129253fa9a",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September",
+      "url": "https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962"
+    }
+  ],
+  "date": "2026-11-26",
+  "edition": {
+    "windowEnd": "2026-11-26T08:45:00+08:00",
+    "windowStart": "2026-11-25T08:45:00+08:00"
+  },
+  "generatedAt": "2026-11-26T14:53:19+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-26 · 采集时显示：3 小时前 · 打开账号列表",
+              "title": "豆包加入「个人助理」大战，AI下半场的护城河不再是算力",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-11-26 · 采集时显示：6 小时前 · 打开账号列表",
+              "title": "曝多家手机厂商下调明年出货目标/神舟二十四号顺利对接空间站/OpenAI称破解57年矩阵乘法难题",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 2 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-26 · 采集时显示：6 小时前 · 打开账号列表",
+              "title": "分享一个我觉得每个人都该试试的Prompt，帮你设计出人生的意义。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-26 · 采集时显示：4 小时前 · 打开账号列表",
+              "title": "别让任何人告诉你：你不行，你不能做这事！",
+              "url": "https://www.jintiankansha.com/column/4hWcR0mvAj"
+            }
+          ],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        }
+      ],
+      "capturedAt": "2026-11-26T14:51:32+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-26T14:51:32+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "elementalsouls/Claude-BugHunter",
+            "url": "https://github.com/elementalsouls/Claude-BugHunter"
+          },
+          "Python",
+          "1,652",
+          "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, pl"
+        ],
+        [
+          {
+            "text": "obra/superpowers",
+            "url": "https://github.com/obra/superpowers"
+          },
+          "Shell",
+          "903",
+          "An agentic skills framework & software development methodology that works."
+        ],
+        [
+          {
+            "text": "HKUDS/CLI-Anything",
+            "url": "https://github.com/HKUDS/CLI-Anything"
+          },
+          "Python",
+          "1,106",
+          "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+        ],
+        [
+          {
+            "text": "jingyaogong/minimind",
+            "url": "https://github.com/jingyaogong/minimind"
+          },
+          "Python",
+          "826",
+          "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours."
+        ],
+        [
+          {
+            "text": "cursor/plugins",
+            "url": "https://github.com/cursor/plugins"
+          },
+          "TypeScript",
+          "416",
+          "Cursor plugin specification and official plugins"
+        ],
+        [
+          {
+            "text": "firecrawl/firecrawl",
+            "url": "https://github.com/firecrawl/firecrawl"
+          },
+          "TypeScript",
+          "1,135",
+          "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "Marvisak/VIctory",
+            "url": "https://github.com/Marvisak/VIctory"
+          },
+          "Rust",
+          "12775",
+          "An attempt at running GTA VI on PC"
+        ],
+        [
+          {
+            "text": "xcl-dev/xcl",
+            "url": "https://github.com/xcl-dev/xcl"
+          },
+          "Rust",
+          "8383",
+          "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL"
+        ],
+        [
+          {
+            "text": "4lwayz/portwatch-vi",
+            "url": "https://github.com/4lwayz/portwatch-vi"
+          },
+          "JavaScript",
+          "4517",
+          "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
+        ],
+        [
+          {
+            "text": "EL4CTEO/fast-anything",
+            "url": "https://github.com/EL4CTEO/fast-anything"
+          },
+          "Rust",
+          "4053",
+          "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same."
+        ],
+        [
+          {
+            "text": "AFK-surf/xnulinux",
+            "url": "https://github.com/AFK-surf/xnulinux"
+          },
+          "C",
+          "4024",
+          "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)"
+        ],
+        [
+          {
+            "text": "fxceless/victory-fork",
+            "url": "https://github.com/fxceless/victory-fork"
+          },
+          "Rust",
+          "3155",
+          "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files."
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-11-23 · 344 互动/积分 · 92 评论",
+          "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+          "url": "https://bjin.github.io/go-codegolf-benchmark/"
+        },
+        {
+          "meta": "发布 2026-11-26 · 309 互动/积分 · 269 评论",
+          "title": "The New York Times warns photographers not to update Photoshop over AI features",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+        },
+        {
+          "meta": "发布 2026-11-26 · 140 互动/积分 · 76 评论",
+          "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "url": "https://twitter.com/thsottiaux/status/2125784147889393806"
+        },
+        {
+          "meta": "发布 2026-11-26 · 116 互动/积分 · 25 评论",
+          "title": "Bare Metal Qwen",
+          "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-11-25",
+          "title": "MAGI-2",
+          "url": "https://www.producthunt.com/products/magi-1"
+        },
+        {
+          "meta": "发布 2026-11-24",
+          "title": "MyClaw 3.0",
+          "url": "https://www.producthunt.com/products/myclaw-3-0"
+        },
+        {
+          "meta": "发布 2026-11-25",
+          "title": "OpenEight",
+          "url": "https://www.producthunt.com/products/openeight"
+        },
+        {
+          "meta": "发布 2026-11-15",
+          "title": "SteerLatch",
+          "url": "https://www.producthunt.com/products/steerlatch"
+        },
+        {
+          "meta": "发布 2026-11-25",
+          "title": "Blink",
+          "url": "https://www.producthunt.com/products/blink-35"
+        },
+        {
+          "meta": "发布 2026-11-20",
+          "title": "Airbot",
+          "url": "https://www.producthunt.com/products/airbots"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia",
+          "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to AI chips",
+          "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September",
+          "url": "https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-11-26T14:52:53+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-11-26T14:52:53+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-26T14:52:53+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-11-26T14:52:53+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-26T14:52:53+08:00",
+      "id": "hacker-news",
+      "itemCount": 4,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-11-26T14:52:53+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-26T14:52:53+08:00",
+      "id": "arxiv",
+      "itemCount": 0,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": null,
+      "message": "公开来源连接超时",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-26T14:52:53+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-11-26T14:52:53+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-26T14:52:53+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-11-26T14:52:53+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-26T14:52:57+08:00",
+      "id": "techmeme",
+      "itemCount": 3,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-11-26T14:52:57+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-26T14:52:53+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 0,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": null,
+      "message": "来源公开访问规则暂不可核验，已停止该来源",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-26T14:51:32+08:00",
+      "id": "wechat-appso",
+      "itemCount": 2,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-11-26T14:51:32+08:00",
+      "message": "今日 2 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-26T14:51:32+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 1,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-11-26T14:51:32+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-26T14:51:32+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-11-26T14:51:32+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-26T14:51:32+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 1,
+      "label": "花叔",
+      "lastSuccessAt": "2026-11-26T14:51:32+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

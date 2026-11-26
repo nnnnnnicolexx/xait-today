@@ -5,14 +5,14 @@
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-25 · 采集时显示：45 分钟前 · 打开账号列表",
-          "title": "黄仁勋回应接班人问题/豆包推出个人AI助理「小豆」/SpaceX与特斯拉推进合并谈判",
+          "meta": "2026-11-26 · 采集时显示：3 小时前 · 打开账号列表",
+          "title": "豆包加入「个人助理」大战，AI下半场的护城河不再是算力",
           "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
         },
         {
           "badge": "今日",
-          "meta": "2026-11-25 · 采集时显示：2 小时前 · 打开账号列表",
-          "title": "刚刚，黄仁勋回归后首开全员大会，向员工致歉：这是人生中第二艰难的会议",
+          "meta": "2026-11-26 · 采集时显示：6 小时前 · 打开账号列表",
+          "title": "曝多家手机厂商下调明年出货目标/神舟二十四号顺利对接空间站/OpenAI称破解57年矩阵乘法难题",
           "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
         }
       ],
@@ -25,8 +25,8 @@
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-25 · 采集时显示：50 分钟前 · 打开账号列表",
-          "title": "AI视频模型也终于迎来了斩杀线，它的名字，叫MAGI-2。",
+          "meta": "2026-11-26 · 采集时显示：6 小时前 · 打开账号列表",
+          "title": "分享一个我觉得每个人都该试试的Prompt，帮你设计出人生的意义。",
           "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
         }
       ],
@@ -43,15 +43,22 @@
     },
     {
       "account": "花叔",
-      "items": [],
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-11-26 · 采集时显示：4 小时前 · 打开账号列表",
+          "title": "别让任何人告诉你：你不行，你不能做这事！",
+          "url": "https://www.jintiankansha.com/column/4hWcR0mvAj"
+        }
+      ],
       "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
-      "status": "今日未检出新文章",
-      "statusTone": "quiet"
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
     }
   ],
-  "capturedAt": "2026-11-25T08:46:35+08:00",
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T08:49:04+08:00",
+  "capturedAt": "2026-11-26T14:51:32+08:00",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T14:53:19+08:00",
   "schemaVersion": 1,
-  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-25T08:46:35+08:00；相对时间以该采集时刻为准。"
+  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-26T14:51:32+08:00；相对时间以该采集时刻为准。"
 }
