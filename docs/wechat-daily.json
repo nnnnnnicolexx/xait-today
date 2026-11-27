@@ -5,19 +5,13 @@
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-26 · 采集时显示：3 小时前 · 打开账号列表",
-          "title": "豆包加入「个人助理」大战，AI下半场的护城河不再是算力",
-          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
-        },
-        {
-          "badge": "今日",
-          "meta": "2026-11-26 · 采集时显示：6 小时前 · 打开账号列表",
-          "title": "曝多家手机厂商下调明年出货目标/神舟二十四号顺利对接空间站/OpenAI称破解57年矩阵乘法难题",
+          "meta": "2026-11-27 · 采集时显示：2 小时前 · 打开账号列表",
+          "title": "马斯克加码：美国儿童获赠两股SpaceX/OpenAI承认GPT-6.2计费出错/AI教父反驳黄仁勋...",
           "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
         }
       ],
       "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
-      "status": "今日 2 篇",
+      "status": "今日 1 篇",
       "statusTone": "fresh"
     },
     {
@@ -25,8 +19,8 @@
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-26 · 采集时显示：6 小时前 · 打开账号列表",
-          "title": "分享一个我觉得每个人都该试试的Prompt，帮你设计出人生的意义。",
+          "meta": "2026-11-27 · 采集时显示：2 小时前 · 打开账号列表",
+          "title": "手把手教你把Skill挂上支付宝挣钱，好手艺不该只有免费开源。",
           "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
         }
       ],
@@ -46,8 +40,8 @@
       "items": [
         {
           "badge": "今日",
-          "meta": "2026-11-26 · 采集时显示：4 小时前 · 打开账号列表",
-          "title": "别让任何人告诉你：你不行，你不能做这事！",
+          "meta": "2026-11-27 · 采集时显示：1小时前 · 打开账号列表",
+          "title": "Andrej Karpathy用Claude连跑7小时，做出了个真实版本的《文明》游戏",
           "url": "https://www.jintiankansha.com/column/4hWcR0mvAj"
         }
       ],
@@ -56,9 +50,9 @@
       "statusTone": "fresh"
     }
   ],
-  "capturedAt": "2026-11-26T14:51:32+08:00",
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T14:53:19+08:00",
+  "capturedAt": "2026-11-27T10:08:01+08:00",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T10:08:55+08:00",
   "schemaVersion": 1,
-  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-26T14:51:32+08:00；相对时间以该采集时刻为准。"
+  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-27T10:08:01+08:00；相对时间以该采集时刻为准。"
 }

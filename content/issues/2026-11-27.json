@@ -1,0 +1,875 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-dd9885c001e24508d005d481",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-77cbe1d03f2d725c73b7b494",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-68d891c5e16280755a65f87c",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-5c8b5dadb57fed8b07bf07fe",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-da82b4caee88e06f7977de05",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4852cde1be2da736e9c66b4e",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-625670fecf9945f39a1353fb",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-553bad6b7b2e01b4a5a71f6f",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4aa9c61cd87ef8136e1ec5e3",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-049a229e428dfe921a234d1a",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b3d8306b65b662cf7489c388",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f2e8cd4ce36eb6c25327e69b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mjmirza/app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1cc81b1fef5d6b5e9c2b550e",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-86c612025a86a82bce7d0500",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b81e1e8c7cbb994c63f5ae6a",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-3ed50816cf35edca81c84538",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "fxceless/victory-fork",
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-5d85b298dfef9bc940829dfe",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Belobug/VIctory-Belobug-AMD",
+      "url": "https://github.com/Belobug/VIctory-Belobug-AMD"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-aa383646ea798c3a582d0b88",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "ubiquitarianism/leonida",
+      "url": "https://github.com/ubiquitarianism/leonida"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-492925280f22e6f131a48e57",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "os6/nospeaker",
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8306932a03adaf9e505eb3fb",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-d28ab6a8c9d40d7a12d81ec3",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "avatarmanz/VIctory-7900XTX",
+      "url": "https://github.com/avatarmanz/VIctory-7900XTX"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-daee1cd43a7d8bfd8e01121f",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "crhywun/g1-acq",
+      "url": "https://github.com/crhywun/g1-acq"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-9e8c8ddff33e226bcba52198",
+      "publishedAt": "2026-11-26T21:47:45Z",
+      "sourceId": "hacker-news",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-1127b18e2cf61fa5b9fbf2e9",
+      "publishedAt": "2026-11-26T17:11:29Z",
+      "sourceId": "hacker-news",
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-4baeae522103ee00f64ef845",
+      "publishedAt": "2026-11-26T09:44:23Z",
+      "sourceId": "hacker-news",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-91f8ddfd2ec1c426f80a5bae",
+      "publishedAt": "2026-11-27T00:03:18Z",
+      "sourceId": "hacker-news",
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-1133b2e49d568b0415c36f52",
+      "publishedAt": "2026-11-25T18:59:57Z",
+      "sourceId": "arxiv",
+      "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+      "url": "https://arxiv.org/abs/2611.34942v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-ca104302fcdcbaa233b0a4bd",
+      "publishedAt": "2026-11-25T18:59:38Z",
+      "sourceId": "arxiv",
+      "title": "Tokenisation is not in APX",
+      "url": "https://arxiv.org/abs/2611.34938v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8b2c1015d5972ef5e58e7d62",
+      "publishedAt": "2026-11-25T18:59:31Z",
+      "sourceId": "arxiv",
+      "title": "Can image generation help visual reasoning? An empirical study",
+      "url": "https://arxiv.org/abs/2611.34935v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-2b896650509b78adb82b113a",
+      "publishedAt": "2026-11-25T18:59:28Z",
+      "sourceId": "arxiv",
+      "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+      "url": "https://arxiv.org/abs/2611.34934v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-0053745dcc376cba04a8e8b6",
+      "publishedAt": "2026-11-25T18:59:11Z",
+      "sourceId": "arxiv",
+      "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+      "url": "https://arxiv.org/abs/2611.34928v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-83daa26818498590b70056a0",
+      "publishedAt": "2026-11-25T18:58:53Z",
+      "sourceId": "arxiv",
+      "title": "Mixture-of-Loops Transformer",
+      "url": "https://arxiv.org/abs/2611.34923v1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-5f9d21dd228e395325fbe80b",
+      "publishedAt": "2026-11-25T15:54:50-08:00",
+      "sourceId": "product-hunt",
+      "title": "SuperLoupe",
+      "url": "https://www.producthunt.com/products/superloupe"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-50e3d108476fcf1103f3fd96",
+      "publishedAt": "2026-11-25T20:04:50-08:00",
+      "sourceId": "product-hunt",
+      "title": "Pax by Pydantic",
+      "url": "https://www.producthunt.com/products/pydantic"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-976b8f8c94cfb9ecc53ea815",
+      "publishedAt": "2026-11-24T07:04:58-08:00",
+      "sourceId": "product-hunt",
+      "title": "Bifura",
+      "url": "https://www.producthunt.com/products/bifura"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-0a61cd8821b9ffcdc4cbffb4",
+      "publishedAt": "2026-11-03T07:25:43-08:00",
+      "sourceId": "product-hunt",
+      "title": "ExtraOrbital",
+      "url": "https://www.producthunt.com/products/extraorbital-deleted-1365752"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8415b7607d41ceded89df982",
+      "publishedAt": "2026-11-24T10:34:28-08:00",
+      "sourceId": "product-hunt",
+      "title": "Hub",
+      "url": "https://www.producthunt.com/products/hub-20"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-4a82b87039c28b210bbb93e4",
+      "publishedAt": "2026-11-25T04:41:13-08:00",
+      "sourceId": "product-hunt",
+      "title": "NEXUS",
+      "url": "https://www.producthunt.com/products/nexus-42"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-356c00c21467494798348678",
+      "publishedAt": "2026-11-25T23:58:18-08:00",
+      "sourceId": "product-hunt",
+      "title": "Claude-Mem Cloud Sync",
+      "url": "https://www.producthunt.com/products/claude-mem"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-11-27T10:08:53+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e3603baae7c875a6ff4a6c8f",
+      "publishedAt": "2026-11-25T09:00:47-08:00",
+      "sourceId": "product-hunt",
+      "title": "iwantmy.app",
+      "url": "https://www.producthunt.com/products/iwantmy-app"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-27T10:08:55+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-6d4cdcd988054b25062d48d4",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Sources: Z.ai's 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs' distillation curbs",
+      "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-27T10:08:55+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4b17006956cdd66f6a8dff5c",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-27T10:08:55+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b3dcb021923290962467ad2c",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown",
+      "url": "https://scottaaronson.blog/?p=10379"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-11-27T10:08:55+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-6f332dee54da8b7e1dd6dd9a",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD",
+      "url": "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai"
+    }
+  ],
+  "date": "2026-11-27",
+  "edition": {
+    "windowEnd": "2026-11-27T08:45:00+08:00",
+    "windowStart": "2026-11-26T08:45:00+08:00"
+  },
+  "generatedAt": "2026-11-27T10:08:55+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-27 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "马斯克加码：美国儿童获赠两股SpaceX/OpenAI承认GPT-6.2计费出错/AI教父反驳黄仁勋...",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-27 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "手把手教你把Skill挂上支付宝挣钱，好手艺不该只有免费开源。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-11-27 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "Andrej Karpathy用Claude连跑7小时，做出了个真实版本的《文明》游戏",
+              "url": "https://www.jintiankansha.com/column/4hWcR0mvAj"
+            }
+          ],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        }
+      ],
+      "capturedAt": "2026-11-27T10:08:01+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-11-27T10:08:01+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "elementalsouls/Claude-BugHunter",
+            "url": "https://github.com/elementalsouls/Claude-BugHunter"
+          },
+          "Python",
+          "1,597",
+          "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, pl"
+        ],
+        [
+          {
+            "text": "obra/superpowers",
+            "url": "https://github.com/obra/superpowers"
+          },
+          "Shell",
+          "854",
+          "An agentic skills framework & software development methodology that works."
+        ],
+        [
+          {
+            "text": "HKUDS/CLI-Anything",
+            "url": "https://github.com/HKUDS/CLI-Anything"
+          },
+          "Python",
+          "746",
+          "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+        ],
+        [
+          {
+            "text": "jingyaogong/minimind",
+            "url": "https://github.com/jingyaogong/minimind"
+          },
+          "Python",
+          "702",
+          "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours."
+        ],
+        [
+          {
+            "text": "cursor/plugins",
+            "url": "https://github.com/cursor/plugins"
+          },
+          "TypeScript",
+          "270",
+          "Cursor plugin specification and official plugins"
+        ],
+        [
+          {
+            "text": "firecrawl/firecrawl",
+            "url": "https://github.com/firecrawl/firecrawl"
+          },
+          "TypeScript",
+          "1,046",
+          "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "Marvisak/VIctory",
+            "url": "https://github.com/Marvisak/VIctory"
+          },
+          "Rust",
+          "13392",
+          "An attempt at running GTA VI on PC"
+        ],
+        [
+          {
+            "text": "4lwayz/portwatch-vi",
+            "url": "https://github.com/4lwayz/portwatch-vi"
+          },
+          "JavaScript",
+          "5878",
+          "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
+        ],
+        [
+          {
+            "text": "EL4CTEO/fast-anything",
+            "url": "https://github.com/EL4CTEO/fast-anything"
+          },
+          "Rust",
+          "4249",
+          "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same."
+        ],
+        [
+          {
+            "text": "fxceless/victory-fork",
+            "url": "https://github.com/fxceless/victory-fork"
+          },
+          "Rust",
+          "3284",
+          "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files."
+        ],
+        [
+          {
+            "text": "Belobug/VIctory-Belobug-AMD",
+            "url": "https://github.com/Belobug/VIctory-Belobug-AMD"
+          },
+          "Rust",
+          "3074",
+          "未提供"
+        ],
+        [
+          {
+            "text": "ubiquitarianism/leonida",
+            "url": "https://github.com/ubiquitarianism/leonida"
+          },
+          "Python",
+          "2536",
+          "A continuation of Leonida, the Xbox > PC port interface for GTA VI"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-11-27 · 320 互动/积分 · 167 评论",
+          "title": "AI made self-hosting fun again",
+          "url": "https://janlukas.blog/posts/ai-self-hosting"
+        },
+        {
+          "meta": "发布 2026-11-27 · 288 互动/积分 · 70 评论",
+          "title": "AMD-specific fork of llama.cpp",
+          "url": "https://devnull.land/amd-specific-llama-cpp"
+        },
+        {
+          "meta": "发布 2026-11-26 · 245 互动/积分 · 207 评论",
+          "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+        },
+        {
+          "meta": "发布 2026-11-27 · 28 互动/积分 · 3 评论",
+          "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-11-26",
+          "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+          "url": "https://arxiv.org/abs/2611.34942v1"
+        },
+        {
+          "meta": "发布 2026-11-26",
+          "title": "Tokenisation is not in APX",
+          "url": "https://arxiv.org/abs/2611.34938v1"
+        },
+        {
+          "meta": "发布 2026-11-26",
+          "title": "Can image generation help visual reasoning? An empirical study",
+          "url": "https://arxiv.org/abs/2611.34935v1"
+        },
+        {
+          "meta": "发布 2026-11-26",
+          "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+          "url": "https://arxiv.org/abs/2611.34934v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-11-26",
+          "title": "SuperLoupe",
+          "url": "https://www.producthunt.com/products/superloupe"
+        },
+        {
+          "meta": "发布 2026-11-26",
+          "title": "Pax by Pydantic",
+          "url": "https://www.producthunt.com/products/pydantic"
+        },
+        {
+          "meta": "发布 2026-11-24",
+          "title": "Bifura",
+          "url": "https://www.producthunt.com/products/bifura"
+        },
+        {
+          "meta": "发布 2026-11-03",
+          "title": "ExtraOrbital",
+          "url": "https://www.producthunt.com/products/extraorbital-deleted-1365752"
+        },
+        {
+          "meta": "发布 2026-11-25",
+          "title": "Hub",
+          "url": "https://www.producthunt.com/products/hub-20"
+        },
+        {
+          "meta": "发布 2026-11-25",
+          "title": "NEXUS",
+          "url": "https://www.producthunt.com/products/nexus-42"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: Z.ai's 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs' distillation curbs",
+          "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown",
+          "url": "https://scottaaronson.blog/?p=10379"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD",
+          "url": "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-11-27T10:08:53+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-11-27T10:08:53+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-27T10:08:53+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-11-27T10:08:53+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-27T10:08:53+08:00",
+      "id": "hacker-news",
+      "itemCount": 4,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-11-27T10:08:53+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-27T10:08:53+08:00",
+      "id": "arxiv",
+      "itemCount": 6,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": "2026-11-27T10:08:53+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-27T10:08:53+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-11-27T10:08:53+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-27T10:08:53+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-11-27T10:08:53+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-27T10:08:55+08:00",
+      "id": "techmeme",
+      "itemCount": 4,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-11-27T10:08:55+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-27T10:08:53+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 0,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": null,
+      "message": "官方日榜结构发生变化，已停止该来源",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-11-27T10:08:01+08:00",
+      "id": "wechat-appso",
+      "itemCount": 1,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-11-27T10:08:01+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-27T10:08:01+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 1,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-11-27T10:08:01+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-11-27T10:08:01+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-11-27T10:08:01+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-11-27T10:08:01+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 1,
+      "label": "花叔",
+      "lastSuccessAt": "2026-11-27T10:08:01+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}
